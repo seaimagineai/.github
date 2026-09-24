@@ -18,25 +18,35 @@
 
 ## Crea con SeaImagine
 
-SeaImagine è una piattaforma online per creare immagini e video con l’IA, pensata per creatori, designer e piccoli team. Parti da un testo o da un’immagine di riferimento, prova un modello e perfeziona la scena.
+SeaImagine è una piattaforma online per creare immagini e video con l’IA, pensata per creator, designer e piccoli team. Parti da un’idea scritta, una foto di prodotto o un riferimento per un personaggio, poi scegli un percorso di creazione di immagini o video per svilupparla. Puoi esplorare un’immagine per una campagna, preparare una breve storia o provare una nuova direzione per un post sui social.
 
-## Impara adattando gli esempi
+Questa organizzazione GitHub è la biblioteca didattica che accompagna la piattaforma: esempi illustrati, prompt riutilizzabili e analisi di video con link alle fonti, da consultare prima di creare. Usa il sito per realizzare i tuoi lavori e questi repository per capire come descrivere una scena: cosa resta nell’inquadratura, cosa si muove, come si comporta la camera e quando cambia il suono.
 
-Condividiamo raccolte di prompt per mostrare come combinare soggetto, movimenti di camera, tempi e suono. Esplora un esempio illustrato, copia il prompt e modifica un elemento alla volta.
+## Perché condividiamo i nostri processi creativi
+
+Un prompt utile rende esplicite le scelte creative. Una scena è più facile da capire quando immagine di riferimento, azione, tempi e suono vengono presentati insieme. Le nostre raccolte riuniscono questi materiali per mostrare come un’idea diventa un insieme di indicazioni di regia.
+
+- **Riferimenti visivi.** I casi illustrati e i fotogrammi iniziali danno un contesto concreto alla scena scritta.
+- **Prompt da conservare.** I testi completi e gli esempi scaricabili offrono un punto di partenza per i tuoi appunti di lavoro.
+- **Fonti da esplorare.** Gli esempi ufficiali e della community con attribuzione permettono di risalire all’opera originale e comprenderne il contesto.
+
+Accogliamo miglioramenti alle traduzioni, spiegazioni più chiare e nuovi esempi. Condividere le decisioni alla base di una scena rende la raccolta più utile al prossimo creator.
 
 ## Esplora le raccolte di prompt
 
 Le immagini sono le copertine delle raccolte di prompt. Fai clic per consultare esempi e fonti.
 
-Le lingue dei prompt variano tra le raccolte. Consulta la documentazione di ogni progetto.
+Le presentazioni sono disponibili in 15 lingue. Le lingue dei prompt e gli esempi tradotti variano da un repository all’altro; ogni raccolta specifica la propria copertura.
 
 ### [Gemini Omni](https://github.com/seaimagineai/awesome-gemini-omni-prompts/blob/main/README_IT.md)
 
 [![Gemini Omni](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/gemini-omni.png)](https://github.com/seaimagineai/awesome-gemini-omni-prompts/blob/main/README_IT.md)
 
-Una raccolta video multimodale con indice per categorie, primi fotogrammi di riferimento e prompt riutilizzabili, con esempi ufficiali e della comunità corredati dalle fonti.
+Un buon punto di partenza per passare dalla narrazione ai filmati di prodotto e a un montaggio video più intenzionale. Esplora categorie come cinema, commercio, scene documentarie, animazione, controllo della camera e mondi in miniatura, poi apri un esempio vicino alla tua idea.
 
-**Utile per:** Narrazione, brevi video di prodotto e montaggio
+La raccolta combina fotogrammi iniziali di riferimento, prompt completi e analisi di esempi ufficiali o della community con indicazione delle fonti. Scopri come un’inquadratura si sviluppa nel tempo, cosa deve rimanere coerente e come il suono sostiene l’azione. In «Amber perfume / mechanical eclipse», un flacone resta fermo mentre un anello di rame e una fetta di agrume cambiano la luce intorno a esso: un esercizio concreto per distinguere la stabilità del prodotto dal movimento dello sfondo.
+
+**Utile per:** Creator che progettano scene narrative, brevi video di prodotto o esperimenti di montaggio e vogliono studiare un’inquadratura nei dettagli.
 
 [![Sfoglia gli esempi](https://img.shields.io/badge/Gemini%20Omni-Sfoglia%20gli%20esempi-7c3aed?style=for-the-badge)](https://github.com/seaimagineai/awesome-gemini-omni-prompts/blob/main/README_IT.md) [![Crea con questo modello](https://img.shields.io/badge/SeaImagine-Crea%20con%20questo%20modello-181717?style=for-the-badge)](https://seaimagine.com/it/model/gemini-omni-1-1-flash/)
 
@@ -44,9 +54,11 @@ Una raccolta video multimodale con indice per categorie, primi fotogrammi di rif
 
 [![Grok Imagine 1.5](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/grok-imagine.webp)](https://github.com/seaimagineai/awesome-grok-imagine-prompts/blob/main/README.it-IT.md)
 
-Prompt video, esempi illustrati e testi scaricabili suddivisi per tema: movimenti di camera, personaggi, prodotti e suono.
+Esplora prompt basati su scene per presentazioni di prodotto, video social, interazioni tra personaggi e ambienti di fantasia. L’indice tematico ti accompagna da un’idea generale a un caso illustrato, mentre i testi scaricabili permettono di copiare facilmente un prompt nei tuoi appunti di lavoro.
 
-**Utile per:** Video social, presentazioni di prodotti e inquadrature di personaggi
+Gli esempi curano il movimento oltre all’aspetto visivo: il percorso della camera, il ritmo di un’azione, la continuità dell’inquadratura e i suoni propri della scena. Per uno studio preciso del prodotto, prova il caso della bottiglia in vetro levigato dal mare. Per una sfida diversa, «The Last Tooth» esplora un duetto di orologiai: segui il dialogo e la relazione spaziale tra i due personaggi all’interno della stessa scena.
+
+**Utile per:** Creator per i social e designer in cerca di esempi riutilizzabili di prodotti, personaggi e movimenti di camera.
 
 [![Sfoglia gli esempi](https://img.shields.io/badge/Grok%20Imagine%201.5-Sfoglia%20gli%20esempi-7c3aed?style=for-the-badge)](https://github.com/seaimagineai/awesome-grok-imagine-prompts/blob/main/README.it-IT.md) [![Crea con questo modello](https://img.shields.io/badge/SeaImagine-Crea%20con%20questo%20modello-181717?style=for-the-badge)](https://seaimagine.com/it/model/grok-imagine-1-5/)
 
@@ -54,9 +66,11 @@ Prompt video, esempi illustrati e testi scaricabili suddivisi per tema: moviment
 
 [![Seedance 2.5](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/seedance.jpg)](https://github.com/seaimagineai/awesome-seedance-2-5-prompts/blob/main/README_IT.md)
 
-Una raccolta per la creazione video con esempi della comunità, link alle fonti e prompt per ogni inquadratura.
+Usa questa raccolta per imparare dai video e trasformare un’idea in una sequenza di istruzioni di regia chiare. Clip della community, link alle fonti e prompt suddivisi per inquadratura offrono spunti per pubblicità, scene cinematografiche e brevi storie costruite intorno a un’immagine di riferimento.
 
-**Utile per:** Pubblicità, pianificazione delle inquadrature e corti basati su immagini di riferimento
+Leggi un esempio insieme al suo prompt e chiediti cosa aggiunge ogni parte: composizione iniziale, azione principale, posizione della camera e fotogramma finale. Inizia da un breve passaggio di un oggetto di scena per studiare una sola azione, oppure apri gli esempi del diario di viaggio e della rivelazione del palco per esaminare come più inquadrature formano una sequenza. Il repository include anche esempi ufficiali e indicazioni illustrate per collegare ciò che guardi a ciò che scrivi.
+
+**Utile per:** Creator che preferiscono imparare guardando riferimenti e suddividendo idee pubblicitarie o narrative in singole inquadrature.
 
 [![Sfoglia gli esempi](https://img.shields.io/badge/Seedance%202.5-Sfoglia%20gli%20esempi-7c3aed?style=for-the-badge)](https://github.com/seaimagineai/awesome-seedance-2-5-prompts/blob/main/README_IT.md) [![Crea con questo modello](https://img.shields.io/badge/SeaImagine-Crea%20con%20questo%20modello-181717?style=for-the-badge)](https://seaimagine.com/it/model/seedance-2-5/)
 
@@ -64,22 +78,24 @@ Una raccolta per la creazione video con esempi della comunità, link alle fonti 
 
 | Crea su SeaImagine | Utile per |
 | --- | --- |
-| **[Da testo a video](https://seaimagine.com/it/text-to-video/)** | Descrivi una scena per trasformarla in video. |
-| **[Da immagine a video](https://seaimagine.com/it/image-to-video/)** | Dai movimento a un’immagine di riferimento. |
-| **[Creazione di immagini](https://seaimagine.com/it/ai-image-generator/)** | Crea immagini per una storia o un prodotto. |
-| **[Modifica delle foto](https://seaimagine.com/it/ai-photo-editor/)** | Modifica e perfeziona un’immagine esistente. |
+| **[Da testo a video](https://seaimagine.com/it/text-to-video/)** | Inizia senza un’immagine di riferimento. Descrivi soggetto, ambientazione, azione e movimento della camera per una breve scena o un’idea narrativa. |
+| **[Da immagine a video](https://seaimagine.com/it/image-to-video/)** | Parti da una composizione esistente, come una foto di prodotto o un’immagine di un personaggio. Descrivi cosa deve muoversi e cosa deve restare coerente. |
+| **[Creazione di immagini](https://seaimagine.com/it/ai-image-generator/)** | Esplora una direzione visiva per una storia, un prodotto o una campagna, oppure prepara un’immagine di riferimento prima di progettare un video. |
+| **[Modifica delle foto](https://seaimagine.com/it/ai-photo-editor/)** | Rielabora un’immagine esistente per la tua prossima idea. Scegli un percorso di modifica disponibile e spiega quali cambiamenti vuoi apportare. |
 
 [![Visita SeaImagine](https://img.shields.io/badge/SeaImagine-Visita%20SeaImagine-7c3aed?style=for-the-badge)](https://seaimagine.com/it/create/)
 
 ## Inizia da un esempio
 
-1. Scegli un esempio e copia il prompt.
-2. Seleziona un modello su SeaImagine e inserisci il testo o carica un’immagine di riferimento.
-3. Controlla la coerenza del soggetto, la camera e il suono. Cambia una condizione alla volta.
+1. **Scegli una scena e studiane gli elementi.** Apri una raccolta pertinente, leggi l’esempio e copia il prompt. Individua soggetto, composizione iniziale, movimento e conclusione prima di apportare modifiche.
+2. **Prepara i tuoi materiali.** Scegli un modello su SeaImagine e inserisci il testo adattato oppure carica un’immagine di riferimento. Controlla le impostazioni disponibili, i requisiti di input e il costo d’uso attuale del modello scelto.
+3. **Esamina il risultato, poi cambia un elemento.** Confrontalo con la composizione, la coerenza del soggetto e il movimento della camera desiderati; verifica il suono se il percorso scelto lo supporta. Conserva prompt, materiali di input e impostazioni insieme al risultato per poter ripetere un approccio utile.
 
 ## Condividi ciò che impari
 
-Poni domande nel repository pertinente, migliora una traduzione o proponi un esempio con prompt, impostazioni e fonte. Consulta la licenza di ogni repository prima di usarne i contenuti.
+Un contributo utile aiuta il prossimo lettore a capire e riprodurre un’idea. Apri una issue nel repository pertinente per fare una domanda o segnalare un riferimento non funzionante; proponi traduzioni più chiare o condividi un caso che introduca un diverso approccio creativo.
+
+Per un nuovo esempio, includi il prompt, le impostazioni pertinenti, la fonte dei materiali di riferimento e una breve spiegazione di ciò che hai imparato. Se modifichi i file del repository, invia una pull request per consentire la revisione delle modifiche. Prima di riutilizzare i contenuti, consulta la licenza di ogni repository e le condizioni d’uso del materiale originale.
 
 [Gemini Omni](https://github.com/seaimagineai/awesome-gemini-omni-prompts/issues) · [Grok Imagine 1.5](https://github.com/seaimagineai/awesome-grok-imagine-prompts/issues) · [Seedance 2.5](https://github.com/seaimagineai/awesome-seedance-2-5-prompts/issues)
 

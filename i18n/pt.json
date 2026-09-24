@@ -6,21 +6,21 @@
   "current": "Atual",
   "view": "Ver",
   "intro_title": "Crie com SeaImagine",
-  "intro": "SeaImagine é uma plataforma online de criação de imagens e vídeos com IA para criadores, designers e pequenas equipes. Comece com texto ou uma imagem de referência, experimente um modelo e refine sua cena.",
-  "why_title": "Aprenda adaptando exemplos",
-  "why": "Compartilhamos bibliotecas de prompts para mostrar como combinar o assunto, os movimentos de câmera, o ritmo e o som. Explore um exemplo ilustrado, copie o prompt e ajuste um elemento por vez.",
+  "intro": "SeaImagine é uma plataforma online de criação de imagens e vídeos com IA para criadores, designers e pequenas equipes. Comece com uma ideia escrita, uma foto de produto ou uma referência de personagem e escolha um processo de criação de imagem ou vídeo para desenvolvê-la. Você pode explorar um visual de campanha, planejar uma história curta ou experimentar uma nova direção para uma publicação nas redes sociais.\n\nEsta organização no GitHub é a biblioteca de aprendizagem que acompanha a plataforma: exemplos ilustrados, prompts reutilizáveis e análises de vídeos com links para as fontes, que você pode consultar antes de criar. Use o site para produzir seus trabalhos e estes repositórios para entender como descrever uma cena: o que permanece no enquadramento, o que se move, como a câmera se comporta e quando o som muda.",
+  "why_title": "Por que compartilhamos nossos processos criativos",
+  "why": "Um prompt útil torna as decisões criativas explícitas. Uma cena fica mais fácil de entender quando a imagem de referência, a ação, os tempos e o som são apresentados juntos. Nossas bibliotecas reúnem esses materiais para mostrar como uma ideia se transforma em instruções de direção.\n\n- **Referências visuais.** Os casos ilustrados e os quadros iniciais dão um contexto concreto à cena escrita.\n- **Prompts para guardar.** Textos completos e exemplos para download oferecem um ponto de partida para suas próprias anotações de trabalho.\n- **Fontes para explorar.** Exemplos oficiais e da comunidade com atribuição permitem consultar o trabalho original e entender seu contexto.\n\nSão bem-vindas melhorias nas traduções, explicações mais claras e novos exemplos. Compartilhar as decisões por trás de uma cena torna a coleção mais útil para o próximo criador.",
   "projects_title": "Explore as bibliotecas de prompts",
   "best_for": "Útil para:",
   "browse": "Ver exemplos",
   "project_descriptions": [
-    "Biblioteca de vídeo multimodal com índice por categoria, primeiros quadros de referência e prompts reutilizáveis. Inclui exemplos oficiais e da comunidade com suas fontes.",
-    "Prompts de vídeo, exemplos ilustrados e textos para download organizados por tema: câmera, personagens, produtos e som.",
-    "Biblioteca de criação de vídeo com exemplos da comunidade, links para as fontes e prompts para cada plano."
+    "Um bom ponto de partida para alternar entre narrativas, filmes de produto e uma edição de vídeo mais planejada. Explore categorias como cinema, comércio, cenas documentais, animação, controle de câmera e mundos em miniatura; depois abra um exemplo próximo da sua ideia.\n\nA biblioteca combina primeiros quadros de referência, prompts completos e análises de exemplos oficiais ou da comunidade com atribuição das fontes. Leia como um plano evolui ao longo do tempo, o que deve manter a continuidade e como o som apoia a ação. Em “Amber perfume / mechanical eclipse”, um frasco permanece fixo enquanto um anel de cobre e uma fatia de fruta cítrica mudam a luz ao redor dele: um exercício concreto para separar a estabilidade do produto do movimento do fundo.",
+    "Explore prompts baseados em cenas para apresentar produtos, criar vídeos sociais, mostrar interações entre personagens e construir ambientes imaginativos. O índice por temas leva você de uma ideia geral a um caso ilustrado, e os textos para download facilitam copiar um prompt para suas anotações de trabalho.\n\nOs exemplos dão atenção ao movimento e à aparência: o percurso da câmera, o ritmo de uma ação, a continuidade do plano e os sons próprios da cena. Para um estudo preciso de produto, experimente o caso da garrafa de vidro polido pelo mar. Para um desafio diferente, “The Last Tooth” explora um dueto de relojoeiros: acompanhe o diálogo e a relação espacial entre os dois personagens dentro de uma mesma cena.",
+    "Use esta coleção para aprender com vídeos e transformar uma ideia em uma sequência de instruções claras de direção. Clipes da comunidade, links para as fontes e prompts divididos por planos oferecem caminhos para publicidade, cenas cinematográficas e histórias curtas construídas a partir de uma imagem de referência.\n\nEstude um exemplo ao lado de seu prompt e pergunte o que cada parte acrescenta: a composição inicial, a ação principal, a posição da câmera e o quadro final. Comece com uma breve passagem de um objeto de cena para estudar uma ação, ou abra os exemplos do diário de viagem e da revelação de um palco para examinar como vários planos formam uma sequência. O repositório também inclui exemplos oficiais e orientações ilustradas para ajudar a relacionar o que você vê com o que escreve."
   ],
   "project_audiences": [
-    "Narrativas, vídeos curtos de produtos e edição de vídeo",
-    "Vídeos para redes sociais, apresentação de produtos e planos de personagens",
-    "Publicidade, planejamento de planos e curtas baseados em imagens de referência"
+    "Criadores que planejam cenas narrativas, vídeos curtos de produto ou experimentos de edição e querem estudar um plano em detalhes.",
+    "Criadores para redes sociais e designers que procuram exemplos reutilizáveis de produtos, personagens e movimentos de câmera.",
+    "Criadores que preferem aprender assistindo a referências e dividindo ideias de publicidade ou histórias em planos individuais."
   ],
   "image_note": "As imagens são capas das bibliotecas de prompts. Clique para consultar os exemplos e suas fontes.",
   "tools_title": "Crie no SeaImagine",
@@ -31,20 +31,20 @@
     "Edição de fotos"
   ],
   "tool_uses": [
-    "Descreva uma cena para gerar um vídeo.",
-    "Dê movimento a uma imagem de referência.",
-    "Crie imagens para uma história ou produto.",
-    "Modifique e refine uma imagem existente."
+    "Comece sem uma imagem de referência. Descreva o assunto, o cenário, a ação e o movimento de câmera para uma cena curta ou uma ideia de história.",
+    "Parta de uma composição existente, como uma foto de produto ou uma imagem de personagem. Descreva o que deve se mover e o que deve permanecer consistente.",
+    "Explore uma direção visual para uma história, um produto ou uma campanha, ou prepare uma imagem de referência antes de planejar um vídeo.",
+    "Ajuste uma imagem existente para sua próxima ideia. Escolha um processo de edição disponível e explique as mudanças que deseja fazer."
   ],
   "start_title": "Comece com um exemplo",
   "steps": [
-    "Escolha um exemplo e copie o prompt.",
-    "Selecione um modelo no SeaImagine e digite um texto ou envie uma imagem de referência.",
-    "Confira a consistência do assunto, a câmera e o som. Mude uma condição por vez."
+    "**Escolha uma cena e estude seus componentes.** Abra uma biblioteca relevante, leia o exemplo e copie o prompt. Identifique o assunto, a composição inicial, o movimento e o final antes de fazer alterações.",
+    "**Prepare seus próprios materiais.** Escolha um modelo no SeaImagine e insira seu texto adaptado ou envie uma imagem de referência. Confira as configurações disponíveis, os requisitos de entrada e o custo de uso atual do modelo escolhido.",
+    "**Revise o resultado e altere uma coisa.** Compare-o com a composição, a consistência do assunto e o movimento de câmera desejados; confira o som quando o processo escolhido oferecer esse recurso. Salve o prompt, os materiais de entrada e as configurações junto ao resultado para poder repetir uma abordagem útil."
   ],
   "contribute_title": "Compartilhe o que aprendeu",
-  "contribute": "Faça perguntas no repositório correspondente, melhore uma tradução ou contribua com um exemplo que inclua prompt, configurações e fonte. Consulte a licença de cada repositório antes de usar seu conteúdo.",
+  "contribute": "Uma contribuição útil ajuda o próximo leitor a entender e reproduzir uma ideia. Abra uma issue no repositório correspondente para fazer uma pergunta ou informar uma referência quebrada; sugira traduções mais claras ou compartilhe um caso que apresente outra abordagem criativa.\n\nPara um novo exemplo, inclua o prompt, as configurações relevantes, a fonte de qualquer material de referência e uma breve explicação do que aprendeu. Se alterar arquivos do repositório, envie uma pull request para que as mudanças possam ser revisadas. Antes de reutilizar conteúdo, confira a licença de cada repositório e as condições de uso dos materiais originais.",
   "footer": "Comece com um plano e compartilhe métodos úteis com outros criadores.",
   "try_model": "Criar com este modelo",
-  "prompt_languages": "Os idiomas dos prompts variam entre as bibliotecas. Consulte a documentação de cada projeto."
+  "prompt_languages": "As apresentações estão disponíveis em 15 idiomas. Os idiomas dos prompts e os exemplos traduzidos variam conforme o repositório; cada biblioteca explica sua própria cobertura."
 }

@@ -18,25 +18,35 @@
 
 ## 用 SeaImagine 开始创作
 
-SeaImagine 是面向创作者、设计师和小型团队的在线 AI 图像与视频创作平台。从文字或参考图出发，尝试不同模型，逐步调整画面。
+SeaImagine 是面向创作者、设计师和小型团队的在线 AI 图片与视频创作平台。你可以从一句创意描述、一张产品照片或一幅角色参考图出发，选择合适的图片或视频工具，尝试广告画面、故事短片和社交内容的不同表达。
 
-## 从案例中学会调整
+这里的 GitHub 资料库为创作提供另一种帮助：通过图文案例、可复制的提示词和附带来源的视频解析，让你在动手前看懂一个镜头是怎样设计的。官网用于制作自己的作品，资料库则帮助你思考画面里保留什么、什么应该移动、镜头怎样拍，以及声音何时出现。
 
-我们分享提示词资料库，帮助创作者理解主体、镜头运动、时间安排与声音如何配合。先看图文案例，复制提示词，再一次调整一个要素。
+## 为什么分享这些创作方法
+
+有用的提示词会把创作选择讲清楚。把参考画面、动作、时间安排和声音放在一起看，才更容易理解一个场景。这些资料库把相关材料整理在一起，帮助你看懂一个想法如何变成镜头说明。
+
+- **可以对照的画面。** 图文案例和参考首帧，让文字描述有具体的场景可看。
+- **可以留存的提示词。** 完整文本与可下载的案例，方便整理成自己的创作笔记。
+- **可以继续探索的来源。** 附有出处的官方与社区案例，让你能找到原作，了解它的背景。
+
+也欢迎你改进翻译、补充更清楚的解释或分享新的案例。把一个镜头背后的选择说清楚，就能帮助下一位创作者少走一点弯路。
 
 ## 探索提示词资料库
 
 图片为提示词资料库封面，点击进入查看案例和来源。
 
-各资料库的提示词语言有所不同，请查看对应项目的说明。
+组织首页提供 15 种语言。各资料库的提示词语言和翻译范围不同，进入项目后可查看具体说明。
 
 ### [Gemini Omni](https://github.com/seaimagineai/awesome-gemini-omni-prompts/blob/main/README_ZH.md)
 
 [![Gemini Omni](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/gemini-omni.png)](https://github.com/seaimagineai/awesome-gemini-omni-prompts/blob/main/README_ZH.md)
 
-带分类索引、参考首帧与可复制提示词的多模态视频资料库，包含有出处的官方与社区案例。
+如果你想在故事叙述、产品短片和视频编辑之间寻找思路，可以从这里开始。资料按电影叙事、商业内容、纪录场景、动画、镜头控制、微缩世界等主题整理，方便你先选方向，再进入具体案例。
 
-**适合创作：** 叙事、产品短片和视频编辑
+库内结合了参考首帧、完整提示词，以及附带出处的官方与社区案例。你可以观察一个镜头如何随时间推进、哪些细节需要保持一致，以及声音怎样配合动作。例如“琥珀香水：机械柑橘日蚀”案例，让瓶身保持不动，由铜环和柑橘切片改变周围光影，很适合学习如何分别安排产品与背景的运动。
+
+**适合：** 希望细看镜头设计，尝试叙事、产品短片或视频编辑的创作者。
 
 [![浏览案例](https://img.shields.io/badge/Gemini%20Omni-%E6%B5%8F%E8%A7%88%E6%A1%88%E4%BE%8B-7c3aed?style=for-the-badge)](https://github.com/seaimagineai/awesome-gemini-omni-prompts/blob/main/README_ZH.md) [![使用这个模型创作](https://img.shields.io/badge/SeaImagine-%E4%BD%BF%E7%94%A8%E8%BF%99%E4%B8%AA%E6%A8%A1%E5%9E%8B%E5%88%9B%E4%BD%9C-181717?style=for-the-badge)](https://seaimagine.com/cn/model/gemini-omni-1-1-flash/)
 
@@ -44,9 +54,11 @@ SeaImagine 是面向创作者、设计师和小型团队的在线 AI 图像与�
 
 [![Grok Imagine 1.5](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/grok-imagine.webp)](https://github.com/seaimagineai/awesome-grok-imagine-prompts/blob/main/README.zh-CN.md)
 
-按主题分类的视频提示词、图文案例和可下载文本，涵盖镜头运动、角色、产品与声音。
+围绕产品展示、社交短片、角色互动和想象场景整理视频提示词。分类索引帮助你从一个大致想法找到对应的图文案例，可下载的文本也方便复制到自己的创作笔记中。
 
-**适合创作：** 社交视频、产品展示和角色镜头
+这些案例既描述画面，也说明运动：镜头沿什么路径移动、动作以怎样的节奏发生、前后细节如何保持一致，以及场景里应出现哪些声音。想练产品镜头，可以从海玻璃瓶案例开始；想尝试人物互动，可以看“最后一枚齿轮”的钟表修复师双人对白，观察台词与两个人的位置关系怎样安排。
+
+**适合：** 需要积累产品、角色及镜头运动案例的社交内容创作者和设计师。
 
 [![浏览案例](https://img.shields.io/badge/Grok%20Imagine%201.5-%E6%B5%8F%E8%A7%88%E6%A1%88%E4%BE%8B-7c3aed?style=for-the-badge)](https://github.com/seaimagineai/awesome-grok-imagine-prompts/blob/main/README.zh-CN.md) [![使用这个模型创作](https://img.shields.io/badge/SeaImagine-%E4%BD%BF%E7%94%A8%E8%BF%99%E4%B8%AA%E6%A8%A1%E5%9E%8B%E5%88%9B%E4%BD%9C-181717?style=for-the-badge)](https://seaimagine.com/cn/model/grok-imagine-1-5/)
 
@@ -54,32 +66,36 @@ SeaImagine 是面向创作者、设计师和小型团队的在线 AI 图像与�
 
 [![Seedance 2.5](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/seedance.jpg)](https://github.com/seaimagineai/awesome-seedance-2-5-prompts/blob/main/README_ZH.md)
 
-含社区视频案例、来源链接和分镜提示词的视频创作资料库。
+适合希望边看视频、边学习如何写镜头指令的创作者。社区视频、来源链接和分镜提示词，为广告、电影感场景及基于参考图的短故事提供不同的学习入口。
 
-**适合创作：** 广告、镜头调度和以参考图制作的短片
+把案例和提示词放在一起看，留意开场构图、主要动作、机位和最后一帧各自起到什么作用，可以先从简短的物件交接研究一个动作，再看旅行日记或舞台反转案例，学习几个镜头怎样连成一段故事。库内还整理了官方案例与图文说明，帮助你把“看到了什么”转成“应该怎样描述”。
+
+**适合：** 喜欢通过观看参考视频，把广告或故事创意拆成具体镜头的创作者。
 
 [![浏览案例](https://img.shields.io/badge/Seedance%202.5-%E6%B5%8F%E8%A7%88%E6%A1%88%E4%BE%8B-7c3aed?style=for-the-badge)](https://github.com/seaimagineai/awesome-seedance-2-5-prompts/blob/main/README_ZH.md) [![使用这个模型创作](https://img.shields.io/badge/SeaImagine-%E4%BD%BF%E7%94%A8%E8%BF%99%E4%B8%AA%E6%A8%A1%E5%9E%8B%E5%88%9B%E4%BD%9C-181717?style=for-the-badge)](https://seaimagine.com/cn/model/seedance-2-5/)
 
 ## 在 SeaImagine 上创作
 
-| 在 SeaImagine 上创作 | 适合创作 |
+| 在 SeaImagine 上创作 | 适合 |
 | --- | --- |
-| **[文字生成视频](https://seaimagine.com/cn/text-to-video/)** | 用文字描述生成视频镜头。 |
-| **[图片生成视频](https://seaimagine.com/cn/image-to-video/)** | 让静态参考图动起来。 |
-| **[图像创作](https://seaimagine.com/cn/ai-image-generator/)** | 为故事或产品制作图片。 |
-| **[照片编辑](https://seaimagine.com/cn/ai-photo-editor/)** | 修改和调整已有图片。 |
+| **[文字生成视频](https://seaimagine.com/cn/text-to-video/)** | 手上还没有参考图时，用文字说明主体、场景、动作和镜头运动，尝试一个短镜头或故事想法。 |
+| **[图片生成视频](https://seaimagine.com/cn/image-to-video/)** | 已有产品照片或角色图片时，从现有构图出发，描述哪些部分应该运动、哪些细节需要保持一致。 |
+| **[图像创作](https://seaimagine.com/cn/ai-image-generator/)** | 为故事、产品或宣传内容探索画面方向，也可以先准备参考图，再规划视频镜头。 |
+| **[照片编辑](https://seaimagine.com/cn/ai-photo-editor/)** | 围绕已有图片继续调整，选择可用的编辑工具，说明希望修改的内容。 |
 
 [![访问 SeaImagine](https://img.shields.io/badge/SeaImagine-%E8%AE%BF%E9%97%AE%20SeaImagine-7c3aed?style=for-the-badge)](https://seaimagine.com/cn/create/)
 
 ## 从一个案例开始
 
-1. 选择案例并复制提示词。
-2. 在 SeaImagine 官网选择模型，输入文字或上传参考图。
-3. 检查主体一致性、镜头和声音，每次改一个条件。
+1. **先选一个场景，看懂它的组成。** 打开相关资料库，阅读案例并复制提示词。修改前，先找出主体、开场构图、主要动作和结尾。
+2. **准备自己的素材。** 在 SeaImagine 选择模型，输入改写后的文字或上传参考图，并查看该模型当前支持的设置、输入要求和使用费用。
+3. **检查结果，每次只改一处。** 对照预期检查构图、主体一致性和镜头运动；所选功能支持声音时，也检查声音。把提示词、输入素材和设置与结果一起保存，方便复用有效的方法。
 
 ## 分享你的创作经验
 
-欢迎在对应仓库提出问题、改进翻译，或提交附提示词、设置与来源的案例。使用前请查看各仓库的授权说明。
+有用的贡献能让下一位读者更容易理解和尝试一个想法。你可以在对应仓库提出问题、报告失效的来源链接、改进翻译，或补充一种不同的创作案例。
+
+提交新案例时，请附上提示词、相关设置、参考素材来源，以及你从中学到的经验。如果修改了仓库文件，可以发起修改请求（Pull Request），方便维护者审阅。复用内容前，请查看各仓库的许可证及原始素材的使用要求。
 
 [Gemini Omni](https://github.com/seaimagineai/awesome-gemini-omni-prompts/issues) · [Grok Imagine 1.5](https://github.com/seaimagineai/awesome-grok-imagine-prompts/issues) · [Seedance 2.5](https://github.com/seaimagineai/awesome-seedance-2-5-prompts/issues)
 

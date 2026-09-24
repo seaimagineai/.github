@@ -18,25 +18,35 @@
 
 ## Berkarya dengan SeaImagine
 
-SeaImagine adalah platform daring untuk membuat gambar dan video AI bagi kreator, desainer, dan tim kecil. Mulai dari teks atau gambar referensi, coba model, lalu sempurnakan adegan Anda.
+SeaImagine adalah platform daring untuk membuat gambar dan video dengan AI bagi kreator, desainer, dan tim kecil. Mulailah dari ide tertulis, foto produk, atau gambar referensi karakter, lalu pilih alur pembuatan gambar atau video untuk mengembangkannya. Anda bisa mencoba visual kampanye, merancang cerita pendek, atau mencari arah baru untuk unggahan media sosial.
 
-## Belajar dengan mengadaptasi contoh
+Organisasi GitHub ini menjadi pustaka belajar pendamping: contoh bergambar, prompt yang dapat digunakan kembali, dan ulasan video dengan tautan sumber untuk dibaca sebelum berkarya. Gunakan situs untuk membuat karya sendiri, dan repositori ini untuk memahami cara menjelaskan adegan—apa yang tetap ada dalam bingkai, apa yang bergerak, bagaimana kamera bekerja, dan kapan suara berubah.
 
-Kami membagikan pustaka prompt agar kreator memahami hubungan antara subjek, gerakan kamera, pengaturan waktu, dan suara. Lihat contoh bergambar, salin prompt, lalu ubah satu unsur setiap kali.
+## Mengapa kami membagikan proses kreatif
+
+Prompt yang berguna memperlihatkan keputusan kreatif dengan jelas. Adegan lebih mudah dipahami saat gambar referensi, aksi, pengaturan waktu, dan suara disajikan bersama. Pustaka kami menghimpun bahan-bahan ini agar Anda dapat melihat bagaimana ide berubah menjadi petunjuk penyutradaraan.
+
+- **Referensi visual.** Contoh bergambar dan bingkai awal memberi latar konkret bagi deskripsi tertulis.
+- **Prompt yang bisa disimpan.** Teks lengkap dan contoh yang dapat diunduh menjadi titik awal untuk catatan kerja Anda sendiri.
+- **Sumber untuk ditelusuri.** Contoh resmi dan komunitas dengan atribusi membantu Anda menemukan karya asli dan memahami konteksnya.
+
+Kami menyambut perbaikan terjemahan, penjelasan yang lebih jelas, dan contoh baru. Membagikan keputusan di balik suatu adegan membuat koleksi lebih berguna bagi kreator berikutnya.
 
 ## Jelajahi pustaka prompt
 
 Gambar ini adalah sampul pustaka prompt. Klik untuk melihat contoh dan sumbernya.
 
-Bahasa prompt berbeda-beda di tiap pustaka. Lihat dokumentasi masing-masing proyek.
+Halaman pengantar tersedia dalam 15 bahasa. Bahasa prompt dan cakupan contoh terjemahan berbeda antar repositori; setiap pustaka menjelaskan cakupannya sendiri.
 
 ### [Gemini Omni](https://github.com/seaimagineai/awesome-gemini-omni-prompts/blob/main/README_ID.md)
 
 [![Gemini Omni](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/gemini-omni.png)](https://github.com/seaimagineai/awesome-gemini-omni-prompts/blob/main/README_ID.md)
 
-Pustaka video multimodal dengan indeks kategori, bingkai awal referensi, dan prompt yang bisa disalin, serta contoh resmi dan komunitas dengan sumber yang jelas.
+Titik awal yang cocok saat Anda ingin menjelajahi penceritaan, film produk, dan penyuntingan video yang lebih terarah. Telusuri kategori seperti sinema, konten komersial, adegan dokumenter, animasi, kendali kamera, dan dunia miniatur, lalu buka contoh yang sesuai dengan ide Anda.
 
-**Cocok untuk:** Cerita, video pendek produk, dan penyuntingan video
+Pustaka ini memadukan bingkai awal referensi, prompt lengkap, serta ulasan contoh resmi atau komunitas dengan atribusi. Pelajari bagaimana sebuah shot berkembang, apa yang perlu tetap konsisten, dan bagaimana suara mendukung aksi. Dalam “Amber perfume / mechanical eclipse”, botol tetap diam sementara cincin tembaga dan irisan jeruk mengubah cahaya di sekelilingnya—latihan konkret untuk memisahkan kestabilan produk dari gerakan latar.
+
+**Cocok untuk:** Kreator yang merencanakan adegan naratif, video produk pendek, atau eksperimen penyuntingan dan ingin mempelajari shot secara terperinci.
 
 [![Lihat contoh](https://img.shields.io/badge/Gemini%20Omni-Lihat%20contoh-7c3aed?style=for-the-badge)](https://github.com/seaimagineai/awesome-gemini-omni-prompts/blob/main/README_ID.md) [![Buat dengan model ini](https://img.shields.io/badge/SeaImagine-Buat%20dengan%20model%20ini-181717?style=for-the-badge)](https://seaimagine.com/id/model/gemini-omni-1-1-flash/)
 
@@ -44,9 +54,11 @@ Pustaka video multimodal dengan indeks kategori, bingkai awal referensi, dan pro
 
 [![Grok Imagine 1.5](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/grok-imagine.webp)](https://github.com/seaimagineai/awesome-grok-imagine-prompts/blob/main/README.id-ID.md)
 
-Prompt video, contoh bergambar, dan teks yang bisa diunduh menurut topik: gerakan kamera, karakter, produk, dan suara.
+Jelajahi prompt berbasis adegan untuk presentasi produk, video sosial, interaksi karakter, dan lingkungan imajinatif. Indeks topik membantu Anda beralih dari ide umum ke contoh bergambar, sedangkan teks yang dapat diunduh memudahkan penyalinan prompt ke catatan kerja.
 
-**Cocok untuk:** Video media sosial, demonstrasi produk, dan adegan karakter
+Contoh-contohnya memperhatikan gerakan sekaligus tampilan: lintasan kamera, tempo aksi, kesinambungan dalam satu shot, dan suara yang sesuai dengan adegan. Untuk mempelajari produk secara terperinci, coba contoh botol kaca laut. Untuk tantangan berbeda, “The Last Tooth” menampilkan duet pembuat jam: amati dialog dua karakter dan posisi mereka satu sama lain dalam satu adegan.
+
+**Cocok untuk:** Kreator media sosial dan desainer yang mencari contoh produk, karakter, dan gerakan kamera untuk digunakan kembali.
 
 [![Lihat contoh](https://img.shields.io/badge/Grok%20Imagine%201.5-Lihat%20contoh-7c3aed?style=for-the-badge)](https://github.com/seaimagineai/awesome-grok-imagine-prompts/blob/main/README.id-ID.md) [![Buat dengan model ini](https://img.shields.io/badge/SeaImagine-Buat%20dengan%20model%20ini-181717?style=for-the-badge)](https://seaimagine.com/id/model/grok-imagine-1-5/)
 
@@ -54,9 +66,11 @@ Prompt video, contoh bergambar, dan teks yang bisa diunduh menurut topik: geraka
 
 [![Seedance 2.5](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/seedance.jpg)](https://github.com/seaimagineai/awesome-seedance-2-5-prompts/blob/main/README_ID.md)
 
-Pustaka pembuatan video berisi contoh dari komunitas, tautan sumber, dan prompt per pengambilan gambar.
+Gunakan koleksi ini untuk belajar dari contoh video dan mengubah ide menjadi rangkaian petunjuk penyutradaraan yang jelas. Klip komunitas, tautan sumber, dan prompt per shot menyediakan titik masuk untuk iklan, adegan sinematik, serta cerita pendek yang berangkat dari gambar referensi.
 
-**Cocok untuk:** Iklan, perencanaan pengambilan gambar, dan video pendek berbasis gambar referensi
+Baca contoh bersama prompt-nya dan perhatikan fungsi setiap bagian: komposisi pembuka, aksi utama, posisi kamera, dan bingkai terakhir. Mulailah dengan serah-terima benda yang singkat untuk mempelajari satu aksi, atau buka contoh catatan perjalanan dan pengungkapan panggung untuk melihat bagaimana beberapa shot membentuk rangkaian. Repositori ini juga memuat contoh resmi dan panduan bergambar untuk menghubungkan apa yang Anda tonton dengan apa yang Anda tulis.
+
+**Cocok untuk:** Kreator yang suka belajar dengan menonton referensi dan memecah ide iklan atau cerita menjadi shot tersendiri.
 
 [![Lihat contoh](https://img.shields.io/badge/Seedance%202.5-Lihat%20contoh-7c3aed?style=for-the-badge)](https://github.com/seaimagineai/awesome-seedance-2-5-prompts/blob/main/README_ID.md) [![Buat dengan model ini](https://img.shields.io/badge/SeaImagine-Buat%20dengan%20model%20ini-181717?style=for-the-badge)](https://seaimagine.com/id/model/seedance-2-5/)
 
@@ -64,22 +78,24 @@ Pustaka pembuatan video berisi contoh dari komunitas, tautan sumber, dan prompt 
 
 | Buat di SeaImagine | Cocok untuk |
 | --- | --- |
-| **[Teks menjadi video](https://seaimagine.com/id/text-to-video/)** | Deskripsikan adegan untuk membuat video. |
-| **[Gambar menjadi video](https://seaimagine.com/id/image-to-video/)** | Beri gerakan pada gambar referensi yang diam. |
-| **[Pembuatan gambar](https://seaimagine.com/id/ai-image-generator/)** | Buat gambar untuk cerita atau produk. |
-| **[Penyuntingan foto](https://seaimagine.com/id/ai-photo-editor/)** | Ubah dan sempurnakan gambar yang sudah ada. |
+| **[Teks menjadi video](https://seaimagine.com/id/text-to-video/)** | Mulai tanpa gambar referensi. Jelaskan subjek, latar, aksi, dan gerakan kamera untuk adegan pendek atau ide cerita. |
+| **[Gambar menjadi video](https://seaimagine.com/id/image-to-video/)** | Mulai dari komposisi yang sudah ada, seperti foto produk atau gambar karakter. Jelaskan apa yang harus bergerak dan apa yang perlu tetap konsisten. |
+| **[Pembuatan gambar](https://seaimagine.com/id/ai-image-generator/)** | Jelajahi arah visual untuk cerita, produk, atau kampanye, atau siapkan gambar referensi sebelum merencanakan video. |
+| **[Penyuntingan foto](https://seaimagine.com/id/ai-photo-editor/)** | Sempurnakan gambar yang sudah ada untuk ide berikutnya. Pilih alur penyuntingan yang tersedia dan jelaskan perubahan yang diinginkan. |
 
 [![Kunjungi SeaImagine](https://img.shields.io/badge/SeaImagine-Kunjungi%20SeaImagine-7c3aed?style=for-the-badge)](https://seaimagine.com/id/create/)
 
 ## Mulai dari satu contoh
 
-1. Pilih contoh dan salin prompt.
-2. Pilih model di SeaImagine, lalu masukkan teks atau unggah gambar referensi.
-3. Periksa konsistensi subjek, kamera, dan suara. Ubah satu kondisi setiap kali.
+1. **Pilih satu adegan dan pelajari unsur-unsurnya.** Buka pustaka yang sesuai, baca contoh, lalu salin prompt-nya. Kenali subjek, komposisi awal, gerakan, dan akhir sebelum mengubahnya.
+2. **Siapkan masukan Anda sendiri.** Pilih model di SeaImagine lalu masukkan teks yang telah disesuaikan atau unggah gambar referensi. Periksa pengaturan yang tersedia, persyaratan masukan, dan biaya penggunaan model saat ini.
+3. **Tinjau hasil, lalu ubah satu hal.** Bandingkan hasil dengan komposisi, konsistensi subjek, dan gerakan kamera yang diinginkan; periksa suara jika alur yang dipilih mendukungnya. Simpan prompt, masukan, dan pengaturan bersama hasil agar cara yang berguna dapat diulangi.
 
 ## Bagikan pengalaman Anda
 
-Ajukan pertanyaan di repositori terkait, perbaiki terjemahan, atau kirim contoh beserta prompt, pengaturan, dan sumbernya. Periksa lisensi tiap repositori sebelum menggunakan isinya.
+Kontribusi yang berguna membantu pembaca berikutnya memahami dan mencoba kembali sebuah ide. Buka Issue di repositori terkait untuk bertanya atau melaporkan tautan referensi yang rusak; usulkan terjemahan yang lebih jelas atau bagikan contoh dengan pendekatan kreatif berbeda.
+
+Untuk contoh baru, sertakan prompt, pengaturan terkait, sumber bahan referensi, dan penjelasan singkat tentang hal yang dipelajari. Jika mengubah berkas repositori, kirim permintaan perubahan (Pull Request) agar dapat ditinjau. Sebelum menggunakan kembali konten, periksa lisensi masing-masing repositori dan ketentuan penggunaan bahan sumber.
 
 [Gemini Omni](https://github.com/seaimagineai/awesome-gemini-omni-prompts/issues) · [Grok Imagine 1.5](https://github.com/seaimagineai/awesome-grok-imagine-prompts/issues) · [Seedance 2.5](https://github.com/seaimagineai/awesome-seedance-2-5-prompts/issues)
 

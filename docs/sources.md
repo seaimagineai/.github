@@ -29,3 +29,7 @@
 普通徽章沿用 Shields.io。包含泰语、阿拉伯语的徽章由 `scripts/build_profile.py` 生成本地 SVG，保留灰色标签区、紫色或黑色操作区，以及绿色当前语言标记。使用原生文字排版，避免外部徽章服务将这些文字逐字符拉开。徽章文件与正文一起检查是否与生成源一致。
 
 模型入口的 45 条语言地址核验见 [model-link-checks.json](../data/model-link-checks.json)。
+
+## 扩写中的案例依据
+
+项目介绍所述案例分别来自 [Gemini Omni 香水案例](https://github.com/seaimagineai/awesome-gemini-omni-prompts#example-02)、[Grok 钟表修复师双人对白](https://github.com/seaimagineai/awesome-grok-imagine-prompts#case-clockwork-dialogue)及 [Seedance 社区案例入口](https://github.com/seaimagineai/awesome-seedance-2-5-prompts#seedance-25-videos-from-x--watch-inspect-remix)。相关描述用于说明资料库里可以学习的创作方法，不作为模型能力比较或效果保证。

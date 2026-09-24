@@ -6,21 +6,21 @@
   "current": "Current",
   "view": "View",
   "intro_title": "Create with SeaImagine",
-  "intro": "SeaImagine is an online AI image and video creation platform for creators, designers and small teams. Start with text or a reference image, explore a model, and refine your scene.",
-  "why_title": "Learn by adapting examples",
-  "why": "We share prompt libraries so creators can see how subject, camera movement, timing and sound fit together. Browse an illustrated example, copy its prompt, and adapt one element at a time.",
+  "intro": "SeaImagine is an online AI image and video creation platform for creators, designers and small teams. Begin with a written idea, a product photo or a character reference, then choose an image or video workflow to develop it. It is a place to explore a campaign visual, plan a short story or try a new direction for a social post.\n\nThis GitHub organization is the companion learning library: illustrated examples, reusable prompts and source-linked video studies that you can read before creating. Use the website to make your own work, and use these repositories to understand how a scene is described—what stays in frame, what moves, how the camera behaves and when the sound changes.",
+  "why_title": "Why we share our creative workflows",
+  "why": "A useful prompt makes creative decisions visible. A scene becomes easier to understand when its reference image, action, timing and sound are presented together. Our libraries collect these materials so you can see how an idea becomes a directing brief.\n\n- **Visual references.** Illustrated cases and starting frames give the written scene a concrete setting.\n- **Prompts you can keep.** Complete texts and downloadable examples provide a starting point for your own working notes.\n- **Sources you can explore.** Attributed official and community examples let you follow the original work and read it in context.\n\nWe welcome improvements to translations, clearer explanations and new examples. Sharing the decisions behind a scene makes the collection more useful to the next creator.",
   "projects_title": "Explore the prompt libraries",
   "best_for": "Useful for:",
   "browse": "Browse examples",
   "project_descriptions": [
-    "A multimodal video library with a category index, reference first frames and reusable prompts, featuring attributed official and community examples.",
-    "Video prompts, illustrated examples and downloadable text organized by topic, covering camera movement, characters, products and sound.",
-    "A video creation library with community video examples, source links and shot-by-shot prompts."
+    "A good starting point when you want to move between storytelling, product films and more deliberate video editing. Browse categories such as cinema, commerce, documentary scenes, animation, camera control and miniature worlds, then open an example that matches your idea.\n\nThe library combines reference first frames, complete prompts and attributed official or community studies. Read how a shot develops over time, what should remain consistent and how sound supports the action. In “Amber perfume / mechanical eclipse,” a bottle stays fixed while a copper ring and citrus slice change the light around it—a concrete exercise in separating product stability from background motion.",
+    "Explore scene-based prompts for product showcases, social videos, character interactions and imaginative environments. The topic index helps you move from a broad idea to an illustrated case, while downloadable text makes it convenient to copy a prompt into your own working notes.\n\nThe examples pay attention to movement as well as appearance: the path of a camera, the pace of an action, continuity across a shot and the sounds that belong in the scene. For a precise product study, try the sea-glass bottle case. For a different challenge, “The Last Tooth” explores a clockmaker duet: follow the two characters’ dialogue and spatial relationship within one scene.",
+    "Use this collection when you want to learn from video examples and turn an idea into a sequence of clear directing instructions. Community clips, source links and shot-by-shot prompts offer entry points for advertising, cinematic scenes and short stories built around a reference image.\n\nRead an example alongside its prompt and ask what each part contributes: the opening composition, the main action, camera placement and the final frame. Begin with a short prop handover to study one action, or open the travel diary and stage-reveal examples to examine how several shots form a sequence. The repository also includes official examples and illustrated guidance to help connect what you watch with what you write."
   ],
   "project_audiences": [
-    "Storytelling, product shorts and video editing",
-    "Social videos, product showcases and character shots",
-    "Advertising, shot planning and reference-image-led shorts"
+    "Creators planning narrative scenes, product shorts or editing experiments who want to study a shot in detail.",
+    "Social creators and designers looking for reusable product, character and camera-movement examples.",
+    "Creators who prefer to learn by watching references and breaking advertising or story ideas into individual shots."
   ],
   "image_note": "These images are prompt library covers. Select one to explore its examples and sources.",
   "tools_title": "Create on SeaImagine",
@@ -31,20 +31,20 @@
     "Photo editing"
   ],
   "tool_uses": [
-    "Describe a scene and turn it into video.",
-    "Bring a still reference image into motion.",
-    "Create images for a story or product.",
-    "Modify and refine an existing image."
+    "Start without a reference image. Describe the subject, setting, action and camera movement for a short scene or story idea.",
+    "Start with an existing composition, such as a product photo or character image. Describe what should move and what should stay consistent.",
+    "Explore a visual direction for a story, product or campaign, or prepare a reference image before planning a video.",
+    "Refine an existing picture for your next idea. Choose the available editing workflow and explain the changes you want to make."
   ],
   "start_title": "Start with one example",
   "steps": [
-    "Choose an example and copy its prompt.",
-    "Select a model on SeaImagine, then enter text or upload a reference image.",
-    "Check subject consistency, camera movement and sound. Change one condition at a time."
+    "**Choose one scene and study its ingredients.** Open a relevant library, read the example and copy its prompt. Identify the subject, starting composition, movement and ending before making changes.",
+    "**Prepare your own inputs.** Choose a model on SeaImagine and enter your adapted text or upload a reference image. Check the selected model’s available settings, input requirements and current usage cost.",
+    "**Review, then change one thing.** Compare the result with your intended composition, subject consistency and camera movement; check sound when the selected workflow supports it. Save the prompt, inputs and settings with your result so you can repeat a useful approach."
   ],
   "contribute_title": "Share what you learn",
-  "contribute": "Open an issue in the relevant repository, improve a translation, or contribute an example with its prompt, settings and source. Check each repository’s license before using its content.",
+  "contribute": "Useful contributions help the next reader understand and reproduce an idea. Open an issue in the relevant repository to ask a question or report a broken reference; suggest clearer translations or share a case that adds a different creative approach.\n\nFor a new example, include the prompt, relevant settings, the source of any reference material and a short explanation of what you learned. If you change repository files, submit a pull request so the changes can be reviewed. Check each repository’s license and the source material’s usage terms before reusing content.",
   "footer": "Start with one shot, then share useful techniques with other creators.",
   "try_model": "Create with this model",
-  "prompt_languages": "Prompt languages vary by library. Check the documentation for each project."
+  "prompt_languages": "The overviews are available in 15 languages. Prompt languages and translated examples vary by repository; each library explains its own coverage."
 }
