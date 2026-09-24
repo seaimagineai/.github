@@ -1,0 +1,476 @@
+{
+  "checked_on": "2026-09-24",
+  "method": "HTTP GET; page availability only, no generation tests",
+  "results": [
+    {
+      "url": "https://seaimagine.com/",
+      "result": "200 https://seaimagine.com/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/text-to-video/",
+      "result": "200 https://seaimagine.com/text-to-video/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/image-to-video/",
+      "result": "200 https://seaimagine.com/image-to-video/",
+      "exit_code": 0,
+      "previous_attempt": {
+        "url": "https://seaimagine.com/image-to-video/",
+        "result": "200 https://seaimagine.com/image-to-video/",
+        "exit_code": 28
+      }
+    },
+    {
+      "url": "https://seaimagine.com/ai-image-generator/",
+      "result": "200 https://seaimagine.com/ai-image-generator/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/ai-photo-editor/",
+      "result": "200 https://seaimagine.com/ai-photo-editor/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/create/",
+      "result": "200 https://seaimagine.com/create/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/ja/",
+      "result": "200 https://seaimagine.com/ja/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/ja/text-to-video/",
+      "result": "200 https://seaimagine.com/ja/text-to-video/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/ja/image-to-video/",
+      "result": "200 https://seaimagine.com/ja/image-to-video/",
+      "exit_code": 0,
+      "previous_attempt": {
+        "url": "https://seaimagine.com/ja/image-to-video/",
+        "result": "200 https://seaimagine.com/ja/image-to-video/",
+        "exit_code": 28
+      }
+    },
+    {
+      "url": "https://seaimagine.com/ja/ai-image-generator/",
+      "result": "200 https://seaimagine.com/ja/ai-image-generator/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/ja/ai-photo-editor/",
+      "result": "200 https://seaimagine.com/ja/ai-photo-editor/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/ja/create/",
+      "result": "200 https://seaimagine.com/ja/create/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/pt/",
+      "result": "200 https://seaimagine.com/pt/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/pt/text-to-video/",
+      "result": "200 https://seaimagine.com/pt/text-to-video/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/pt/image-to-video/",
+      "result": "200 https://seaimagine.com/pt/image-to-video/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/pt/ai-image-generator/",
+      "result": "200 https://seaimagine.com/pt/ai-image-generator/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/pt/ai-photo-editor/",
+      "result": "200 https://seaimagine.com/pt/ai-photo-editor/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/pt/create/",
+      "result": "200 https://seaimagine.com/pt/create/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/es/",
+      "result": "200 https://seaimagine.com/es/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/es/text-to-video/",
+      "result": "200 https://seaimagine.com/es/text-to-video/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/es/image-to-video/",
+      "result": "200 https://seaimagine.com/es/image-to-video/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/es/ai-image-generator/",
+      "result": "200 https://seaimagine.com/es/ai-image-generator/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/es/ai-photo-editor/",
+      "result": "200 https://seaimagine.com/es/ai-photo-editor/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/es/create/",
+      "result": "200 https://seaimagine.com/es/create/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/de/",
+      "result": "200 https://seaimagine.com/de/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/de/text-to-video/",
+      "result": "200 https://seaimagine.com/de/text-to-video/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/de/image-to-video/",
+      "result": "200 https://seaimagine.com/de/image-to-video/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/de/ai-image-generator/",
+      "result": "200 https://seaimagine.com/de/ai-image-generator/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/de/ai-photo-editor/",
+      "result": "200 https://seaimagine.com/de/ai-photo-editor/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/de/create/",
+      "result": "200 https://seaimagine.com/de/create/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/ru/",
+      "result": "200 https://seaimagine.com/ru/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/ru/text-to-video/",
+      "result": "200 https://seaimagine.com/ru/text-to-video/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/ru/image-to-video/",
+      "result": "200 https://seaimagine.com/ru/image-to-video/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/ru/ai-image-generator/",
+      "result": "200 https://seaimagine.com/ru/ai-image-generator/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/ru/ai-photo-editor/",
+      "result": "200 https://seaimagine.com/ru/ai-photo-editor/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/ru/create/",
+      "result": "200 https://seaimagine.com/ru/create/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/fr/",
+      "result": "200 https://seaimagine.com/fr/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/fr/text-to-video/",
+      "result": "200 https://seaimagine.com/fr/text-to-video/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/fr/image-to-video/",
+      "result": "200 https://seaimagine.com/fr/image-to-video/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/fr/ai-image-generator/",
+      "result": "200 https://seaimagine.com/fr/ai-image-generator/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/fr/ai-photo-editor/",
+      "result": "200 https://seaimagine.com/fr/ai-photo-editor/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/fr/create/",
+      "result": "200 https://seaimagine.com/fr/create/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/cn/",
+      "result": "200 https://seaimagine.com/cn/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/cn/text-to-video/",
+      "result": "200 https://seaimagine.com/cn/text-to-video/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/cn/image-to-video/",
+      "result": "200 https://seaimagine.com/cn/image-to-video/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/cn/ai-image-generator/",
+      "result": "200 https://seaimagine.com/cn/ai-image-generator/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/cn/ai-photo-editor/",
+      "result": "200 https://seaimagine.com/cn/ai-photo-editor/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/cn/create/",
+      "result": "200 https://seaimagine.com/cn/create/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/tw/",
+      "result": "200 https://seaimagine.com/tw/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/tw/text-to-video/",
+      "result": "200 https://seaimagine.com/tw/text-to-video/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/tw/image-to-video/",
+      "result": "200 https://seaimagine.com/tw/image-to-video/",
+      "exit_code": 0,
+      "previous_attempt": {
+        "url": "https://seaimagine.com/tw/image-to-video/",
+        "result": "200 https://seaimagine.com/tw/image-to-video/",
+        "exit_code": 28
+      }
+    },
+    {
+      "url": "https://seaimagine.com/tw/ai-image-generator/",
+      "result": "200 https://seaimagine.com/tw/ai-image-generator/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/tw/ai-photo-editor/",
+      "result": "200 https://seaimagine.com/tw/ai-photo-editor/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/tw/create/",
+      "result": "200 https://seaimagine.com/tw/create/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/ko/",
+      "result": "200 https://seaimagine.com/ko/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/ko/text-to-video/",
+      "result": "200 https://seaimagine.com/ko/text-to-video/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/ko/image-to-video/",
+      "result": "200 https://seaimagine.com/ko/image-to-video/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/ko/ai-image-generator/",
+      "result": "200 https://seaimagine.com/ko/ai-image-generator/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/ko/ai-photo-editor/",
+      "result": "200 https://seaimagine.com/ko/ai-photo-editor/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/ko/create/",
+      "result": "200 https://seaimagine.com/ko/create/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/th/",
+      "result": "200 https://seaimagine.com/th/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/th/text-to-video/",
+      "result": "200 https://seaimagine.com/th/text-to-video/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/th/image-to-video/",
+      "result": "200 https://seaimagine.com/th/image-to-video/",
+      "exit_code": 0,
+      "previous_attempt": {
+        "url": "https://seaimagine.com/th/image-to-video/",
+        "result": "200 https://seaimagine.com/th/image-to-video/",
+        "exit_code": 28
+      }
+    },
+    {
+      "url": "https://seaimagine.com/th/ai-image-generator/",
+      "result": "200 https://seaimagine.com/th/ai-image-generator/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/th/ai-photo-editor/",
+      "result": "200 https://seaimagine.com/th/ai-photo-editor/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/th/create/",
+      "result": "200 https://seaimagine.com/th/create/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/vi/",
+      "result": "200 https://seaimagine.com/vi/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/vi/text-to-video/",
+      "result": "200 https://seaimagine.com/vi/text-to-video/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/vi/image-to-video/",
+      "result": "200 https://seaimagine.com/vi/image-to-video/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/vi/ai-image-generator/",
+      "result": "200 https://seaimagine.com/vi/ai-image-generator/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/vi/ai-photo-editor/",
+      "result": "200 https://seaimagine.com/vi/ai-photo-editor/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/vi/create/",
+      "result": "200 https://seaimagine.com/vi/create/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/ar/",
+      "result": "200 https://seaimagine.com/ar/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/ar/text-to-video/",
+      "result": "200 https://seaimagine.com/ar/text-to-video/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/ar/image-to-video/",
+      "result": "200 https://seaimagine.com/ar/image-to-video/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/ar/ai-image-generator/",
+      "result": "200 https://seaimagine.com/ar/ai-image-generator/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/ar/ai-photo-editor/",
+      "result": "200 https://seaimagine.com/ar/ai-photo-editor/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/ar/create/",
+      "result": "200 https://seaimagine.com/ar/create/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/id/",
+      "result": "200 https://seaimagine.com/id/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/id/text-to-video/",
+      "result": "200 https://seaimagine.com/id/text-to-video/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/id/image-to-video/",
+      "result": "200 https://seaimagine.com/id/image-to-video/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/id/ai-image-generator/",
+      "result": "200 https://seaimagine.com/id/ai-image-generator/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/id/ai-photo-editor/",
+      "result": "200 https://seaimagine.com/id/ai-photo-editor/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/id/create/",
+      "result": "200 https://seaimagine.com/id/create/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/it/",
+      "result": "200 https://seaimagine.com/it/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/it/text-to-video/",
+      "result": "200 https://seaimagine.com/it/text-to-video/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/it/image-to-video/",
+      "result": "200 https://seaimagine.com/it/image-to-video/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/it/ai-image-generator/",
+      "result": "200 https://seaimagine.com/it/ai-image-generator/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/it/ai-photo-editor/",
+      "result": "200 https://seaimagine.com/it/ai-photo-editor/",
+      "exit_code": 0
+    },
+    {
+      "url": "https://seaimagine.com/it/create/",
+      "result": "200 https://seaimagine.com/it/create/",
+      "exit_code": 0
+    }
+  ]
+}

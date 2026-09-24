@@ -1,0 +1,50 @@
+{
+  "name": "Tiếng Việt",
+  "tagline": "Biến ý tưởng thành hình ảnh và video. Học từ những câu lệnh bạn có thể dùng lại.",
+  "visit": "Truy cập SeaImagine",
+  "opensource": "Thư viện nguồn mở",
+  "current": "Hiện tại",
+  "view": "Xem",
+  "intro_title": "Sáng tạo với SeaImagine",
+  "intro": "SeaImagine là nền tảng trực tuyến tạo hình ảnh và video bằng AI dành cho nhà sáng tạo, nhà thiết kế và nhóm nhỏ. Bắt đầu bằng văn bản hoặc ảnh tham chiếu, thử một mô hình rồi tinh chỉnh cảnh.",
+  "why_title": "Học bằng cách điều chỉnh ví dụ",
+  "why": "Chúng tôi chia sẻ thư viện câu lệnh để bạn hiểu cách kết hợp chủ thể, chuyển động máy quay, thời gian và âm thanh. Xem ví dụ minh họa, sao chép câu lệnh rồi thay đổi từng yếu tố.",
+  "projects_title": "Khám phá thư viện câu lệnh",
+  "best_for": "Phù hợp với:",
+  "browse": "Xem ví dụ",
+  "project_descriptions": [
+    "Thư viện video đa phương thức có mục lục theo nhóm, khung hình đầu tham chiếu và câu lệnh có thể sao chép, gồm ví dụ chính thức và từ cộng đồng có ghi nguồn.",
+    "Câu lệnh video, ví dụ minh họa và văn bản tải xuống được chia theo chủ đề: chuyển động máy quay, nhân vật, sản phẩm và âm thanh.",
+    "Thư viện sáng tạo video với ví dụ từ cộng đồng, liên kết nguồn và câu lệnh cho từng cảnh quay."
+  ],
+  "project_audiences": [
+    "Kể chuyện, video ngắn về sản phẩm và chỉnh sửa video",
+    "Video mạng xã hội, giới thiệu sản phẩm và cảnh quay nhân vật",
+    "Quảng cáo, bố trí cảnh quay và phim ngắn dựa trên ảnh tham chiếu"
+  ],
+  "image_note": "Đây là ảnh bìa của các thư viện câu lệnh. Nhấp để xem ví dụ và nguồn.",
+  "tools_title": "Sáng tạo trên SeaImagine",
+  "tool_labels": [
+    "Văn bản thành video",
+    "Ảnh thành video",
+    "Tạo hình ảnh",
+    "Chỉnh sửa ảnh"
+  ],
+  "tool_uses": [
+    "Mô tả cảnh bằng văn bản để tạo video.",
+    "Thêm chuyển động cho ảnh tham chiếu tĩnh.",
+    "Tạo ảnh cho câu chuyện hoặc sản phẩm.",
+    "Chỉnh sửa và tinh chỉnh ảnh có sẵn."
+  ],
+  "start_title": "Bắt đầu từ một ví dụ",
+  "steps": [
+    "Chọn ví dụ và sao chép câu lệnh.",
+    "Chọn mô hình trên SeaImagine, rồi nhập văn bản hoặc tải ảnh tham chiếu lên.",
+    "Kiểm tra tính nhất quán của chủ thể, máy quay và âm thanh. Mỗi lần chỉ đổi một điều kiện."
+  ],
+  "contribute_title": "Chia sẻ điều bạn học được",
+  "contribute": "Đặt câu hỏi trong kho lưu trữ tương ứng, cải thiện bản dịch hoặc đóng góp ví dụ kèm câu lệnh, thiết lập và nguồn. Đọc giấy phép của từng kho trước khi sử dụng nội dung.",
+  "footer": "Bắt đầu bằng một cảnh quay và chia sẻ cách làm hữu ích với những người sáng tạo khác.",
+  "try_model": "Sáng tạo với mô hình này",
+  "prompt_languages": "Ngôn ngữ của câu lệnh khác nhau giữa các thư viện. Hãy xem phần hướng dẫn của từng dự án."
+}

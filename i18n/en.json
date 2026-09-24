@@ -1,0 +1,50 @@
+{
+  "name": "English",
+  "tagline": "Turn an idea into images and videos. Learn from prompts you can reuse.",
+  "visit": "Visit SeaImagine",
+  "opensource": "Open source libraries",
+  "current": "Current",
+  "view": "View",
+  "intro_title": "Create with SeaImagine",
+  "intro": "SeaImagine is an online AI image and video creation platform for creators, designers and small teams. Start with text or a reference image, explore a model, and refine your scene.",
+  "why_title": "Learn by adapting examples",
+  "why": "We share prompt libraries so creators can see how subject, camera movement, timing and sound fit together. Browse an illustrated example, copy its prompt, and adapt one element at a time.",
+  "projects_title": "Explore the prompt libraries",
+  "best_for": "Useful for:",
+  "browse": "Browse examples",
+  "project_descriptions": [
+    "A multimodal video library with a category index, reference first frames and reusable prompts, featuring attributed official and community examples.",
+    "Video prompts, illustrated examples and downloadable text organized by topic, covering camera movement, characters, products and sound.",
+    "A video creation library with community video examples, source links and shot-by-shot prompts."
+  ],
+  "project_audiences": [
+    "Storytelling, product shorts and video editing",
+    "Social videos, product showcases and character shots",
+    "Advertising, shot planning and reference-image-led shorts"
+  ],
+  "image_note": "These images are prompt library covers. Select one to explore its examples and sources.",
+  "tools_title": "Create on SeaImagine",
+  "tool_labels": [
+    "Text to video",
+    "Image to video",
+    "Image creation",
+    "Photo editing"
+  ],
+  "tool_uses": [
+    "Describe a scene and turn it into video.",
+    "Bring a still reference image into motion.",
+    "Create images for a story or product.",
+    "Modify and refine an existing image."
+  ],
+  "start_title": "Start with one example",
+  "steps": [
+    "Choose an example and copy its prompt.",
+    "Select a model on SeaImagine, then enter text or upload a reference image.",
+    "Check subject consistency, camera movement and sound. Change one condition at a time."
+  ],
+  "contribute_title": "Share what you learn",
+  "contribute": "Open an issue in the relevant repository, improve a translation, or contribute an example with its prompt, settings and source. Check each repository’s license before using its content.",
+  "footer": "Start with one shot, then share useful techniques with other creators.",
+  "try_model": "Create with this model",
+  "prompt_languages": "Prompt languages vary by library. Check the documentation for each project."
+}

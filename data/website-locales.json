@@ -1,0 +1,82 @@
+{
+  "source": "https://seaimagine.com/",
+  "checked_on": "2026-09-24",
+  "method": "Language links in public homepage HTML",
+  "locales": [
+    {
+      "locale": "en",
+      "language_tag": "en-US",
+      "url": "https://seaimagine.com/en/"
+    },
+    {
+      "locale": "ja",
+      "language_tag": "ja-JP",
+      "url": "https://seaimagine.com/ja/"
+    },
+    {
+      "locale": "pt",
+      "language_tag": "pt-BR",
+      "url": "https://seaimagine.com/pt/"
+    },
+    {
+      "locale": "es",
+      "language_tag": "es-ES",
+      "url": "https://seaimagine.com/es/"
+    },
+    {
+      "locale": "de",
+      "language_tag": "de-DE",
+      "url": "https://seaimagine.com/de/"
+    },
+    {
+      "locale": "ru",
+      "language_tag": "ru-RU",
+      "url": "https://seaimagine.com/ru/"
+    },
+    {
+      "locale": "fr",
+      "language_tag": "fr-FR",
+      "url": "https://seaimagine.com/fr/"
+    },
+    {
+      "locale": "cn",
+      "language_tag": "zh-CN",
+      "url": "https://seaimagine.com/cn/"
+    },
+    {
+      "locale": "tw",
+      "language_tag": "zh-TW",
+      "url": "https://seaimagine.com/tw/"
+    },
+    {
+      "locale": "ko",
+      "language_tag": "ko-KR",
+      "url": "https://seaimagine.com/ko/"
+    },
+    {
+      "locale": "th",
+      "language_tag": "th-TH",
+      "url": "https://seaimagine.com/th/"
+    },
+    {
+      "locale": "vi",
+      "language_tag": "vi-VN",
+      "url": "https://seaimagine.com/vi/"
+    },
+    {
+      "locale": "ar",
+      "language_tag": "ar-SA",
+      "url": "https://seaimagine.com/ar/"
+    },
+    {
+      "locale": "id",
+      "language_tag": "id-ID",
+      "url": "https://seaimagine.com/id/"
+    },
+    {
+      "locale": "it",
+      "language_tag": "it-IT",
+      "url": "https://seaimagine.com/it/"
+    }
+  ]
+}

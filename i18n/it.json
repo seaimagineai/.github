@@ -1,0 +1,50 @@
+{
+  "name": "Italiano",
+  "tagline": "Trasforma un’idea in immagini e video. Impara da prompt che puoi riutilizzare.",
+  "visit": "Visita SeaImagine",
+  "opensource": "Raccolte open source",
+  "current": "Attuale",
+  "view": "Vedi",
+  "intro_title": "Crea con SeaImagine",
+  "intro": "SeaImagine è una piattaforma online per creare immagini e video con l’IA, pensata per creatori, designer e piccoli team. Parti da un testo o da un’immagine di riferimento, prova un modello e perfeziona la scena.",
+  "why_title": "Impara adattando gli esempi",
+  "why": "Condividiamo raccolte di prompt per mostrare come combinare soggetto, movimenti di camera, tempi e suono. Esplora un esempio illustrato, copia il prompt e modifica un elemento alla volta.",
+  "projects_title": "Esplora le raccolte di prompt",
+  "best_for": "Utile per:",
+  "browse": "Sfoglia gli esempi",
+  "project_descriptions": [
+    "Una raccolta video multimodale con indice per categorie, primi fotogrammi di riferimento e prompt riutilizzabili, con esempi ufficiali e della comunità corredati dalle fonti.",
+    "Prompt video, esempi illustrati e testi scaricabili suddivisi per tema: movimenti di camera, personaggi, prodotti e suono.",
+    "Una raccolta per la creazione video con esempi della comunità, link alle fonti e prompt per ogni inquadratura."
+  ],
+  "project_audiences": [
+    "Narrazione, brevi video di prodotto e montaggio",
+    "Video social, presentazioni di prodotti e inquadrature di personaggi",
+    "Pubblicità, pianificazione delle inquadrature e corti basati su immagini di riferimento"
+  ],
+  "image_note": "Le immagini sono le copertine delle raccolte di prompt. Fai clic per consultare esempi e fonti.",
+  "tools_title": "Crea su SeaImagine",
+  "tool_labels": [
+    "Da testo a video",
+    "Da immagine a video",
+    "Creazione di immagini",
+    "Modifica delle foto"
+  ],
+  "tool_uses": [
+    "Descrivi una scena per trasformarla in video.",
+    "Dai movimento a un’immagine di riferimento.",
+    "Crea immagini per una storia o un prodotto.",
+    "Modifica e perfeziona un’immagine esistente."
+  ],
+  "start_title": "Inizia da un esempio",
+  "steps": [
+    "Scegli un esempio e copia il prompt.",
+    "Seleziona un modello su SeaImagine e inserisci il testo o carica un’immagine di riferimento.",
+    "Controlla la coerenza del soggetto, la camera e il suono. Cambia una condizione alla volta."
+  ],
+  "contribute_title": "Condividi ciò che impari",
+  "contribute": "Poni domande nel repository pertinente, migliora una traduzione o proponi un esempio con prompt, impostazioni e fonte. Consulta la licenza di ogni repository prima di usarne i contenuti.",
+  "footer": "Inizia da un’inquadratura e condividi metodi utili con altri creatori.",
+  "try_model": "Crea con questo modello",
+  "prompt_languages": "Le lingue dei prompt variano tra le raccolte. Consulta la documentazione di ogni progetto."
+}

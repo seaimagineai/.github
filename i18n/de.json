@@ -1,0 +1,50 @@
+{
+  "name": "Deutsch",
+  "tagline": "Verwandle eine Idee in Bilder und Videos. Lerne mit wiederverwendbaren Prompts.",
+  "visit": "SeaImagine besuchen",
+  "opensource": "Open-Source-Sammlungen",
+  "current": "Aktuell",
+  "view": "Ansehen",
+  "intro_title": "Mit SeaImagine gestalten",
+  "intro": "SeaImagine ist eine Onlineplattform für KI-Bild- und Videogestaltung für Kreative, Designer und kleine Teams. Beginne mit Text oder einem Referenzbild, teste ein Modell und verfeinere deine Szene.",
+  "why_title": "Durch angepasste Beispiele lernen",
+  "why": "Unsere Prompt-Sammlungen zeigen, wie Motiv, Kamerabewegung, Timing und Ton zusammenwirken. Sieh dir ein bebildertes Beispiel an, kopiere den Prompt und passe jeweils ein Element an.",
+  "projects_title": "Prompt-Sammlungen entdecken",
+  "best_for": "Geeignet für:",
+  "browse": "Beispiele ansehen",
+  "project_descriptions": [
+    "Eine multimodale Videosammlung mit Kategorienindex, ersten Referenzbildern und kopierbaren Prompts. Sie enthält offizielle Beispiele und Community-Beiträge mit Quellenangaben.",
+    "Videoprompts, bebilderte Beispiele und herunterladbare Texte nach Themen: Kamerabewegung, Figuren, Produkte und Ton.",
+    "Eine Sammlung zur Videogestaltung mit Community-Videos, Quellenlinks und Prompts für einzelne Einstellungen."
+  ],
+  "project_audiences": [
+    "Geschichten, kurze Produktfilme und Videoschnitt",
+    "Social-Media-Videos, Produktpräsentationen und Figurenaufnahmen",
+    "Werbung, Einstellungsplanung und Kurzfilme mit Referenzbildern"
+  ],
+  "image_note": "Die Bilder sind Titelbilder der Prompt-Sammlungen. Klicke darauf, um Beispiele und Quellen zu sehen.",
+  "tools_title": "Auf SeaImagine gestalten",
+  "tool_labels": [
+    "Text zu Video",
+    "Bild zu Video",
+    "Bilder erstellen",
+    "Fotos bearbeiten"
+  ],
+  "tool_uses": [
+    "Beschreibe eine Szene und erstelle daraus ein Video.",
+    "Bringe Bewegung in ein statisches Referenzbild.",
+    "Erstelle Bilder für Geschichten oder Produkte.",
+    "Bearbeite und verfeinere vorhandene Bilder."
+  ],
+  "start_title": "Mit einem Beispiel beginnen",
+  "steps": [
+    "Wähle ein Beispiel und kopiere den Prompt.",
+    "Wähle auf SeaImagine ein Modell und gib Text ein oder lade ein Referenzbild hoch.",
+    "Prüfe Motivkonsistenz, Kamera und Ton. Ändere jeweils nur eine Bedingung."
+  ],
+  "contribute_title": "Wissen teilen",
+  "contribute": "Stelle Fragen im jeweiligen Repository, verbessere Übersetzungen oder reiche Beispiele mit Prompt, Einstellungen und Quelle ein. Prüfe vor der Nutzung die Lizenz des jeweiligen Repositorys.",
+  "footer": "Beginne mit einer Einstellung und teile hilfreiche Methoden mit anderen Kreativen.",
+  "try_model": "Mit diesem Modell gestalten",
+  "prompt_languages": "Die Sprachen der Prompts unterscheiden sich je nach Sammlung. Beachte die Dokumentation des jeweiligen Projekts."
+}

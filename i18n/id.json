@@ -1,0 +1,50 @@
+{
+  "name": "Bahasa Indonesia",
+  "tagline": "Ubah ide menjadi gambar dan video. Belajar dari prompt yang bisa digunakan kembali.",
+  "visit": "Kunjungi SeaImagine",
+  "opensource": "Pustaka sumber terbuka",
+  "current": "Saat ini",
+  "view": "Lihat",
+  "intro_title": "Berkarya dengan SeaImagine",
+  "intro": "SeaImagine adalah platform daring untuk membuat gambar dan video AI bagi kreator, desainer, dan tim kecil. Mulai dari teks atau gambar referensi, coba model, lalu sempurnakan adegan Anda.",
+  "why_title": "Belajar dengan mengadaptasi contoh",
+  "why": "Kami membagikan pustaka prompt agar kreator memahami hubungan antara subjek, gerakan kamera, pengaturan waktu, dan suara. Lihat contoh bergambar, salin prompt, lalu ubah satu unsur setiap kali.",
+  "projects_title": "Jelajahi pustaka prompt",
+  "best_for": "Cocok untuk:",
+  "browse": "Lihat contoh",
+  "project_descriptions": [
+    "Pustaka video multimodal dengan indeks kategori, bingkai awal referensi, dan prompt yang bisa disalin, serta contoh resmi dan komunitas dengan sumber yang jelas.",
+    "Prompt video, contoh bergambar, dan teks yang bisa diunduh menurut topik: gerakan kamera, karakter, produk, dan suara.",
+    "Pustaka pembuatan video berisi contoh dari komunitas, tautan sumber, dan prompt per pengambilan gambar."
+  ],
+  "project_audiences": [
+    "Cerita, video pendek produk, dan penyuntingan video",
+    "Video media sosial, demonstrasi produk, dan adegan karakter",
+    "Iklan, perencanaan pengambilan gambar, dan video pendek berbasis gambar referensi"
+  ],
+  "image_note": "Gambar ini adalah sampul pustaka prompt. Klik untuk melihat contoh dan sumbernya.",
+  "tools_title": "Buat di SeaImagine",
+  "tool_labels": [
+    "Teks menjadi video",
+    "Gambar menjadi video",
+    "Pembuatan gambar",
+    "Penyuntingan foto"
+  ],
+  "tool_uses": [
+    "Deskripsikan adegan untuk membuat video.",
+    "Beri gerakan pada gambar referensi yang diam.",
+    "Buat gambar untuk cerita atau produk.",
+    "Ubah dan sempurnakan gambar yang sudah ada."
+  ],
+  "start_title": "Mulai dari satu contoh",
+  "steps": [
+    "Pilih contoh dan salin prompt.",
+    "Pilih model di SeaImagine, lalu masukkan teks atau unggah gambar referensi.",
+    "Periksa konsistensi subjek, kamera, dan suara. Ubah satu kondisi setiap kali."
+  ],
+  "contribute_title": "Bagikan pengalaman Anda",
+  "contribute": "Ajukan pertanyaan di repositori terkait, perbaiki terjemahan, atau kirim contoh beserta prompt, pengaturan, dan sumbernya. Periksa lisensi tiap repositori sebelum menggunakan isinya.",
+  "footer": "Mulai dari satu adegan, lalu bagikan cara yang bermanfaat kepada kreator lain.",
+  "try_model": "Buat dengan model ini",
+  "prompt_languages": "Bahasa prompt berbeda-beda di tiap pustaka. Lihat dokumentasi masing-masing proyek."
+}
