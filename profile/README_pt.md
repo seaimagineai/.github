@@ -4,9 +4,9 @@
 
 # SeaImagine
 
-**Transforme uma ideia em imagens e vídeos. Aprenda com prompts que você pode reutilizar.**
+**Crie com IA. Explore ideias, construa em conjunto e compartilhe o que funciona.**
 
-[![Visitar SeaImagine](https://img.shields.io/badge/SeaImagine-Visitar%20SeaImagine-7c3aed?style=for-the-badge)](https://seaimagine.com/pt/) [![Bibliotecas de código aberto](https://img.shields.io/badge/GitHub-Bibliotecas%20de%20c%C3%B3digo%20aberto-181717?style=for-the-badge&logo=github)](https://github.com/seaimagineai?tab=repositories)
+[![Visitar SeaImagine](https://img.shields.io/badge/SeaImagine-Visitar%20SeaImagine-7c3aed?style=for-the-badge)](https://seaimagine.com/pt/) [![Projetos de código aberto](https://img.shields.io/badge/GitHub-Projetos%20de%20c%C3%B3digo%20aberto-181717?style=for-the-badge&logo=github)](https://github.com/seaimagineai?tab=repositories)
 
 </div>
 
@@ -16,29 +16,31 @@
 
 ---
 
-## Crie com SeaImagine
+## SeaImagine: das ideias criativas à prática
 
-SeaImagine é uma plataforma online de criação de imagens e vídeos com IA para criadores, designers e pequenas equipes. Comece com uma ideia escrita, uma foto de produto ou uma referência de personagem e escolha um processo de criação de imagem ou vídeo para desenvolvê-la. Você pode explorar um visual de campanha, planejar uma história curta ou experimentar uma nova direção para uma publicação nas redes sociais.
+SeaImagine é uma plataforma online de criação de imagens e vídeos com IA para criadores, designers e pequenas equipes. Comece com uma ideia por escrito, uma foto de produto ou uma referência de personagem e explore diferentes formas de transformá-la em uma criação visual: de uma imagem de campanha a uma história curta ou um vídeo para redes sociais.
 
-Esta organização no GitHub é a biblioteca de aprendizagem que acompanha a plataforma: exemplos ilustrados, prompts reutilizáveis e análises de vídeos com links para as fontes, que você pode consultar antes de criar. Use o site para produzir seus trabalhos e estes repositórios para entender como descrever uma cena: o que permanece no enquadramento, o que se move, como a câmera se comporta e quando o som muda.
+Nossa organização no GitHub é um espaço para quem quer ir além: entender como as coisas funcionam, adaptar uma abordagem às próprias necessidades e contribuir com melhorias. Ela reúne nossos projetos públicos para que criadores e desenvolvedores encontrem pontos de partida úteis, aprendam com o trabalho por trás deles e participem de seu desenvolvimento. Nosso foco é a criação com IA e suas aplicações práticas, e recebemos contribuições reutilizáveis na forma de ferramentas, fluxos de trabalho, tutoriais, materiais de referência ou código.
 
-## Por que compartilhamos nossos processos criativos
+## Por que desenvolvemos de forma aberta
 
-Um prompt útil torna as decisões criativas explícitas. Uma cena fica mais fácil de entender quando a imagem de referência, a ação, os tempos e o som são apresentados juntos. Nossas bibliotecas reúnem esses materiais para mostrar como uma ideia se transforma em instruções de direção.
+Acreditamos que um trabalho útil ganha mais valor quando outras pessoas podem entendê-lo, usá-lo e melhorá-lo. Nossa abordagem de código aberto torna acessíveis as decisões por trás de um projeto, junto com o material necessário para experimentá-lo.
 
-- **Referências visuais.** Os casos ilustrados e os quadros iniciais dão um contexto concreto à cena escrita.
-- **Prompts para guardar.** Textos completos e exemplos para download oferecem um ponto de partida para suas próprias anotações de trabalho.
-- **Fontes para explorar.** Exemplos oficiais e da comunidade com atribuição permitem consultar o trabalho original e entender seu contexto.
+- **Facilitar os primeiros passos.** Explicar o que um projeto faz, a quem ele ajuda e como começar.
+- **Compartilhar trabalho que possa ser adaptado.** Oferecer contexto suficiente para reutilizar uma ideia e compreender seus limites, em vez de mostrar apenas um resultado.
+- **Melhorar por meio da colaboração.** Receber perguntas, correções e contribuições à documentação, aos exemplos, ao design e ao código.
 
-São bem-vindas melhorias nas traduções, explicações mais claras e novos exemplos. Compartilhar as decisões por trás de uma cena torna a coleção mais útil para o próximo criador.
+Esses princípios orientam a apresentação e a manutenção dos projetos desta organização. Cada repositório descreve seu escopo, suas instruções de configuração ou uso, suas fontes e sua licença.
 
-## Explore as bibliotecas de prompts
+## Explore nossos projetos de código aberto
 
-As imagens são capas das bibliotecas de prompts. Clique para consultar os exemplos e suas fontes.
+Escolha um projeto de acordo com o que deseja aprender ou realizar. As apresentações abaixo explicam o que você encontrará e para quem o projeto é útil; abra o repositório para consultar a documentação e as orientações para contribuir. Explore todos os repositórios para conhecer as últimas adições e atualizações.
 
-As apresentações estão disponíveis em 15 idiomas. Os idiomas dos prompts e os exemplos traduzidos variam conforme o repositório; cada biblioteca explica sua própria cobertura.
+### Bibliotecas de prompts e referências criativas
 
-### [Gemini Omni](https://github.com/seaimagineai/awesome-gemini-omni-prompts/blob/main/README_PT.md)
+Para criadores que exploram vídeos com IA, estas coleções reúnem cenas ilustradas, prompts reutilizáveis e exemplos com links para as fontes. As capas levam aos projetos completos; são ilustrações, não resultados de vídeos gerados. Os idiomas dos prompts e as traduções disponíveis variam conforme o repositório.
+
+#### [Gemini Omni](https://github.com/seaimagineai/awesome-gemini-omni-prompts/blob/main/README_PT.md)
 
 [![Gemini Omni](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/gemini-omni.png)](https://github.com/seaimagineai/awesome-gemini-omni-prompts/blob/main/README_PT.md)
 
@@ -48,9 +50,9 @@ A biblioteca combina primeiros quadros de referência, prompts completos e anál
 
 **Útil para:** Criadores que planejam cenas narrativas, vídeos curtos de produto ou experimentos de edição e querem estudar um plano em detalhes.
 
-[![Ver exemplos](https://img.shields.io/badge/Gemini%20Omni-Ver%20exemplos-7c3aed?style=for-the-badge)](https://github.com/seaimagineai/awesome-gemini-omni-prompts/blob/main/README_PT.md) [![Criar com este modelo](https://img.shields.io/badge/SeaImagine-Criar%20com%20este%20modelo-181717?style=for-the-badge)](https://seaimagine.com/pt/model/gemini-omni-1-1-flash/)
+[![Explorar projeto](https://img.shields.io/badge/Gemini%20Omni-Explorar%20projeto-7c3aed?style=for-the-badge)](https://github.com/seaimagineai/awesome-gemini-omni-prompts/blob/main/README_PT.md) [![Criar com este modelo](https://img.shields.io/badge/SeaImagine-Criar%20com%20este%20modelo-181717?style=for-the-badge)](https://seaimagine.com/pt/model/gemini-omni-1-1-flash/)
 
-### [Grok Imagine 1.5](https://github.com/seaimagineai/awesome-grok-imagine-prompts/blob/main/README.pt-BR.md)
+#### [Grok Imagine 1.5](https://github.com/seaimagineai/awesome-grok-imagine-prompts/blob/main/README.pt-BR.md)
 
 [![Grok Imagine 1.5](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/grok-imagine.webp)](https://github.com/seaimagineai/awesome-grok-imagine-prompts/blob/main/README.pt-BR.md)
 
@@ -60,9 +62,9 @@ Os exemplos dão atenção ao movimento e à aparência: o percurso da câmera, 
 
 **Útil para:** Criadores para redes sociais e designers que procuram exemplos reutilizáveis de produtos, personagens e movimentos de câmera.
 
-[![Ver exemplos](https://img.shields.io/badge/Grok%20Imagine%201.5-Ver%20exemplos-7c3aed?style=for-the-badge)](https://github.com/seaimagineai/awesome-grok-imagine-prompts/blob/main/README.pt-BR.md) [![Criar com este modelo](https://img.shields.io/badge/SeaImagine-Criar%20com%20este%20modelo-181717?style=for-the-badge)](https://seaimagine.com/pt/model/grok-imagine-1-5/)
+[![Explorar projeto](https://img.shields.io/badge/Grok%20Imagine%201.5-Explorar%20projeto-7c3aed?style=for-the-badge)](https://github.com/seaimagineai/awesome-grok-imagine-prompts/blob/main/README.pt-BR.md) [![Criar com este modelo](https://img.shields.io/badge/SeaImagine-Criar%20com%20este%20modelo-181717?style=for-the-badge)](https://seaimagine.com/pt/model/grok-imagine-1-5/)
 
-### [Seedance 2.5](https://github.com/seaimagineai/awesome-seedance-2-5-prompts/blob/main/README_PT.md)
+#### [Seedance 2.5](https://github.com/seaimagineai/awesome-seedance-2-5-prompts/blob/main/README_PT.md)
 
 [![Seedance 2.5](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/seedance.jpg)](https://github.com/seaimagineai/awesome-seedance-2-5-prompts/blob/main/README_PT.md)
 
@@ -72,7 +74,9 @@ Estude um exemplo ao lado de seu prompt e pergunte o que cada parte acrescenta: 
 
 **Útil para:** Criadores que preferem aprender assistindo a referências e dividindo ideias de publicidade ou histórias em planos individuais.
 
-[![Ver exemplos](https://img.shields.io/badge/Seedance%202.5-Ver%20exemplos-7c3aed?style=for-the-badge)](https://github.com/seaimagineai/awesome-seedance-2-5-prompts/blob/main/README_PT.md) [![Criar com este modelo](https://img.shields.io/badge/SeaImagine-Criar%20com%20este%20modelo-181717?style=for-the-badge)](https://seaimagine.com/pt/model/seedance-2-5/)
+[![Explorar projeto](https://img.shields.io/badge/Seedance%202.5-Explorar%20projeto-7c3aed?style=for-the-badge)](https://github.com/seaimagineai/awesome-seedance-2-5-prompts/blob/main/README_PT.md) [![Criar com este modelo](https://img.shields.io/badge/SeaImagine-Criar%20com%20este%20modelo-181717?style=for-the-badge)](https://seaimagine.com/pt/model/seedance-2-5/)
+
+[![Projetos de código aberto](https://img.shields.io/badge/GitHub-Projetos%20de%20c%C3%B3digo%20aberto-181717?style=for-the-badge&logo=github)](https://github.com/seaimagineai?tab=repositories)
 
 ## Crie no SeaImagine
 
@@ -85,24 +89,24 @@ Estude um exemplo ao lado de seu prompt e pergunte o que cada parte acrescenta: 
 
 [![Visitar SeaImagine](https://img.shields.io/badge/SeaImagine-Visitar%20SeaImagine-7c3aed?style=for-the-badge)](https://seaimagine.com/pt/create/)
 
-## Comece com um exemplo
+## Encontre por onde começar
 
-1. **Escolha uma cena e estude seus componentes.** Abra uma biblioteca relevante, leia o exemplo e copie o prompt. Identifique o assunto, a composição inicial, o movimento e o final antes de fazer alterações.
-2. **Prepare seus próprios materiais.** Escolha um modelo no SeaImagine e insira seu texto adaptado ou envie uma imagem de referência. Confira as configurações disponíveis, os requisitos de entrada e o custo de uso atual do modelo escolhido.
-3. **Revise o resultado e altere uma coisa.** Compare-o com a composição, a consistência do assunto e o movimento de câmera desejados; confira o som quando o processo escolhido oferecer esse recurso. Salve o prompt, os materiais de entrada e as configurações junto ao resultado para poder repetir uma abordagem útil.
+1. **Explore um projeto.** Escolha um recurso adequado ao seu objetivo, leia a documentação e confira os requisitos. Comece com um exemplo pequeno antes de adaptá-lo a uma tarefa maior.
+2. **Crie no SeaImagine.** Para fazer uma imagem ou um vídeo, use as ferramentas criativas do site. Escolha um fluxo de trabalho adequado ao texto ou ao material de referência e confira as configurações disponíveis e o custo de uso.
+3. **Ajude a melhorar o trabalho.** Relate um problema reproduzível, sugira uma documentação mais clara ou contribua com uma alteração no repositório correspondente. Explique o que tentou fazer e como sua contribuição ajuda outras pessoas.
 
-## Compartilhe o que aprendeu
+## Construa e contribua conosco
 
-Uma contribuição útil ajuda o próximo leitor a entender e reproduzir uma ideia. Abra uma issue no repositório correspondente para fazer uma pergunta ou informar uma referência quebrada; sugira traduções mais claras ou compartilhe um caso que apresente outra abordagem criativa.
+Criadores, desenvolvedores, designers e iniciantes curiosos são bem-vindos. Uma contribuição útil pode ser uma explicação mais clara, uma tradução, uma fonte corrigida, um exemplo reproduzível ou uma melhoria no código. Comece pelo repositório mais próximo dos seus interesses e leia as orientações para contribuir.
 
-Para um novo exemplo, inclua o prompt, as configurações relevantes, a fonte de qualquer material de referência e uma breve explicação do que aprendeu. Se alterar arquivos do repositório, envie uma pull request para que as mudanças possam ser revisadas. Antes de reutilizar conteúdo, confira a licença de cada repositório e as condições de uso dos materiais originais.
+Abra uma issue para tirar uma dúvida, relatar um problema ou discutir uma ideia. Para propor uma alteração em arquivos, abra uma pull request com uma breve explicação e as verificações relevantes. Inclua as fontes dos materiais externos e siga a licença e os requisitos de uso do projeto.
 
 [Gemini Omni](https://github.com/seaimagineai/awesome-gemini-omni-prompts/issues) · [Grok Imagine 1.5](https://github.com/seaimagineai/awesome-grok-imagine-prompts/issues) · [Seedance 2.5](https://github.com/seaimagineai/awesome-seedance-2-5-prompts/issues)
 
 <div align="center">
 
-<strong>Comece com um plano e compartilhe métodos úteis com outros criadores.</strong>
+<strong>Crie, aprenda e construa em conjunto com o SeaImagine.</strong>
 
-<a href="https://seaimagine.com/pt/">Visitar SeaImagine</a> · <a href="https://github.com/seaimagineai?tab=repositories">Bibliotecas de código aberto</a>
+<a href="https://seaimagine.com/pt/">Visitar SeaImagine</a> · <a href="https://github.com/seaimagineai?tab=repositories">Projetos de código aberto</a>
 
 </div>

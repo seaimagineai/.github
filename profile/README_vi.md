@@ -4,9 +4,9 @@
 
 # SeaImagine
 
-**Biến ý tưởng thành hình ảnh và video. Học từ những câu lệnh bạn có thể dùng lại.**
+**Sáng tạo với AI. Cùng khám phá ý tưởng, phát triển và chia sẻ những cách làm hiệu quả.**
 
-[![Truy cập SeaImagine](https://img.shields.io/badge/SeaImagine-Truy%20c%E1%BA%ADp%20SeaImagine-7c3aed?style=for-the-badge)](https://seaimagine.com/vi/) [![Thư viện nguồn mở](https://img.shields.io/badge/GitHub-Th%C6%B0%20vi%E1%BB%87n%20ngu%E1%BB%93n%20m%E1%BB%9F-181717?style=for-the-badge&logo=github)](https://github.com/seaimagineai?tab=repositories)
+[![Truy cập SeaImagine](https://img.shields.io/badge/SeaImagine-Truy%20c%E1%BA%ADp%20SeaImagine-7c3aed?style=for-the-badge)](https://seaimagine.com/vi/) [![Dự án mã nguồn mở](https://img.shields.io/badge/GitHub-D%E1%BB%B1%20%C3%A1n%20m%C3%A3%20ngu%E1%BB%93n%20m%E1%BB%9F-181717?style=for-the-badge&logo=github)](https://github.com/seaimagineai?tab=repositories)
 
 </div>
 
@@ -16,29 +16,31 @@
 
 ---
 
-## Sáng tạo với SeaImagine
+## SeaImagine: đưa ý tưởng sáng tạo vào thực tế
 
-SeaImagine là nền tảng sáng tạo hình ảnh và video bằng AI trực tuyến dành cho nhà sáng tạo, nhà thiết kế và nhóm nhỏ. Bạn có thể bắt đầu từ ý tưởng viết bằng lời, ảnh sản phẩm hoặc ảnh tham chiếu nhân vật, rồi chọn cách tạo ảnh hay video để phát triển ý tưởng. Đây là nơi thử hình ảnh cho chiến dịch, lên ý tưởng cho câu chuyện ngắn hoặc tìm cách thể hiện mới cho bài đăng mạng xã hội.
+SeaImagine là nền tảng trực tuyến tạo hình ảnh và video bằng AI dành cho nhà sáng tạo, nhà thiết kế và các nhóm nhỏ. Bắt đầu từ một ý tưởng viết bằng lời, ảnh sản phẩm hoặc ảnh tham khảo nhân vật, bạn có thể thử nhiều cách thể hiện bằng hình ảnh, từ ảnh quảng bá đến phim ngắn kể chuyện và video cho mạng xã hội.
 
-Tổ chức GitHub này là thư viện học tập đi kèm: các ví dụ có hình minh họa, câu lệnh có thể tái sử dụng và phân tích video kèm nguồn để đọc trước khi sáng tạo. Dùng website để làm tác phẩm của mình, còn các kho tài liệu giúp bạn hiểu cách mô tả cảnh: điều gì giữ nguyên trong khung hình, điều gì chuyển động, máy quay di chuyển ra sao và khi nào âm thanh thay đổi.
+Tổ chức GitHub của chúng tôi dành cho những ai muốn tìm hiểu cách mọi thứ hoạt động, điều chỉnh phương pháp theo nhu cầu riêng và cùng cải tiến. Nơi đây tập hợp các dự án công khai của SeaImagine, giúp nhà sáng tạo và lập trình viên tìm được điểm khởi đầu hữu ích, học hỏi cách thực hiện và tham gia phát triển dự án. Chúng tôi tập trung vào sáng tạo bằng AI và ứng dụng thực tế, đồng thời hoan nghênh những đóng góp có thể tái sử dụng dưới dạng công cụ, quy trình làm việc, bài hướng dẫn, tư liệu tham khảo hoặc mã nguồn.
 
-## Vì sao chúng tôi chia sẻ cách sáng tạo
+## Vì sao chúng tôi phát triển công khai
 
-Một câu lệnh hữu ích thể hiện rõ những lựa chọn sáng tạo. Cảnh quay dễ hiểu hơn khi hình tham chiếu, hành động, nhịp thời gian và âm thanh được trình bày cùng nhau. Các thư viện tập hợp những tư liệu này để bạn thấy một ý tưởng trở thành chỉ dẫn dàn dựng như thế nào.
+Chúng tôi tin rằng một công việc hữu ích sẽ có giá trị hơn khi người khác có thể hiểu, sử dụng và cải tiến nó. Với mã nguồn mở, chúng tôi muốn giải thích những lựa chọn trong quá trình thực hiện dự án, đồng thời cung cấp tài liệu cần thiết để mọi người tự thử.
 
-- **Hình ảnh để đối chiếu.** Ví dụ có minh họa và khung hình mở đầu giúp mô tả bằng lời có bối cảnh cụ thể.
-- **Câu lệnh để lưu lại.** Văn bản đầy đủ và ví dụ tải xuống được là điểm khởi đầu cho ghi chép sáng tạo của riêng bạn.
-- **Nguồn để khám phá thêm.** Ví dụ chính thức và từ cộng đồng có ghi nguồn giúp bạn tìm tác phẩm gốc và hiểu bối cảnh.
+- **Giúp việc bắt đầu dễ hơn.** Giải thích dự án làm được gì, hữu ích với ai và nên bắt đầu từ đâu.
+- **Chia sẻ công việc có thể điều chỉnh và tái sử dụng.** Cung cấp đủ bối cảnh để người đọc áp dụng lại ý tưởng và hiểu giới hạn của nó, thay vì chỉ xem kết quả.
+- **Cải tiến thông qua hợp tác.** Hoan nghênh câu hỏi, sửa lỗi và đóng góp cho tài liệu, ví dụ, thiết kế và mã nguồn.
 
-Chúng tôi hoan nghênh bản dịch tốt hơn, giải thích rõ hơn và ví dụ mới. Chia sẻ những lựa chọn phía sau một cảnh quay sẽ giúp bộ sưu tập hữu ích hơn với người sáng tạo tiếp theo.
+Đây là những nguyên tắc chúng tôi áp dụng khi giới thiệu và duy trì các dự án trong tổ chức. Mỗi kho lưu trữ trình bày phạm vi, cách cài đặt hoặc sử dụng, nguồn tham khảo và giấy phép riêng.
 
-## Khám phá thư viện câu lệnh
+## Khám phá các dự án mã nguồn mở
 
-Đây là ảnh bìa của các thư viện câu lệnh. Nhấp để xem ví dụ và nguồn.
+Chọn dự án theo điều bạn muốn học hoặc thực hiện. Phần giới thiệu bên dưới cho biết nội dung của từng dự án và đối tượng phù hợp; hãy mở kho lưu trữ để đọc tài liệu và hướng dẫn đóng góp. Bạn cũng có thể xem tất cả kho lưu trữ để tìm các dự án mới và những cập nhật gần đây.
 
-Trang giới thiệu có 15 ngôn ngữ. Ngôn ngữ câu lệnh và phạm vi ví dụ được dịch khác nhau theo kho; mỗi thư viện có giải thích riêng về phạm vi này.
+### Thư viện câu lệnh và tư liệu sáng tạo
 
-### [Gemini Omni](https://github.com/seaimagineai/awesome-gemini-omni-prompts/blob/main/README_VI.md)
+Dành cho người đang khám phá cách tạo video bằng AI, các bộ sưu tập này gồm cảnh có hình minh họa, câu lệnh có thể tái sử dụng và ví dụ kèm liên kết nguồn. Nhấp vào ảnh bìa để xem toàn bộ dự án; ảnh bìa chỉ mang tính minh họa, không phải kết quả tạo video. Ngôn ngữ câu lệnh và phạm vi bản dịch khác nhau tùy kho lưu trữ.
+
+#### [Gemini Omni](https://github.com/seaimagineai/awesome-gemini-omni-prompts/blob/main/README_VI.md)
 
 [![Gemini Omni](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/gemini-omni.png)](https://github.com/seaimagineai/awesome-gemini-omni-prompts/blob/main/README_VI.md)
 
@@ -48,9 +50,9 @@ Thư viện kết hợp khung hình đầu làm tham chiếu, câu lệnh đầy
 
 **Phù hợp với:** Nhà sáng tạo đang lên kế hoạch cho cảnh kể chuyện, phim sản phẩm ngắn hoặc thử nghiệm chỉnh sửa và muốn nghiên cứu kỹ từng cảnh quay.
 
-[![Xem ví dụ](https://img.shields.io/badge/Gemini%20Omni-Xem%20v%C3%AD%20d%E1%BB%A5-7c3aed?style=for-the-badge)](https://github.com/seaimagineai/awesome-gemini-omni-prompts/blob/main/README_VI.md) [![Sáng tạo với mô hình này](https://img.shields.io/badge/SeaImagine-S%C3%A1ng%20t%E1%BA%A1o%20v%E1%BB%9Bi%20m%C3%B4%20h%C3%ACnh%20n%C3%A0y-181717?style=for-the-badge)](https://seaimagine.com/vi/model/gemini-omni-1-1-flash/)
+[![Khám phá dự án](https://img.shields.io/badge/Gemini%20Omni-Kh%C3%A1m%20ph%C3%A1%20d%E1%BB%B1%20%C3%A1n-7c3aed?style=for-the-badge)](https://github.com/seaimagineai/awesome-gemini-omni-prompts/blob/main/README_VI.md) [![Sáng tạo với mô hình này](https://img.shields.io/badge/SeaImagine-S%C3%A1ng%20t%E1%BA%A1o%20v%E1%BB%9Bi%20m%C3%B4%20h%C3%ACnh%20n%C3%A0y-181717?style=for-the-badge)](https://seaimagine.com/vi/model/gemini-omni-1-1-flash/)
 
-### [Grok Imagine 1.5](https://github.com/seaimagineai/awesome-grok-imagine-prompts/blob/main/README.vi-VN.md)
+#### [Grok Imagine 1.5](https://github.com/seaimagineai/awesome-grok-imagine-prompts/blob/main/README.vi-VN.md)
 
 [![Grok Imagine 1.5](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/grok-imagine.webp)](https://github.com/seaimagineai/awesome-grok-imagine-prompts/blob/main/README.vi-VN.md)
 
@@ -60,9 +62,9 @@ Các ví dụ chú ý cả chuyển động lẫn diện mạo: đường đi c�
 
 **Phù hợp với:** Nhà sáng tạo nội dung mạng xã hội và nhà thiết kế cần ví dụ có thể tái sử dụng về sản phẩm, nhân vật và chuyển động máy quay.
 
-[![Xem ví dụ](https://img.shields.io/badge/Grok%20Imagine%201.5-Xem%20v%C3%AD%20d%E1%BB%A5-7c3aed?style=for-the-badge)](https://github.com/seaimagineai/awesome-grok-imagine-prompts/blob/main/README.vi-VN.md) [![Sáng tạo với mô hình này](https://img.shields.io/badge/SeaImagine-S%C3%A1ng%20t%E1%BA%A1o%20v%E1%BB%9Bi%20m%C3%B4%20h%C3%ACnh%20n%C3%A0y-181717?style=for-the-badge)](https://seaimagine.com/vi/model/grok-imagine-1-5/)
+[![Khám phá dự án](https://img.shields.io/badge/Grok%20Imagine%201.5-Kh%C3%A1m%20ph%C3%A1%20d%E1%BB%B1%20%C3%A1n-7c3aed?style=for-the-badge)](https://github.com/seaimagineai/awesome-grok-imagine-prompts/blob/main/README.vi-VN.md) [![Sáng tạo với mô hình này](https://img.shields.io/badge/SeaImagine-S%C3%A1ng%20t%E1%BA%A1o%20v%E1%BB%9Bi%20m%C3%B4%20h%C3%ACnh%20n%C3%A0y-181717?style=for-the-badge)](https://seaimagine.com/vi/model/grok-imagine-1-5/)
 
-### [Seedance 2.5](https://github.com/seaimagineai/awesome-seedance-2-5-prompts/blob/main/README_VI.md)
+#### [Seedance 2.5](https://github.com/seaimagineai/awesome-seedance-2-5-prompts/blob/main/README_VI.md)
 
 [![Seedance 2.5](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/seedance.jpg)](https://github.com/seaimagineai/awesome-seedance-2-5-prompts/blob/main/README_VI.md)
 
@@ -72,7 +74,9 @@ Dùng bộ sưu tập này khi bạn muốn học từ video mẫu và chuyển 
 
 **Phù hợp với:** Nhà sáng tạo thích học bằng cách xem tư liệu tham chiếu và chia ý tưởng quảng cáo hoặc câu chuyện thành từng cảnh quay.
 
-[![Xem ví dụ](https://img.shields.io/badge/Seedance%202.5-Xem%20v%C3%AD%20d%E1%BB%A5-7c3aed?style=for-the-badge)](https://github.com/seaimagineai/awesome-seedance-2-5-prompts/blob/main/README_VI.md) [![Sáng tạo với mô hình này](https://img.shields.io/badge/SeaImagine-S%C3%A1ng%20t%E1%BA%A1o%20v%E1%BB%9Bi%20m%C3%B4%20h%C3%ACnh%20n%C3%A0y-181717?style=for-the-badge)](https://seaimagine.com/vi/model/seedance-2-5/)
+[![Khám phá dự án](https://img.shields.io/badge/Seedance%202.5-Kh%C3%A1m%20ph%C3%A1%20d%E1%BB%B1%20%C3%A1n-7c3aed?style=for-the-badge)](https://github.com/seaimagineai/awesome-seedance-2-5-prompts/blob/main/README_VI.md) [![Sáng tạo với mô hình này](https://img.shields.io/badge/SeaImagine-S%C3%A1ng%20t%E1%BA%A1o%20v%E1%BB%9Bi%20m%C3%B4%20h%C3%ACnh%20n%C3%A0y-181717?style=for-the-badge)](https://seaimagine.com/vi/model/seedance-2-5/)
+
+[![Dự án mã nguồn mở](https://img.shields.io/badge/GitHub-D%E1%BB%B1%20%C3%A1n%20m%C3%A3%20ngu%E1%BB%93n%20m%E1%BB%9F-181717?style=for-the-badge&logo=github)](https://github.com/seaimagineai?tab=repositories)
 
 ## Sáng tạo trên SeaImagine
 
@@ -85,24 +89,24 @@ Dùng bộ sưu tập này khi bạn muốn học từ video mẫu và chuyển 
 
 [![Truy cập SeaImagine](https://img.shields.io/badge/SeaImagine-Truy%20c%E1%BA%ADp%20SeaImagine-7c3aed?style=for-the-badge)](https://seaimagine.com/vi/create/)
 
-## Bắt đầu từ một ví dụ
+## Tìm điểm khởi đầu phù hợp
 
-1. **Chọn một cảnh và tìm hiểu các thành phần.** Mở thư viện phù hợp, đọc ví dụ và sao chép câu lệnh. Xác định chủ thể, bố cục mở đầu, chuyển động và kết thúc trước khi sửa.
-2. **Chuẩn bị đầu vào của riêng bạn.** Chọn mô hình trên SeaImagine rồi nhập văn bản đã điều chỉnh hoặc tải ảnh tham chiếu lên. Kiểm tra các thiết lập có sẵn, yêu cầu đầu vào và chi phí sử dụng hiện tại của mô hình.
-3. **Xem lại rồi thay đổi từng yếu tố.** So sánh kết quả với bố cục, tính nhất quán của chủ thể và chuyển động máy quay bạn mong muốn; kiểm tra âm thanh nếu cách tạo đã chọn hỗ trợ. Lưu câu lệnh, đầu vào và thiết lập cùng kết quả để tái sử dụng cách làm hiệu quả.
+1. **Khám phá một dự án.** Chọn tài nguyên phù hợp với mục tiêu, đọc tài liệu và kiểm tra các yêu cầu. Thử một ví dụ nhỏ trước khi điều chỉnh cho công việc lớn hơn.
+2. **Sáng tạo trên SeaImagine.** Nếu muốn làm hình ảnh hoặc video, bạn có thể dùng các công cụ trên website. Chọn cách làm phù hợp với văn bản hoặc tư liệu tham khảo, rồi kiểm tra các tùy chọn và chi phí sử dụng.
+3. **Góp phần cải tiến.** Báo lỗi có thể tái hiện, đề xuất tài liệu rõ ràng hơn hoặc đóng góp thay đổi vào kho lưu trữ liên quan. Giải thích bạn đã thử gì và đóng góp đó giúp người khác làm được việc gì.
 
-## Chia sẻ điều bạn học được
+## Cùng xây dựng và đóng góp
 
-Đóng góp hữu ích giúp người đọc tiếp theo hiểu và tái hiện ý tưởng. Mở mục Issue trong kho liên quan để đặt câu hỏi hoặc báo liên kết tham chiếu bị hỏng; đề xuất bản dịch rõ hơn hoặc chia sẻ ví dụ có cách sáng tạo khác.
+Chúng tôi chào đón nhà sáng tạo, lập trình viên, nhà thiết kế và những người mới bắt đầu tìm hiểu. Một lời giải thích rõ ràng hơn, bản dịch, phần sửa nguồn tham khảo, ví dụ có thể tái hiện hoặc cải tiến mã nguồn đều là đóng góp có ích. Hãy chọn kho lưu trữ gần với sở thích của bạn và đọc hướng dẫn đóng góp.
 
-Với ví dụ mới, hãy kèm câu lệnh, thiết lập liên quan, nguồn tư liệu tham chiếu và mô tả ngắn về điều bạn học được. Nếu sửa tệp trong kho, gửi yêu cầu thay đổi (Pull Request) để được xem xét. Trước khi dùng lại nội dung, hãy kiểm tra giấy phép của từng kho và điều khoản sử dụng của tư liệu gốc.
+Dùng Issues để đặt câu hỏi, báo lỗi hoặc trao đổi ý tưởng. Khi đề xuất sửa tệp, hãy mở Pull Request (yêu cầu thay đổi) kèm giải thích ngắn và kết quả kiểm tra liên quan. Ghi nguồn cho tư liệu bên ngoài, đồng thời tuân thủ giấy phép và yêu cầu sử dụng của dự án.
 
 [Gemini Omni](https://github.com/seaimagineai/awesome-gemini-omni-prompts/issues) · [Grok Imagine 1.5](https://github.com/seaimagineai/awesome-grok-imagine-prompts/issues) · [Seedance 2.5](https://github.com/seaimagineai/awesome-seedance-2-5-prompts/issues)
 
 <div align="center">
 
-<strong>Bắt đầu bằng một cảnh quay và chia sẻ cách làm hữu ích với những người sáng tạo khác.</strong>
+<strong>Cùng SeaImagine sáng tạo, học hỏi và phát triển.</strong>
 
-<a href="https://seaimagine.com/vi/">Truy cập SeaImagine</a> · <a href="https://github.com/seaimagineai?tab=repositories">Thư viện nguồn mở</a>
+<a href="https://seaimagine.com/vi/">Truy cập SeaImagine</a> · <a href="https://github.com/seaimagineai?tab=repositories">Dự án mã nguồn mở</a>
 
 </div>

@@ -1,28 +1,17 @@
 {
   "name": "Bahasa Indonesia",
-  "tagline": "Ubah ide menjadi gambar dan video. Belajar dari prompt yang bisa digunakan kembali.",
+  "tagline": "Berkarya dengan AI. Jelajahi ide, kembangkan bersama, dan bagikan cara yang berhasil.",
   "visit": "Kunjungi SeaImagine",
-  "opensource": "Pustaka sumber terbuka",
+  "opensource": "Proyek sumber terbuka",
   "current": "Saat ini",
   "view": "Lihat",
-  "intro_title": "Berkarya dengan SeaImagine",
-  "intro": "SeaImagine adalah platform daring untuk membuat gambar dan video dengan AI bagi kreator, desainer, dan tim kecil. Mulailah dari ide tertulis, foto produk, atau gambar referensi karakter, lalu pilih alur pembuatan gambar atau video untuk mengembangkannya. Anda bisa mencoba visual kampanye, merancang cerita pendek, atau mencari arah baru untuk unggahan media sosial.\n\nOrganisasi GitHub ini menjadi pustaka belajar pendamping: contoh bergambar, prompt yang dapat digunakan kembali, dan ulasan video dengan tautan sumber untuk dibaca sebelum berkarya. Gunakan situs untuk membuat karya sendiri, dan repositori ini untuk memahami cara menjelaskan adegan—apa yang tetap ada dalam bingkai, apa yang bergerak, bagaimana kamera bekerja, dan kapan suara berubah.",
-  "why_title": "Mengapa kami membagikan proses kreatif",
-  "why": "Prompt yang berguna memperlihatkan keputusan kreatif dengan jelas. Adegan lebih mudah dipahami saat gambar referensi, aksi, pengaturan waktu, dan suara disajikan bersama. Pustaka kami menghimpun bahan-bahan ini agar Anda dapat melihat bagaimana ide berubah menjadi petunjuk penyutradaraan.\n\n- **Referensi visual.** Contoh bergambar dan bingkai awal memberi latar konkret bagi deskripsi tertulis.\n- **Prompt yang bisa disimpan.** Teks lengkap dan contoh yang dapat diunduh menjadi titik awal untuk catatan kerja Anda sendiri.\n- **Sumber untuk ditelusuri.** Contoh resmi dan komunitas dengan atribusi membantu Anda menemukan karya asli dan memahami konteksnya.\n\nKami menyambut perbaikan terjemahan, penjelasan yang lebih jelas, dan contoh baru. Membagikan keputusan di balik suatu adegan membuat koleksi lebih berguna bagi kreator berikutnya.",
-  "projects_title": "Jelajahi pustaka prompt",
+  "intro_title": "SeaImagine: dari ide kreatif ke karya nyata",
+  "intro": "SeaImagine adalah platform daring untuk membuat gambar dan video dengan AI, bagi kreator, desainer, dan tim kecil. Mulailah dari ide tertulis, foto produk, atau gambar referensi karakter, lalu coba berbagai cara mewujudkannya menjadi karya visual, dari gambar promosi hingga cerita pendek dan video media sosial.\n\nOrganisasi GitHub kami menjadi tempat bagi siapa pun yang ingin memahami cara kerja suatu proyek, menyesuaikan pendekatan dengan kebutuhannya, dan ikut melakukan perbaikan. Di sini kami menghimpun proyek publik SeaImagine agar kreator dan pengembang dapat menemukan titik awal yang berguna, mempelajari proses di baliknya, serta berpartisipasi dalam pengembangannya. Fokus kami adalah kreasi dengan AI dan penerapan praktisnya. Kami menyambut kontribusi yang dapat digunakan kembali berupa alat, alur kerja, tutorial, bahan referensi, atau kode.",
+  "why_title": "Mengapa kami mengembangkan secara terbuka",
+  "why": "Kami percaya bahwa karya yang berguna akan semakin bernilai ketika orang lain dapat memahami, memakai, dan memperbaikinya. Pendekatan sumber terbuka kami bertujuan menjelaskan keputusan di balik proyek sekaligus menyediakan bahan yang diperlukan untuk mencobanya.\n\n- **Memudahkan langkah awal.** Jelaskan fungsi proyek, siapa yang terbantu, dan cara memulainya.\n- **Bagikan karya yang dapat disesuaikan.** Berikan konteks yang cukup agar pembaca dapat memakai kembali ide dan memahami batasannya, bukan sekadar melihat hasil.\n- **Perbaiki melalui kerja sama.** Kami menyambut pertanyaan, koreksi, serta kontribusi pada dokumentasi, contoh, desain, dan kode.\n\nPrinsip ini menjadi pedoman kami dalam memperkenalkan dan memelihara proyek di organisasi ini. Setiap repositori menjelaskan cakupan, petunjuk pemasangan atau penggunaan, sumber, dan lisensinya sendiri.",
+  "projects_title": "Jelajahi proyek sumber terbuka kami",
   "best_for": "Cocok untuk:",
-  "browse": "Lihat contoh",
-  "project_descriptions": [
-    "Titik awal yang cocok saat Anda ingin menjelajahi penceritaan, film produk, dan penyuntingan video yang lebih terarah. Telusuri kategori seperti sinema, konten komersial, adegan dokumenter, animasi, kendali kamera, dan dunia miniatur, lalu buka contoh yang sesuai dengan ide Anda.\n\nPustaka ini memadukan bingkai awal referensi, prompt lengkap, serta ulasan contoh resmi atau komunitas dengan atribusi. Pelajari bagaimana sebuah shot berkembang, apa yang perlu tetap konsisten, dan bagaimana suara mendukung aksi. Dalam “Amber perfume / mechanical eclipse”, botol tetap diam sementara cincin tembaga dan irisan jeruk mengubah cahaya di sekelilingnya—latihan konkret untuk memisahkan kestabilan produk dari gerakan latar.",
-    "Jelajahi prompt berbasis adegan untuk presentasi produk, video sosial, interaksi karakter, dan lingkungan imajinatif. Indeks topik membantu Anda beralih dari ide umum ke contoh bergambar, sedangkan teks yang dapat diunduh memudahkan penyalinan prompt ke catatan kerja.\n\nContoh-contohnya memperhatikan gerakan sekaligus tampilan: lintasan kamera, tempo aksi, kesinambungan dalam satu shot, dan suara yang sesuai dengan adegan. Untuk mempelajari produk secara terperinci, coba contoh botol kaca laut. Untuk tantangan berbeda, “The Last Tooth” menampilkan duet pembuat jam: amati dialog dua karakter dan posisi mereka satu sama lain dalam satu adegan.",
-    "Gunakan koleksi ini untuk belajar dari contoh video dan mengubah ide menjadi rangkaian petunjuk penyutradaraan yang jelas. Klip komunitas, tautan sumber, dan prompt per shot menyediakan titik masuk untuk iklan, adegan sinematik, serta cerita pendek yang berangkat dari gambar referensi.\n\nBaca contoh bersama prompt-nya dan perhatikan fungsi setiap bagian: komposisi pembuka, aksi utama, posisi kamera, dan bingkai terakhir. Mulailah dengan serah-terima benda yang singkat untuk mempelajari satu aksi, atau buka contoh catatan perjalanan dan pengungkapan panggung untuk melihat bagaimana beberapa shot membentuk rangkaian. Repositori ini juga memuat contoh resmi dan panduan bergambar untuk menghubungkan apa yang Anda tonton dengan apa yang Anda tulis."
-  ],
-  "project_audiences": [
-    "Kreator yang merencanakan adegan naratif, video produk pendek, atau eksperimen penyuntingan dan ingin mempelajari shot secara terperinci.",
-    "Kreator media sosial dan desainer yang mencari contoh produk, karakter, dan gerakan kamera untuk digunakan kembali.",
-    "Kreator yang suka belajar dengan menonton referensi dan memecah ide iklan atau cerita menjadi shot tersendiri."
-  ],
-  "image_note": "Gambar ini adalah sampul pustaka prompt. Klik untuk melihat contoh dan sumbernya.",
+  "browse": "Jelajahi proyek",
   "tools_title": "Buat di SeaImagine",
   "tool_labels": [
     "Teks menjadi video",
@@ -36,15 +25,35 @@
     "Jelajahi arah visual untuk cerita, produk, atau kampanye, atau siapkan gambar referensi sebelum merencanakan video.",
     "Sempurnakan gambar yang sudah ada untuk ide berikutnya. Pilih alur penyuntingan yang tersedia dan jelaskan perubahan yang diinginkan."
   ],
-  "start_title": "Mulai dari satu contoh",
+  "start_title": "Temukan titik awal Anda",
   "steps": [
-    "**Pilih satu adegan dan pelajari unsur-unsurnya.** Buka pustaka yang sesuai, baca contoh, lalu salin prompt-nya. Kenali subjek, komposisi awal, gerakan, dan akhir sebelum mengubahnya.",
-    "**Siapkan masukan Anda sendiri.** Pilih model di SeaImagine lalu masukkan teks yang telah disesuaikan atau unggah gambar referensi. Periksa pengaturan yang tersedia, persyaratan masukan, dan biaya penggunaan model saat ini.",
-    "**Tinjau hasil, lalu ubah satu hal.** Bandingkan hasil dengan komposisi, konsistensi subjek, dan gerakan kamera yang diinginkan; periksa suara jika alur yang dipilih mendukungnya. Simpan prompt, masukan, dan pengaturan bersama hasil agar cara yang berguna dapat diulangi."
+    "**Jelajahi proyek.** Pilih sumber yang sesuai tujuan, baca dokumentasi, dan periksa persyaratannya. Mulailah dengan contoh kecil sebelum menyesuaikannya untuk pekerjaan yang lebih besar.",
+    "**Berkarya di SeaImagine.** Jika ingin membuat gambar atau video, gunakan alat kreatif di situs web. Pilih alur kerja yang sesuai dengan teks atau bahan referensi Anda, lalu periksa pengaturan dan biaya penggunaannya.",
+    "**Bantu memperbaiki proyek.** Laporkan masalah yang dapat direproduksi, usulkan dokumentasi yang lebih jelas, atau kontribusikan perubahan ke repositori terkait. Jelaskan apa yang telah Anda coba dan pekerjaan apa yang terbantu oleh kontribusi tersebut."
   ],
-  "contribute_title": "Bagikan pengalaman Anda",
-  "contribute": "Kontribusi yang berguna membantu pembaca berikutnya memahami dan mencoba kembali sebuah ide. Buka Issue di repositori terkait untuk bertanya atau melaporkan tautan referensi yang rusak; usulkan terjemahan yang lebih jelas atau bagikan contoh dengan pendekatan kreatif berbeda.\n\nUntuk contoh baru, sertakan prompt, pengaturan terkait, sumber bahan referensi, dan penjelasan singkat tentang hal yang dipelajari. Jika mengubah berkas repositori, kirim permintaan perubahan (Pull Request) agar dapat ditinjau. Sebelum menggunakan kembali konten, periksa lisensi masing-masing repositori dan ketentuan penggunaan bahan sumber.",
-  "footer": "Mulai dari satu adegan, lalu bagikan cara yang bermanfaat kepada kreator lain.",
+  "contribute_title": "Kembangkan dan berkontribusi bersama kami",
+  "contribute": "Kreator, pengembang, desainer, dan pemula yang ingin belajar dipersilakan bergabung. Kontribusi yang berguna bisa berupa penjelasan yang lebih jelas, terjemahan, koreksi sumber, contoh yang dapat direproduksi, atau perbaikan kode. Pilih repositori yang sesuai minat dan baca panduan kontribusinya.\n\nGunakan Issues untuk bertanya, melaporkan masalah, atau mendiskusikan ide. Untuk mengusulkan perubahan berkas, buka Pull Request (usulan perubahan) dengan penjelasan singkat dan hasil pemeriksaan yang relevan. Cantumkan sumber materi dari luar serta ikuti lisensi dan ketentuan penggunaan proyek.",
+  "footer": "Berkarya, belajar, dan mengembangkan bersama SeaImagine.",
   "try_model": "Buat dengan model ini",
-  "prompt_languages": "Halaman pengantar tersedia dalam 15 bahasa. Bahasa prompt dan cakupan contoh terjemahan berbeda antar repositori; setiap pustaka menjelaskan cakupannya sendiri."
+  "projects": {
+    "gemini-omni": {
+      "description": "Titik awal yang cocok saat Anda ingin menjelajahi penceritaan, film produk, dan penyuntingan video yang lebih terarah. Telusuri kategori seperti sinema, konten komersial, adegan dokumenter, animasi, kendali kamera, dan dunia miniatur, lalu buka contoh yang sesuai dengan ide Anda.\n\nPustaka ini memadukan bingkai awal referensi, prompt lengkap, serta ulasan contoh resmi atau komunitas dengan atribusi. Pelajari bagaimana sebuah shot berkembang, apa yang perlu tetap konsisten, dan bagaimana suara mendukung aksi. Dalam “Amber perfume / mechanical eclipse”, botol tetap diam sementara cincin tembaga dan irisan jeruk mengubah cahaya di sekelilingnya—latihan konkret untuk memisahkan kestabilan produk dari gerakan latar.",
+      "audience": "Kreator yang merencanakan adegan naratif, video produk pendek, atau eksperimen penyuntingan dan ingin mempelajari shot secara terperinci."
+    },
+    "grok-imagine": {
+      "description": "Jelajahi prompt berbasis adegan untuk presentasi produk, video sosial, interaksi karakter, dan lingkungan imajinatif. Indeks topik membantu Anda beralih dari ide umum ke contoh bergambar, sedangkan teks yang dapat diunduh memudahkan penyalinan prompt ke catatan kerja.\n\nContoh-contohnya memperhatikan gerakan sekaligus tampilan: lintasan kamera, tempo aksi, kesinambungan dalam satu shot, dan suara yang sesuai dengan adegan. Untuk mempelajari produk secara terperinci, coba contoh botol kaca laut. Untuk tantangan berbeda, “The Last Tooth” menampilkan duet pembuat jam: amati dialog dua karakter dan posisi mereka satu sama lain dalam satu adegan.",
+      "audience": "Kreator media sosial dan desainer yang mencari contoh produk, karakter, dan gerakan kamera untuk digunakan kembali."
+    },
+    "seedance": {
+      "description": "Gunakan koleksi ini untuk belajar dari contoh video dan mengubah ide menjadi rangkaian petunjuk penyutradaraan yang jelas. Klip komunitas, tautan sumber, dan prompt per shot menyediakan titik masuk untuk iklan, adegan sinematik, serta cerita pendek yang berangkat dari gambar referensi.\n\nBaca contoh bersama prompt-nya dan perhatikan fungsi setiap bagian: komposisi pembuka, aksi utama, posisi kamera, dan bingkai terakhir. Mulailah dengan serah-terima benda yang singkat untuk mempelajari satu aksi, atau buka contoh catatan perjalanan dan pengungkapan panggung untuk melihat bagaimana beberapa shot membentuk rangkaian. Repositori ini juga memuat contoh resmi dan panduan bergambar untuk menghubungkan apa yang Anda tonton dengan apa yang Anda tulis.",
+      "audience": "Kreator yang suka belajar dengan menonton referensi dan memecah ide iklan atau cerita menjadi shot tersendiri."
+    }
+  },
+  "categories": {
+    "prompt_libraries": {
+      "title": "Kumpulan prompt dan referensi kreatif",
+      "intro": "Bagi kreator yang sedang menjelajahi video AI, kumpulan ini menyajikan adegan berilustrasi, prompt yang dapat digunakan kembali, dan contoh dengan tautan sumber. Klik gambar sampul untuk membuka proyek lengkap. Sampul merupakan ilustrasi, bukan hasil video yang dihasilkan. Bahasa prompt dan cakupan terjemahan berbeda di setiap repositori."
+    }
+  },
+  "projects_intro": "Pilih proyek sesuai hal yang ingin Anda pelajari atau kerjakan. Pengantar di bawah menjelaskan isi proyek dan siapa yang dapat memanfaatkannya. Buka repositori untuk membaca dokumentasi dan panduan kontribusi. Jelajahi seluruh repositori untuk melihat proyek yang baru ditambahkan dan pembaruan terbaru."
 }

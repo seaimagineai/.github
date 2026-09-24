@@ -1,0 +1,85 @@
+{
+  "categories": [
+    "prompt_libraries"
+  ],
+  "projects": [
+    {
+      "id": "gemini-omni",
+      "title": "Gemini Omni",
+      "repository": "awesome-gemini-omni-prompts",
+      "category": "prompt_libraries",
+      "image": "gemini-omni.png",
+      "website_route": "model/gemini-omni-1-1-flash/",
+      "website_label_key": "try_model",
+      "readmes": {
+        "en": "README.md",
+        "ja": "README_JA.md",
+        "pt": "README_PT.md",
+        "es": "README_ES.md",
+        "de": "README_DE.md",
+        "ru": "README_RU.md",
+        "fr": "README_FR.md",
+        "cn": "README_ZH.md",
+        "tw": "README_ZH-TW.md",
+        "ko": "README_KO.md",
+        "th": "README_TH.md",
+        "vi": "README_VI.md",
+        "ar": "README_AR.md",
+        "id": "README_ID.md",
+        "it": "README_IT.md"
+      }
+    },
+    {
+      "id": "grok-imagine",
+      "title": "Grok Imagine 1.5",
+      "repository": "awesome-grok-imagine-prompts",
+      "category": "prompt_libraries",
+      "image": "grok-imagine.webp",
+      "website_route": "model/grok-imagine-1-5/",
+      "website_label_key": "try_model",
+      "readmes": {
+        "en": "README.md",
+        "ja": "README.ja-JP.md",
+        "pt": "README.pt-BR.md",
+        "es": "README.es-ES.md",
+        "de": "README.de-DE.md",
+        "ru": "README.ru-RU.md",
+        "fr": "README.fr-FR.md",
+        "cn": "README.zh-CN.md",
+        "tw": "README.zh-TW.md",
+        "ko": "README.ko-KR.md",
+        "th": "README.th-TH.md",
+        "vi": "README.vi-VN.md",
+        "ar": "README.ar.md",
+        "id": "README.id-ID.md",
+        "it": "README.it-IT.md"
+      }
+    },
+    {
+      "id": "seedance",
+      "title": "Seedance 2.5",
+      "repository": "awesome-seedance-2-5-prompts",
+      "category": "prompt_libraries",
+      "image": "seedance.jpg",
+      "website_route": "model/seedance-2-5/",
+      "website_label_key": "try_model",
+      "readmes": {
+        "en": "README.md",
+        "ja": "README_JA.md",
+        "pt": "README_PT.md",
+        "es": "README_ES.md",
+        "de": "README_DE.md",
+        "ru": "README_RU.md",
+        "fr": "README_FR.md",
+        "cn": "README_ZH.md",
+        "tw": "README_TW.md",
+        "ko": "README_KO.md",
+        "th": "README_TH.md",
+        "vi": "README_VI.md",
+        "ar": "README_AR.md",
+        "id": "README_ID.md",
+        "it": "README_IT.md"
+      }
+    }
+  ]
+}

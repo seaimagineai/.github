@@ -33,3 +33,9 @@
 ## 扩写中的案例依据
 
 项目介绍所述案例分别来自 [Gemini Omni 香水案例](https://github.com/seaimagineai/awesome-gemini-omni-prompts#example-02)、[Grok 钟表修复师双人对白](https://github.com/seaimagineai/awesome-grok-imagine-prompts#case-clockwork-dialogue)及 [Seedance 社区案例入口](https://github.com/seaimagineai/awesome-seedance-2-5-prompts#seedance-25-videos-from-x--watch-inspect-remix)。相关描述用于说明资料库里可以学习的创作方法，不作为模型能力比较或效果保证。
+
+## 组织定位与长期维护
+
+按用户要求再次对照 [FLAQ Overview](https://github.com/flaqai/.github/blob/main/profile/README.md) 的组织叙述：先介绍品牌与开放理念，再呈现具体项目。SeaImagine 的组织介绍不限定项目类型；目前的提示词项目保留为一个实际存在的分类。工具、工作流程、教程、资料和代码是欢迎贡献的形式，并非已经上线的项目清单。
+
+实际展示项目以 [projects.json](../data/projects.json) 为准，不能把未发布的项目或空分类写成已有成果。

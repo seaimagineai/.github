@@ -4,9 +4,9 @@
 
 # SeaImagine
 
-**把想法做成圖像與影片，從可重複運用的提示詞中學習。**
+**用 AI 實現創意，一起探索、開發與分享。**
 
-[![造訪 SeaImagine](https://img.shields.io/badge/SeaImagine-%E9%80%A0%E8%A8%AA%20SeaImagine-7c3aed?style=for-the-badge)](https://seaimagine.com/tw/) [![開源資源庫](https://img.shields.io/badge/GitHub-%E9%96%8B%E6%BA%90%E8%B3%87%E6%BA%90%E5%BA%AB-181717?style=for-the-badge&logo=github)](https://github.com/seaimagineai?tab=repositories)
+[![造訪 SeaImagine](https://img.shields.io/badge/SeaImagine-%E9%80%A0%E8%A8%AA%20SeaImagine-7c3aed?style=for-the-badge)](https://seaimagine.com/tw/) [![開源專案](https://img.shields.io/badge/GitHub-%E9%96%8B%E6%BA%90%E5%B0%88%E6%A1%88-181717?style=for-the-badge&logo=github)](https://github.com/seaimagineai?tab=repositories)
 
 </div>
 
@@ -16,29 +16,31 @@
 
 ---
 
-## 用 SeaImagine 開始創作
+## SeaImagine：讓創意走向實踐
 
-SeaImagine 是面向創作者、設計師和小型團隊的線上 AI 圖片與影片創作平台。你可以從一句創意描述、一張產品照片或一幅角色參考圖出發，選擇合適的圖片或影片工具，嘗試廣告畫面、故事短片和社群內容的不同表達。
+SeaImagine 是面向創作者、設計師和小型團隊的線上 AI 圖片與影片創作平台。你可以從一句創意描述、一張產品照片或一幅角色參考圖出發，探索不同的視覺表達，製作宣傳圖片、故事短片和社群影片。
 
-這裡的 GitHub 資料庫為創作提供另一種幫助：透過圖文案例、可複製的提示詞和附有來源的影片解析，讓你在動手前看懂一個鏡頭是怎樣設計的。官網用於製作自己的作品，資料庫則幫助你思考畫面裡保留什麼、什麼應該移動、鏡頭怎樣拍，以及聲音何時出現。
+我們的 GitHub 組織面向希望進一步了解原理、動手實作和參與改進的人。這裡匯集 SeaImagine 的公開專案，讓創作者和開發者找到適合自己的起點，理解專案背後的方法，並在此基礎上嘗試、修改和交流。我們關注 AI 創作與實際應用，歡迎以工具、工作流程、教學、資料或程式碼等形式分享可重複運用的成果。
 
-## 為什麼分享這些創作方法
+## 為什麼參與開源
 
-有用的提示詞會把創作選擇講清楚。把參考畫面、動作、時間安排和聲音放在一起看，才更容易理解一個場景。這些資料庫把相關材料整理在一起，幫助你看懂一個想法如何變成鏡頭說明。
+我們相信，一項工作如果能被更多人理解、使用和改進，就能產生更大的價值。開放專案既要分享成果，也要說清其中的選擇，並提供足夠的材料，幫助別人開始嘗試。
 
-- **可以對照的畫面。** 圖文案例和參考首幀，讓文字描述有具體的場景可看。
-- **可以留存的提示詞。** 完整文字與可下載的案例，方便整理成自己的創作筆記。
-- **可以繼續探索的來源。** 附有出處的官方與社群案例，讓你能找到原作，了解它的背景。
+- **讓上手更容易。** 說明專案做什麼、適合誰，以及第一步從哪裡開始。
+- **讓成果可以重複運用。** 提供必要的背景和使用說明，讓讀者知道如何調整，也了解適用範圍。
+- **在協作中改進。** 歡迎針對文件、案例、設計和程式碼提出問題、修正錯誤或貢獻修改。
 
-也歡迎你改善翻譯、補充更清楚的解釋或分享新的案例。把一個鏡頭背後的選擇說清楚，就能幫助下一位創作者少走一點彎路。
+這些原則貫穿本組織的專案介紹與維護。每個儲存庫會分別說明自己的用途、安裝或使用方法、內容來源和授權條款。
 
-## 探索提示詞資源庫
+## 探索我們的開源專案
 
-圖片為提示詞資源庫封面，點選即可查看案例和來源。
+從你想學習或完成的事情出發選擇專案。下面的介紹會說明專案包含什麼、適合誰；進入儲存庫後，可以查看詳細文件和參與方式。也歡迎瀏覽全部儲存庫，了解最新加入和更新的專案。
 
-組織首頁提供 15 種語言。各資料庫的提示詞語言和翻譯範圍不同，進入專案後可查看具體說明。
+### 提示詞庫與創作參考
 
-### [Gemini Omni](https://github.com/seaimagineai/awesome-gemini-omni-prompts/blob/main/README_ZH-TW.md)
+如果你正在探索 AI 影片創作，可以從這些集錦開始：圖文場景、可重複運用的提示詞，以及附有來源的案例。點擊封面即可進入專案；封面是示意圖片，不代表影片生成結果。各儲存庫的提示詞語言和翻譯範圍不同，詳細資訊請參閱專案說明。
+
+#### [Gemini Omni](https://github.com/seaimagineai/awesome-gemini-omni-prompts/blob/main/README_ZH-TW.md)
 
 [![Gemini Omni](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/gemini-omni.png)](https://github.com/seaimagineai/awesome-gemini-omni-prompts/blob/main/README_ZH-TW.md)
 
@@ -48,9 +50,9 @@ SeaImagine 是面向創作者、設計師和小型團隊的線上 AI 圖片與�
 
 **適合：** 希望細看鏡頭設計，嘗試敘事、產品短片或影片編輯的創作者。
 
-[![瀏覽案例](https://img.shields.io/badge/Gemini%20Omni-%E7%80%8F%E8%A6%BD%E6%A1%88%E4%BE%8B-7c3aed?style=for-the-badge)](https://github.com/seaimagineai/awesome-gemini-omni-prompts/blob/main/README_ZH-TW.md) [![使用這個模型創作](https://img.shields.io/badge/SeaImagine-%E4%BD%BF%E7%94%A8%E9%80%99%E5%80%8B%E6%A8%A1%E5%9E%8B%E5%89%B5%E4%BD%9C-181717?style=for-the-badge)](https://seaimagine.com/tw/model/gemini-omni-1-1-flash/)
+[![了解專案](https://img.shields.io/badge/Gemini%20Omni-%E4%BA%86%E8%A7%A3%E5%B0%88%E6%A1%88-7c3aed?style=for-the-badge)](https://github.com/seaimagineai/awesome-gemini-omni-prompts/blob/main/README_ZH-TW.md) [![使用這個模型創作](https://img.shields.io/badge/SeaImagine-%E4%BD%BF%E7%94%A8%E9%80%99%E5%80%8B%E6%A8%A1%E5%9E%8B%E5%89%B5%E4%BD%9C-181717?style=for-the-badge)](https://seaimagine.com/tw/model/gemini-omni-1-1-flash/)
 
-### [Grok Imagine 1.5](https://github.com/seaimagineai/awesome-grok-imagine-prompts/blob/main/README.zh-TW.md)
+#### [Grok Imagine 1.5](https://github.com/seaimagineai/awesome-grok-imagine-prompts/blob/main/README.zh-TW.md)
 
 [![Grok Imagine 1.5](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/grok-imagine.webp)](https://github.com/seaimagineai/awesome-grok-imagine-prompts/blob/main/README.zh-TW.md)
 
@@ -60,9 +62,9 @@ SeaImagine 是面向創作者、設計師和小型團隊的線上 AI 圖片與�
 
 **適合：** 需要累積產品、角色及鏡頭運動案例的社群內容創作者和設計師。
 
-[![瀏覽案例](https://img.shields.io/badge/Grok%20Imagine%201.5-%E7%80%8F%E8%A6%BD%E6%A1%88%E4%BE%8B-7c3aed?style=for-the-badge)](https://github.com/seaimagineai/awesome-grok-imagine-prompts/blob/main/README.zh-TW.md) [![使用這個模型創作](https://img.shields.io/badge/SeaImagine-%E4%BD%BF%E7%94%A8%E9%80%99%E5%80%8B%E6%A8%A1%E5%9E%8B%E5%89%B5%E4%BD%9C-181717?style=for-the-badge)](https://seaimagine.com/tw/model/grok-imagine-1-5/)
+[![了解專案](https://img.shields.io/badge/Grok%20Imagine%201.5-%E4%BA%86%E8%A7%A3%E5%B0%88%E6%A1%88-7c3aed?style=for-the-badge)](https://github.com/seaimagineai/awesome-grok-imagine-prompts/blob/main/README.zh-TW.md) [![使用這個模型創作](https://img.shields.io/badge/SeaImagine-%E4%BD%BF%E7%94%A8%E9%80%99%E5%80%8B%E6%A8%A1%E5%9E%8B%E5%89%B5%E4%BD%9C-181717?style=for-the-badge)](https://seaimagine.com/tw/model/grok-imagine-1-5/)
 
-### [Seedance 2.5](https://github.com/seaimagineai/awesome-seedance-2-5-prompts/blob/main/README_TW.md)
+#### [Seedance 2.5](https://github.com/seaimagineai/awesome-seedance-2-5-prompts/blob/main/README_TW.md)
 
 [![Seedance 2.5](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/seedance.jpg)](https://github.com/seaimagineai/awesome-seedance-2-5-prompts/blob/main/README_TW.md)
 
@@ -72,7 +74,9 @@ SeaImagine 是面向創作者、設計師和小型團隊的線上 AI 圖片與�
 
 **適合：** 喜歡透過觀看參考影片，把廣告或故事創意拆成具體鏡頭的創作者。
 
-[![瀏覽案例](https://img.shields.io/badge/Seedance%202.5-%E7%80%8F%E8%A6%BD%E6%A1%88%E4%BE%8B-7c3aed?style=for-the-badge)](https://github.com/seaimagineai/awesome-seedance-2-5-prompts/blob/main/README_TW.md) [![使用這個模型創作](https://img.shields.io/badge/SeaImagine-%E4%BD%BF%E7%94%A8%E9%80%99%E5%80%8B%E6%A8%A1%E5%9E%8B%E5%89%B5%E4%BD%9C-181717?style=for-the-badge)](https://seaimagine.com/tw/model/seedance-2-5/)
+[![了解專案](https://img.shields.io/badge/Seedance%202.5-%E4%BA%86%E8%A7%A3%E5%B0%88%E6%A1%88-7c3aed?style=for-the-badge)](https://github.com/seaimagineai/awesome-seedance-2-5-prompts/blob/main/README_TW.md) [![使用這個模型創作](https://img.shields.io/badge/SeaImagine-%E4%BD%BF%E7%94%A8%E9%80%99%E5%80%8B%E6%A8%A1%E5%9E%8B%E5%89%B5%E4%BD%9C-181717?style=for-the-badge)](https://seaimagine.com/tw/model/seedance-2-5/)
+
+[![開源專案](https://img.shields.io/badge/GitHub-%E9%96%8B%E6%BA%90%E5%B0%88%E6%A1%88-181717?style=for-the-badge&logo=github)](https://github.com/seaimagineai?tab=repositories)
 
 ## 在 SeaImagine 上創作
 
@@ -85,24 +89,24 @@ SeaImagine 是面向創作者、設計師和小型團隊的線上 AI 圖片與�
 
 [![造訪 SeaImagine](https://img.shields.io/badge/SeaImagine-%E9%80%A0%E8%A8%AA%20SeaImagine-7c3aed?style=for-the-badge)](https://seaimagine.com/tw/create/)
 
-## 從一個案例開始
+## 從哪裡開始
 
-1. **先選一個場景，看懂它的組成。** 開啟相關資料庫，閱讀案例並複製提示詞。修改前，先找出主體、開場構圖、主要動作和結尾。
-2. **準備自己的素材。** 在 SeaImagine 選擇模型，輸入改寫後的文字或上傳參考圖，並查看該模型目前支援的設定、輸入要求和使用費用。
-3. **檢查結果，每次只改一處。** 對照預期檢查構圖、主體一致性和鏡頭運動；所選功能支援聲音時，也檢查聲音。把提示詞、輸入素材和設定與結果一起儲存，方便重用有效的方法。
+1. **探索一個專案。** 根據自己的目標選擇資源，先閱讀說明和使用要求，再從一個小例子開始，逐步應用到自己的任務中。
+2. **在 SeaImagine 創作。** 如果你想製作圖片或影片，可以直接使用官網工具。根據文字或參考素材選擇合適的功能，並查看可用設定與使用費用。
+3. **參與專案改進。** 在對應儲存庫回報能夠重現的問題、補充更清楚的文件，或貢獻修改。說明你做過什麼，以及這項改進能幫助讀者完成什麼。
 
-## 分享你的創作經驗
+## 一起建設和完善專案
 
-有用的貢獻能讓下一位讀者更容易理解和嘗試一個想法。你可以在對應的儲存庫提出問題、回報失效的來源連結、改善翻譯，或補充一種不同的創作案例。
+歡迎創作者、開發者、設計師和剛開始探索的新朋友。更清楚的說明、翻譯、來源修正、可重現的例子或程式碼改進，都是有價值的貢獻。可以先選擇感興趣的儲存庫，閱讀它的參與說明。
 
-提交新案例時，請附上提示詞、相關設定、參考素材來源，以及你從中學到的經驗。如果修改了儲存庫檔案，可以發起修改請求（Pull Request），方便維護者審閱。重用內容前，請查看各儲存庫的授權條款及原始素材的使用要求。
+提出問題、回報故障或討論想法，可以使用儲存庫的問題區（Issues）。修改檔案時，可以發起修改請求（Pull Request），說明改了什麼，並附上相關檢查結果。引用外部材料時，請註明來源並遵守專案的授權條款和使用要求。
 
 [Gemini Omni](https://github.com/seaimagineai/awesome-gemini-omni-prompts/issues) · [Grok Imagine 1.5](https://github.com/seaimagineai/awesome-grok-imagine-prompts/issues) · [Seedance 2.5](https://github.com/seaimagineai/awesome-seedance-2-5-prompts/issues)
 
 <div align="center">
 
-<strong>從一個鏡頭開始，把實用的方法分享給更多創作者。</strong>
+<strong>與 SeaImagine 一起創作、學習和開發。</strong>
 
-<a href="https://seaimagine.com/tw/">造訪 SeaImagine</a> · <a href="https://github.com/seaimagineai?tab=repositories">開源資源庫</a>
+<a href="https://seaimagine.com/tw/">造訪 SeaImagine</a> · <a href="https://github.com/seaimagineai?tab=repositories">開源專案</a>
 
 </div>

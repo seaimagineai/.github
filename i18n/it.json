@@ -1,28 +1,17 @@
 {
   "name": "Italiano",
-  "tagline": "Trasforma un’idea in immagini e video. Impara da prompt che puoi riutilizzare.",
+  "tagline": "Crea con l’IA. Esplora idee, sviluppa insieme agli altri e condividi ciò che funziona.",
   "visit": "Visita SeaImagine",
-  "opensource": "Raccolte open source",
+  "opensource": "Progetti open source",
   "current": "Attuale",
   "view": "Vedi",
-  "intro_title": "Crea con SeaImagine",
-  "intro": "SeaImagine è una piattaforma online per creare immagini e video con l’IA, pensata per creator, designer e piccoli team. Parti da un’idea scritta, una foto di prodotto o un riferimento per un personaggio, poi scegli un percorso di creazione di immagini o video per svilupparla. Puoi esplorare un’immagine per una campagna, preparare una breve storia o provare una nuova direzione per un post sui social.\n\nQuesta organizzazione GitHub è la biblioteca didattica che accompagna la piattaforma: esempi illustrati, prompt riutilizzabili e analisi di video con link alle fonti, da consultare prima di creare. Usa il sito per realizzare i tuoi lavori e questi repository per capire come descrivere una scena: cosa resta nell’inquadratura, cosa si muove, come si comporta la camera e quando cambia il suono.",
-  "why_title": "Perché condividiamo i nostri processi creativi",
-  "why": "Un prompt utile rende esplicite le scelte creative. Una scena è più facile da capire quando immagine di riferimento, azione, tempi e suono vengono presentati insieme. Le nostre raccolte riuniscono questi materiali per mostrare come un’idea diventa un insieme di indicazioni di regia.\n\n- **Riferimenti visivi.** I casi illustrati e i fotogrammi iniziali danno un contesto concreto alla scena scritta.\n- **Prompt da conservare.** I testi completi e gli esempi scaricabili offrono un punto di partenza per i tuoi appunti di lavoro.\n- **Fonti da esplorare.** Gli esempi ufficiali e della community con attribuzione permettono di risalire all’opera originale e comprenderne il contesto.\n\nAccogliamo miglioramenti alle traduzioni, spiegazioni più chiare e nuovi esempi. Condividere le decisioni alla base di una scena rende la raccolta più utile al prossimo creator.",
-  "projects_title": "Esplora le raccolte di prompt",
+  "intro_title": "SeaImagine: dalle idee creative alla pratica",
+  "intro": "SeaImagine è una piattaforma online per creare immagini e video con l’IA, rivolta a creativi, designer e piccoli team. Parti da un’idea scritta, dalla foto di un prodotto o da un riferimento per un personaggio, poi esplora modi diversi per trasformarli in un lavoro visivo: da un’immagine per una campagna a un breve racconto o un video per i social.\n\nLa nostra organizzazione GitHub è uno spazio per chi vuole approfondire: capire come funzionano le cose, adattare un metodo alle proprie esigenze e contribuire a migliorarlo. Riunisce i nostri progetti pubblici affinché creativi e sviluppatori possano trovare punti di partenza utili, imparare dal lavoro che li sostiene e partecipare al loro sviluppo. Ci concentriamo sulla creazione con l’IA e sulle sue applicazioni pratiche, e accogliamo contributi riutilizzabili sotto forma di strumenti, flussi di lavoro, tutorial, materiali di riferimento o codice.",
+  "why_title": "Perché sviluppiamo in modo aperto",
+  "why": "Crediamo che un lavoro utile acquisti più valore quando altri possono comprenderlo, usarlo e migliorarlo. Il nostro approccio open source rende accessibili le decisioni alla base di un progetto e il materiale necessario per provarlo.\n\n- **Facilitare i primi passi.** Spiegare cosa fa un progetto, a chi serve e come iniziare.\n- **Condividere lavoro che si può adattare.** Offrire abbastanza contesto per riutilizzare un’idea e comprenderne i limiti, anziché mostrare solo un risultato.\n- **Migliorare attraverso la collaborazione.** Accogliere domande, correzioni e contributi a documentazione, esempi, design e codice.\n\nQuesti principi guidano la presentazione e la manutenzione dei progetti di questa organizzazione. Ogni repository descrive il proprio ambito, le istruzioni di configurazione o utilizzo, le fonti e la licenza.",
+  "projects_title": "Esplora i nostri progetti open source",
   "best_for": "Utile per:",
-  "browse": "Sfoglia gli esempi",
-  "project_descriptions": [
-    "Un buon punto di partenza per passare dalla narrazione ai filmati di prodotto e a un montaggio video più intenzionale. Esplora categorie come cinema, commercio, scene documentarie, animazione, controllo della camera e mondi in miniatura, poi apri un esempio vicino alla tua idea.\n\nLa raccolta combina fotogrammi iniziali di riferimento, prompt completi e analisi di esempi ufficiali o della community con indicazione delle fonti. Scopri come un’inquadratura si sviluppa nel tempo, cosa deve rimanere coerente e come il suono sostiene l’azione. In «Amber perfume / mechanical eclipse», un flacone resta fermo mentre un anello di rame e una fetta di agrume cambiano la luce intorno a esso: un esercizio concreto per distinguere la stabilità del prodotto dal movimento dello sfondo.",
-    "Esplora prompt basati su scene per presentazioni di prodotto, video social, interazioni tra personaggi e ambienti di fantasia. L’indice tematico ti accompagna da un’idea generale a un caso illustrato, mentre i testi scaricabili permettono di copiare facilmente un prompt nei tuoi appunti di lavoro.\n\nGli esempi curano il movimento oltre all’aspetto visivo: il percorso della camera, il ritmo di un’azione, la continuità dell’inquadratura e i suoni propri della scena. Per uno studio preciso del prodotto, prova il caso della bottiglia in vetro levigato dal mare. Per una sfida diversa, «The Last Tooth» esplora un duetto di orologiai: segui il dialogo e la relazione spaziale tra i due personaggi all’interno della stessa scena.",
-    "Usa questa raccolta per imparare dai video e trasformare un’idea in una sequenza di istruzioni di regia chiare. Clip della community, link alle fonti e prompt suddivisi per inquadratura offrono spunti per pubblicità, scene cinematografiche e brevi storie costruite intorno a un’immagine di riferimento.\n\nLeggi un esempio insieme al suo prompt e chiediti cosa aggiunge ogni parte: composizione iniziale, azione principale, posizione della camera e fotogramma finale. Inizia da un breve passaggio di un oggetto di scena per studiare una sola azione, oppure apri gli esempi del diario di viaggio e della rivelazione del palco per esaminare come più inquadrature formano una sequenza. Il repository include anche esempi ufficiali e indicazioni illustrate per collegare ciò che guardi a ciò che scrivi."
-  ],
-  "project_audiences": [
-    "Creator che progettano scene narrative, brevi video di prodotto o esperimenti di montaggio e vogliono studiare un’inquadratura nei dettagli.",
-    "Creator per i social e designer in cerca di esempi riutilizzabili di prodotti, personaggi e movimenti di camera.",
-    "Creator che preferiscono imparare guardando riferimenti e suddividendo idee pubblicitarie o narrative in singole inquadrature."
-  ],
-  "image_note": "Le immagini sono le copertine delle raccolte di prompt. Fai clic per consultare esempi e fonti.",
+  "browse": "Esplora il progetto",
   "tools_title": "Crea su SeaImagine",
   "tool_labels": [
     "Da testo a video",
@@ -36,15 +25,35 @@
     "Esplora una direzione visiva per una storia, un prodotto o una campagna, oppure prepara un’immagine di riferimento prima di progettare un video.",
     "Rielabora un’immagine esistente per la tua prossima idea. Scegli un percorso di modifica disponibile e spiega quali cambiamenti vuoi apportare."
   ],
-  "start_title": "Inizia da un esempio",
+  "start_title": "Trova il tuo punto di partenza",
   "steps": [
-    "**Scegli una scena e studiane gli elementi.** Apri una raccolta pertinente, leggi l’esempio e copia il prompt. Individua soggetto, composizione iniziale, movimento e conclusione prima di apportare modifiche.",
-    "**Prepara i tuoi materiali.** Scegli un modello su SeaImagine e inserisci il testo adattato oppure carica un’immagine di riferimento. Controlla le impostazioni disponibili, i requisiti di input e il costo d’uso attuale del modello scelto.",
-    "**Esamina il risultato, poi cambia un elemento.** Confrontalo con la composizione, la coerenza del soggetto e il movimento della camera desiderati; verifica il suono se il percorso scelto lo supporta. Conserva prompt, materiali di input e impostazioni insieme al risultato per poter ripetere un approccio utile."
+    "**Esplora un progetto.** Scegli una risorsa adatta al tuo obiettivo, leggi la documentazione e verifica i requisiti. Inizia con un piccolo esempio prima di adattarlo a un’attività più ampia.",
+    "**Crea su SeaImagine.** Se vuoi realizzare un’immagine o un video, usa gli strumenti creativi del sito. Scegli un percorso adatto al testo o al materiale di riferimento e controlla le impostazioni disponibili e il costo di utilizzo.",
+    "**Aiuta a migliorare il lavoro.** Segnala un problema riproducibile, proponi una documentazione più chiara o contribuisci con una modifica al repository pertinente. Spiega cosa hai provato e cosa permette di fare il tuo contributo."
   ],
-  "contribute_title": "Condividi ciò che impari",
-  "contribute": "Un contributo utile aiuta il prossimo lettore a capire e riprodurre un’idea. Apri una issue nel repository pertinente per fare una domanda o segnalare un riferimento non funzionante; proponi traduzioni più chiare o condividi un caso che introduca un diverso approccio creativo.\n\nPer un nuovo esempio, includi il prompt, le impostazioni pertinenti, la fonte dei materiali di riferimento e una breve spiegazione di ciò che hai imparato. Se modifichi i file del repository, invia una pull request per consentire la revisione delle modifiche. Prima di riutilizzare i contenuti, consulta la licenza di ogni repository e le condizioni d’uso del materiale originale.",
-  "footer": "Inizia da un’inquadratura e condividi metodi utili con altri creatori.",
+  "contribute_title": "Sviluppa e contribuisci con noi",
+  "contribute": "Creativi, sviluppatori, designer e principianti curiosi sono i benvenuti. Un contributo utile può essere una spiegazione più chiara, una traduzione, una fonte corretta, un esempio riproducibile o un miglioramento del codice. Parti dal repository più vicino ai tuoi interessi e leggi le indicazioni per contribuire.\n\nApri una issue per fare una domanda, segnalare un problema o discutere un’idea. Per proporre una modifica ai file, apri una pull request con una breve spiegazione e le verifiche pertinenti. Cita le fonti dei materiali esterni e rispetta la licenza e i requisiti di utilizzo del progetto.",
+  "footer": "Crea, impara e sviluppa insieme a SeaImagine.",
   "try_model": "Crea con questo modello",
-  "prompt_languages": "Le presentazioni sono disponibili in 15 lingue. Le lingue dei prompt e gli esempi tradotti variano da un repository all’altro; ogni raccolta specifica la propria copertura."
+  "projects": {
+    "gemini-omni": {
+      "description": "Un buon punto di partenza per passare dalla narrazione ai filmati di prodotto e a un montaggio video più intenzionale. Esplora categorie come cinema, commercio, scene documentarie, animazione, controllo della camera e mondi in miniatura, poi apri un esempio vicino alla tua idea.\n\nLa raccolta combina fotogrammi iniziali di riferimento, prompt completi e analisi di esempi ufficiali o della community con indicazione delle fonti. Scopri come un’inquadratura si sviluppa nel tempo, cosa deve rimanere coerente e come il suono sostiene l’azione. In «Amber perfume / mechanical eclipse», un flacone resta fermo mentre un anello di rame e una fetta di agrume cambiano la luce intorno a esso: un esercizio concreto per distinguere la stabilità del prodotto dal movimento dello sfondo.",
+      "audience": "Creator che progettano scene narrative, brevi video di prodotto o esperimenti di montaggio e vogliono studiare un’inquadratura nei dettagli."
+    },
+    "grok-imagine": {
+      "description": "Esplora prompt basati su scene per presentazioni di prodotto, video social, interazioni tra personaggi e ambienti di fantasia. L’indice tematico ti accompagna da un’idea generale a un caso illustrato, mentre i testi scaricabili permettono di copiare facilmente un prompt nei tuoi appunti di lavoro.\n\nGli esempi curano il movimento oltre all’aspetto visivo: il percorso della camera, il ritmo di un’azione, la continuità dell’inquadratura e i suoni propri della scena. Per uno studio preciso del prodotto, prova il caso della bottiglia in vetro levigato dal mare. Per una sfida diversa, «The Last Tooth» esplora un duetto di orologiai: segui il dialogo e la relazione spaziale tra i due personaggi all’interno della stessa scena.",
+      "audience": "Creator per i social e designer in cerca di esempi riutilizzabili di prodotti, personaggi e movimenti di camera."
+    },
+    "seedance": {
+      "description": "Usa questa raccolta per imparare dai video e trasformare un’idea in una sequenza di istruzioni di regia chiare. Clip della community, link alle fonti e prompt suddivisi per inquadratura offrono spunti per pubblicità, scene cinematografiche e brevi storie costruite intorno a un’immagine di riferimento.\n\nLeggi un esempio insieme al suo prompt e chiediti cosa aggiunge ogni parte: composizione iniziale, azione principale, posizione della camera e fotogramma finale. Inizia da un breve passaggio di un oggetto di scena per studiare una sola azione, oppure apri gli esempi del diario di viaggio e della rivelazione del palco per esaminare come più inquadrature formano una sequenza. Il repository include anche esempi ufficiali e indicazioni illustrate per collegare ciò che guardi a ciò che scrivi.",
+      "audience": "Creator che preferiscono imparare guardando riferimenti e suddividendo idee pubblicitarie o narrative in singole inquadrature."
+    }
+  },
+  "categories": {
+    "prompt_libraries": {
+      "title": "Raccolte di prompt e riferimenti creativi",
+      "intro": "Per chi esplora i video con l’IA, queste raccolte riuniscono scene illustrate, prompt riutilizzabili ed esempi con collegamenti alle fonti. Le copertine portano ai progetti completi: sono illustrazioni, non risultati video generati. Le lingue dei prompt e le traduzioni disponibili variano da un repository all’altro."
+    }
+  },
+  "projects_intro": "Scegli un progetto in base a ciò che vuoi imparare o realizzare. Le presentazioni qui sotto spiegano cosa troverai e a chi può essere utile; apri il repository per leggere la documentazione e le indicazioni per contribuire. Consulta tutti i repository per scoprire le ultime aggiunte e gli aggiornamenti."
 }

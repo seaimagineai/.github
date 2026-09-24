@@ -4,9 +4,9 @@
 
 # SeaImagine
 
-**เปลี่ยนไอเดียเป็นภาพและวิดีโอ เรียนรู้จากพรอมป์ต์ที่นำไปใช้ต่อได้**
+**สร้างสรรค์ด้วย AI ร่วมสำรวจไอเดีย พัฒนา และแบ่งปันวิธีที่ใช้ได้ผล**
 
-[![ไปที่ SeaImagine](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/badges/b72f1a8dfa0b24fa.svg)](https://seaimagine.com/th/) [![คลังข้อมูลโอเพนซอร์ส](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/badges/920b0d182635b01c.svg)](https://github.com/seaimagineai?tab=repositories)
+[![ไปที่ SeaImagine](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/badges/b72f1a8dfa0b24fa.svg)](https://seaimagine.com/th/) [![โครงการโอเพนซอร์ส](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/badges/43b2d50c51baf9be.svg)](https://github.com/seaimagineai?tab=repositories)
 
 </div>
 
@@ -16,29 +16,31 @@
 
 ---
 
-## เริ่มสร้างด้วย SeaImagine
+## SeaImagine: จากไอเดียสู่งานที่นำไปใช้ได้
 
-SeaImagine เป็นแพลตฟอร์มออนไลน์สำหรับสร้างภาพและวิดีโอด้วย AI สำหรับครีเอเตอร์ นักออกแบบ และทีมขนาดเล็ก เริ่มจากไอเดียที่เขียนเป็นข้อความ ภาพสินค้า หรือภาพอ้างอิงตัวละคร แล้วเลือกขั้นตอนสร้างภาพหรือวิดีโอเพื่อพัฒนาไอเดีย คุณสามารถทดลองภาพสำหรับแคมเปญ วางแผนเรื่องสั้น หรือหาวิธีนำเสนอใหม่ให้โพสต์บนโซเชียลได้
+SeaImagine เป็นแพลตฟอร์มออนไลน์สำหรับสร้างภาพและวิดีโอด้วย AI สำหรับครีเอเตอร์ นักออกแบบ และทีมขนาดเล็ก เริ่มจากไอเดียที่เขียนเป็นข้อความ ภาพสินค้า หรือภาพอ้างอิงตัวละคร แล้วลองถ่ายทอดออกมาเป็นภาพหลายรูปแบบ ตั้งแต่ภาพประชาสัมพันธ์ไปจนถึงเรื่องสั้นและวิดีโอสำหรับโซเชียลมีเดีย
 
-องค์กร GitHub นี้เป็นคลังความรู้ประกอบการสร้างงาน มีตัวอย่างพร้อมภาพ พรอมต์ที่นำกลับมาใช้ได้ และบทวิเคราะห์วิดีโอที่แนบแหล่งที่มาให้อ่านก่อนลงมือ ใช้เว็บไซต์สร้างผลงานของคุณ และใช้คลังเหล่านี้เรียนรู้วิธีอธิบายฉากว่าอะไรควรอยู่ในเฟรม อะไรควรเคลื่อนไหว กล้องทำงานอย่างไร และเสียงเปลี่ยนเมื่อใด
+องค์กรของเราบน GitHub เป็นพื้นที่สำหรับคนที่อยากเข้าใจวิธีการทำงาน ปรับแนวทางให้เหมาะกับตนเอง และร่วมปรับปรุงโครงการ ที่นี่รวบรวมโครงการสาธารณะของเรา เพื่อให้ครีเอเตอร์และนักพัฒนาพบจุดเริ่มต้นที่เป็นประโยชน์ เรียนรู้วิธีการเบื้องหลัง และมีส่วนร่วมในการพัฒนาต่อ เรามุ่งเน้นการสร้างสรรค์ด้วย AI และการนำไปใช้จริง และยินดีรับผลงานที่นำไปใช้ต่อได้ในรูปแบบเครื่องมือ ขั้นตอนการทำงาน บทเรียน เอกสารอ้างอิง หรือโค้ด
 
-## ทำไมเราจึงแบ่งปันขั้นตอนสร้างงาน
+## ทำไมเราจึงพัฒนาอย่างเปิดเผย
 
-พรอมต์ที่มีประโยชน์ทำให้เห็นการตัดสินใจในการสร้างงานได้ชัดเจน ฉากจะเข้าใจง่ายขึ้นเมื่อเห็นภาพอ้างอิง การกระทำ จังหวะเวลา และเสียงร่วมกัน คลังของเรารวบรวมสิ่งเหล่านี้เพื่อให้คุณเห็นว่าไอเดียกลายเป็นคำอธิบายการกำกับได้อย่างไร
+เราเชื่อว่างานที่มีประโยชน์จะมีคุณค่ามากขึ้นเมื่อผู้อื่นเข้าใจ ใช้งาน และปรับปรุงได้ แนวทางโอเพนซอร์สของเราจึงให้ความสำคัญกับการอธิบายเหตุผลในการตัดสินใจของแต่ละโครงการ พร้อมข้อมูลและทรัพยากรที่จำเป็นสำหรับทดลองใช้งาน
 
-- **ภาพอ้างอิงให้เทียบดูได้** ตัวอย่างพร้อมภาพและเฟรมเริ่มต้นทำให้ฉากที่บรรยายเป็นข้อความมีภาพที่ชัดเจน
-- **พรอมต์ที่เก็บไว้ใช้ได้** ข้อความฉบับเต็มและตัวอย่างที่ดาวน์โหลดได้ช่วยให้เริ่มรวบรวมบันทึกการทำงานของตัวเอง
-- **แหล่งที่มาให้ศึกษาเพิ่มเติม** ตัวอย่างทางการและจากชุมชนที่ระบุที่มาช่วยให้ตามไปดูงานต้นฉบับและเข้าใจบริบท
+- **เริ่มต้นได้ง่ายขึ้น** อธิบายว่าโครงการทำอะไร เหมาะกับใคร และควรเริ่มอย่างไร
+- **แบ่งปันงานที่นำไปปรับใช้ได้** ให้ข้อมูลพื้นฐานเพียงพอสำหรับนำไอเดียไปใช้ต่อและเข้าใจข้อจำกัด ไม่ใช่แสดงเพียงผลลัพธ์
+- **ร่วมมือกันปรับปรุง** ยินดีรับคำถาม การแก้ไข และการมีส่วนร่วมในเอกสาร ตัวอย่าง การออกแบบ และโค้ด
 
-เรายินดีรับการปรับปรุงคำแปล คำอธิบายที่ชัดเจนขึ้น และตัวอย่างใหม่ การแบ่งปันเหตุผลเบื้องหลังฉากช่วยให้คลังมีประโยชน์ต่อผู้สร้างคนถัดไปมากขึ้น
+เราใช้หลักการเหล่านี้ในการนำเสนอและดูแลโครงการขององค์กร แต่ละคลังโค้ดจะอธิบายขอบเขต วิธีติดตั้งหรือใช้งาน แหล่งที่มา และสัญญาอนุญาตของตนเอง
 
-## สำรวจคลังพรอมป์ต์
+## สำรวจโครงการโอเพนซอร์สของเรา
 
-ภาพเหล่านี้เป็นหน้าปกคลังพรอมป์ต์ คลิกเพื่อดูตัวอย่างและแหล่งที่มา
+เลือกโครงการตามสิ่งที่คุณอยากเรียนรู้หรือทำให้สำเร็จ คำแนะนำด้านล่างอธิบายว่าแต่ละโครงการมีอะไรและเหมาะกับใคร เปิดคลังโค้ดเพื่ออ่านเอกสารและวิธีมีส่วนร่วม หรือดูคลังโค้ดทั้งหมดเพื่อติดตามโครงการที่เพิ่มเข้ามาและการอัปเดตล่าสุด
 
-หน้าภาพรวมมีให้เลือก 15 ภาษา ภาษาของพรอมต์และขอบเขตตัวอย่างที่แปลแตกต่างกันในแต่ละคลัง โดยแต่ละคลังจะอธิบายขอบเขตของตนเอง
+### คลังพรอมป์ต์และแหล่งอ้างอิงสำหรับงานสร้างสรรค์
 
-### [Gemini Omni](https://github.com/seaimagineai/awesome-gemini-omni-prompts/blob/main/README_TH.md)
+สำหรับครีเอเตอร์ที่กำลังสำรวจการสร้างวิดีโอด้วย AI คลังเหล่านี้รวบรวมฉากพร้อมภาพประกอบ พรอมป์ต์ที่นำไปปรับใช้ได้ และตัวอย่างพร้อมลิงก์แหล่งที่มา คลิกภาพปกเพื่อเปิดโครงการฉบับเต็ม ภาพปกเป็นภาพประกอบ ไม่ใช่ผลลัพธ์วิดีโอที่สร้างขึ้น ภาษาของพรอมป์ต์และเนื้อหาที่แปลจะแตกต่างกันในแต่ละคลังโค้ด
+
+#### [Gemini Omni](https://github.com/seaimagineai/awesome-gemini-omni-prompts/blob/main/README_TH.md)
 
 [![Gemini Omni](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/gemini-omni.png)](https://github.com/seaimagineai/awesome-gemini-omni-prompts/blob/main/README_TH.md)
 
@@ -48,9 +50,9 @@ SeaImagine เป็นแพลตฟอร์มออนไลน์สำห
 
 **เหมาะสำหรับ:** ครีเอเตอร์ที่วางแผนฉากเล่าเรื่อง วิดีโอสินค้าสั้น หรือทดลองตัดต่อ และต้องการศึกษาช็อตอย่างละเอียด
 
-[![ดูตัวอย่าง](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/badges/3b853d5f92640791.svg)](https://github.com/seaimagineai/awesome-gemini-omni-prompts/blob/main/README_TH.md) [![สร้างด้วยโมเดลนี้](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/badges/83588d642f418e5a.svg)](https://seaimagine.com/th/model/gemini-omni-1-1-flash/)
+[![สำรวจโครงการ](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/badges/a5b8473a9fbff33e.svg)](https://github.com/seaimagineai/awesome-gemini-omni-prompts/blob/main/README_TH.md) [![สร้างด้วยโมเดลนี้](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/badges/83588d642f418e5a.svg)](https://seaimagine.com/th/model/gemini-omni-1-1-flash/)
 
-### [Grok Imagine 1.5](https://github.com/seaimagineai/awesome-grok-imagine-prompts/blob/main/README.th-TH.md)
+#### [Grok Imagine 1.5](https://github.com/seaimagineai/awesome-grok-imagine-prompts/blob/main/README.th-TH.md)
 
 [![Grok Imagine 1.5](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/grok-imagine.webp)](https://github.com/seaimagineai/awesome-grok-imagine-prompts/blob/main/README.th-TH.md)
 
@@ -60,9 +62,9 @@ SeaImagine เป็นแพลตฟอร์มออนไลน์สำห
 
 **เหมาะสำหรับ:** ครีเอเตอร์โซเชียลและนักออกแบบที่ต้องการตัวอย่างสินค้า ตัวละคร และการเคลื่อนกล้องที่นำกลับมาใช้ได้
 
-[![ดูตัวอย่าง](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/badges/8800f1a2f05d1d9e.svg)](https://github.com/seaimagineai/awesome-grok-imagine-prompts/blob/main/README.th-TH.md) [![สร้างด้วยโมเดลนี้](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/badges/83588d642f418e5a.svg)](https://seaimagine.com/th/model/grok-imagine-1-5/)
+[![สำรวจโครงการ](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/badges/d1b9b8ade8c94eba.svg)](https://github.com/seaimagineai/awesome-grok-imagine-prompts/blob/main/README.th-TH.md) [![สร้างด้วยโมเดลนี้](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/badges/83588d642f418e5a.svg)](https://seaimagine.com/th/model/grok-imagine-1-5/)
 
-### [Seedance 2.5](https://github.com/seaimagineai/awesome-seedance-2-5-prompts/blob/main/README_TH.md)
+#### [Seedance 2.5](https://github.com/seaimagineai/awesome-seedance-2-5-prompts/blob/main/README_TH.md)
 
 [![Seedance 2.5](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/seedance.jpg)](https://github.com/seaimagineai/awesome-seedance-2-5-prompts/blob/main/README_TH.md)
 
@@ -72,7 +74,9 @@ SeaImagine เป็นแพลตฟอร์มออนไลน์สำห
 
 **เหมาะสำหรับ:** ครีเอเตอร์ที่ชอบเรียนรู้ผ่านวิดีโออ้างอิงและแยกไอเดียโฆษณาหรือเรื่องราวออกเป็นแต่ละช็อต
 
-[![ดูตัวอย่าง](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/badges/fec740a716169361.svg)](https://github.com/seaimagineai/awesome-seedance-2-5-prompts/blob/main/README_TH.md) [![สร้างด้วยโมเดลนี้](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/badges/83588d642f418e5a.svg)](https://seaimagine.com/th/model/seedance-2-5/)
+[![สำรวจโครงการ](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/badges/411bc45515a4e211.svg)](https://github.com/seaimagineai/awesome-seedance-2-5-prompts/blob/main/README_TH.md) [![สร้างด้วยโมเดลนี้](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/badges/83588d642f418e5a.svg)](https://seaimagine.com/th/model/seedance-2-5/)
+
+[![โครงการโอเพนซอร์ส](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/badges/43b2d50c51baf9be.svg)](https://github.com/seaimagineai?tab=repositories)
 
 ## สร้างผลงานบน SeaImagine
 
@@ -85,24 +89,24 @@ SeaImagine เป็นแพลตฟอร์มออนไลน์สำห
 
 [![ไปที่ SeaImagine](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/badges/b72f1a8dfa0b24fa.svg)](https://seaimagine.com/th/create/)
 
-## เริ่มจากหนึ่งตัวอย่าง
+## เลือกจุดเริ่มต้นของคุณ
 
-1. **เลือกหนึ่งฉากและศึกษาส่วนประกอบ** เปิดคลังที่เกี่ยวข้อง อ่านตัวอย่างและคัดลอกพรอมต์ ก่อนแก้ไข ให้ระบุตัวแบบ องค์ประกอบภาพเริ่มต้น การเคลื่อนไหว และตอนจบ
-2. **เตรียมข้อมูลของคุณเอง** เลือกโมเดลบน SeaImagine แล้วใส่ข้อความที่ปรับแล้วหรืออัปโหลดภาพอ้างอิง ตรวจสอบการตั้งค่าที่มี ข้อกำหนดของข้อมูลนำเข้า และค่าใช้งานปัจจุบันของโมเดลนั้น
-3. **ตรวจผลแล้วเปลี่ยนทีละอย่าง** เทียบผลกับองค์ประกอบภาพ ความต่อเนื่องของตัวแบบ และการเคลื่อนกล้องที่ตั้งใจไว้ ตรวจเสียงด้วยหากวิธีสร้างที่เลือกรองรับ บันทึกพรอมต์ ข้อมูลนำเข้า และการตั้งค่าไว้คู่กับผลงาน เพื่อใช้วิธีที่ได้ผลซ้ำได้
+1. **สำรวจโครงการ** เลือกทรัพยากรที่ตรงกับเป้าหมาย อ่านเอกสาร และตรวจสอบข้อกำหนด เริ่มจากตัวอย่างเล็ก ๆ ก่อนนำไปปรับใช้กับงานที่ใหญ่ขึ้น
+2. **สร้างสรรค์บน SeaImagine** หากต้องการสร้างภาพหรือวิดีโอ ใช้เครื่องมือสร้างสรรค์บนเว็บไซต์ได้ เลือกวิธีทำงานให้เหมาะกับข้อความหรือสื่ออ้างอิง แล้วตรวจสอบการตั้งค่าและค่าใช้จ่าย
+3. **ช่วยปรับปรุงโครงการ** รายงานปัญหาที่ทำซ้ำได้ เสนอเอกสารที่ชัดเจนขึ้น หรือร่วมแก้ไขในคลังโค้ดที่เกี่ยวข้อง อธิบายสิ่งที่คุณลองทำและการแก้ไขนั้นช่วยให้ผู้อื่นทำอะไรได้
 
-## แบ่งปันสิ่งที่ได้เรียนรู้
+## ร่วมพัฒนาและปรับปรุงไปด้วยกัน
 
-การมีส่วนร่วมที่มีประโยชน์ช่วยให้ผู้อ่านคนถัดไปเข้าใจและลองทำตามไอเดียได้ เปิด Issue ในคลังที่เกี่ยวข้องเพื่อถามคำถามหรือแจ้งลิงก์อ้างอิงที่เสีย เสนอคำแปลที่ชัดเจนขึ้น หรือแบ่งปันตัวอย่างที่มีวิธีสร้างงานต่างออกไป
+เรายินดีต้อนรับครีเอเตอร์ นักพัฒนา นักออกแบบ และผู้ที่เพิ่งเริ่มเรียนรู้ การมีส่วนร่วมที่เป็นประโยชน์อาจเป็นคำอธิบายที่ชัดเจนขึ้น งานแปล การแก้ไขแหล่งที่มา ตัวอย่างที่ทำซ้ำได้ หรือการปรับปรุงโค้ด เริ่มจากคลังโค้ดที่ตรงกับความสนใจและอ่านคำแนะนำการมีส่วนร่วม
 
-สำหรับตัวอย่างใหม่ โปรดแนบพรอมต์ การตั้งค่าที่เกี่ยวข้อง แหล่งที่มาของสื่ออ้างอิง และคำอธิบายสั้น ๆ ว่าได้เรียนรู้อะไร หากแก้ไขไฟล์ในคลัง ให้ส่งคำขอแก้ไข (Pull Request) เพื่อให้ตรวจทานได้ ก่อนนำเนื้อหากลับไปใช้ โปรดตรวจสอบใบอนุญาตของแต่ละคลังและเงื่อนไขการใช้สื่อต้นฉบับ
+ใช้ Issues เพื่อถามคำถาม รายงานปัญหา หรือหารือไอเดีย หากต้องการเสนอแก้ไขไฟล์ ให้เปิด Pull Request (คำขอเสนอแก้ไข) พร้อมคำอธิบายสั้น ๆ และผลการตรวจสอบที่เกี่ยวข้อง ระบุแหล่งที่มาของเนื้อหาภายนอก และปฏิบัติตามสัญญาอนุญาตและข้อกำหนดการใช้งานของโครงการ
 
 [Gemini Omni](https://github.com/seaimagineai/awesome-gemini-omni-prompts/issues) · [Grok Imagine 1.5](https://github.com/seaimagineai/awesome-grok-imagine-prompts/issues) · [Seedance 2.5](https://github.com/seaimagineai/awesome-seedance-2-5-prompts/issues)
 
 <div align="center">
 
-<strong>เริ่มจากหนึ่งช็อต แล้วแบ่งปันวิธีที่มีประโยชน์ให้ครีเอเตอร์คนอื่น</strong>
+<strong>ร่วมสร้างสรรค์ เรียนรู้ และพัฒนาไปกับ SeaImagine</strong>
 
-<a href="https://seaimagine.com/th/">ไปที่ SeaImagine</a> · <a href="https://github.com/seaimagineai?tab=repositories">คลังข้อมูลโอเพนซอร์ส</a>
+<a href="https://seaimagine.com/th/">ไปที่ SeaImagine</a> · <a href="https://github.com/seaimagineai?tab=repositories">โครงการโอเพนซอร์ส</a>
 
 </div>

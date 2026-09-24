@@ -4,9 +4,9 @@
 
 # SeaImagine
 
-**아이디어를 이미지와 영상으로 만들고, 다시 쓸 수 있는 프롬프트로 배워 보세요.**
+**AI로 아이디어를 실현하세요. 함께 탐구하고 개발하며 유용한 방법을 나눕니다.**
 
-[![SeaImagine 방문](https://img.shields.io/badge/SeaImagine-SeaImagine%20%EB%B0%A9%EB%AC%B8-7c3aed?style=for-the-badge)](https://seaimagine.com/ko/) [![오픈 소스 자료실](https://img.shields.io/badge/GitHub-%EC%98%A4%ED%94%88%20%EC%86%8C%EC%8A%A4%20%EC%9E%90%EB%A3%8C%EC%8B%A4-181717?style=for-the-badge&logo=github)](https://github.com/seaimagineai?tab=repositories)
+[![SeaImagine 방문](https://img.shields.io/badge/SeaImagine-SeaImagine%20%EB%B0%A9%EB%AC%B8-7c3aed?style=for-the-badge)](https://seaimagine.com/ko/) [![오픈 소스 프로젝트](https://img.shields.io/badge/GitHub-%EC%98%A4%ED%94%88%20%EC%86%8C%EC%8A%A4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-181717?style=for-the-badge&logo=github)](https://github.com/seaimagineai?tab=repositories)
 
 </div>
 
@@ -16,29 +16,31 @@
 
 ---
 
-## SeaImagine으로 창작 시작하기
+## SeaImagine: 아이디어를 실제 작업으로
 
-SeaImagine은 창작자, 디자이너, 소규모 팀을 위한 온라인 AI 이미지·영상 제작 플랫폼입니다. 글로 쓴 아이디어, 제품 사진, 캐릭터 참고 이미지에서 시작해 이미지나 영상 제작 방식을 선택하고 구체화할 수 있습니다. 광고 이미지를 구상하거나 짧은 이야기를 기획하고, 소셜 게시물에 새로운 표현을 시도해 보세요.
+SeaImagine은 크리에이터, 디자이너, 소규모 팀을 위한 온라인 AI 이미지·영상 제작 플랫폼입니다. 글로 표현한 아이디어, 제품 사진, 캐릭터 참고 이미지에서 출발해 광고 이미지부터 짧은 이야기와 소셜 미디어 영상까지 다양한 시각적 표현을 시도할 수 있습니다.
 
-이 GitHub 조직은 제작을 돕는 학습 자료실입니다. 이미지가 있는 사례, 재사용할 수 있는 프롬프트, 출처가 명시된 영상 분석을 제작 전에 살펴볼 수 있습니다. 웹사이트에서는 자신의 작품을 만들고, 저장소에서는 장면을 설명하는 법을 배웁니다. 화면에 무엇을 남길지, 무엇을 움직일지, 카메라가 어떻게 움직이고 소리가 언제 달라질지 생각해 볼 수 있습니다.
+SeaImagine의 GitHub 조직은 작동 원리를 이해하고, 자신의 목적에 맞게 방법을 바꾸며, 개선에 참여하고 싶은 분들을 위한 공간입니다. 공개 프로젝트를 한곳에 모아 크리에이터와 개발자가 적절한 출발점을 찾고, 프로젝트에 쓰인 방법을 배우며, 개발 과정에 참여할 수 있도록 합니다. 우리는 AI 창작과 실제 활용에 관심을 두고 있으며, 도구, 작업 흐름, 튜토리얼, 참고 자료, 코드 등 재사용할 수 있는 형태의 기여를 환영합니다.
 
-## 창작 과정을 공유하는 이유
+## 공개적으로 개발하는 이유
 
-유용한 프롬프트는 창작 과정에서 내린 결정을 구체적으로 보여 줍니다. 참고 이미지, 동작, 시간 구성, 소리를 함께 제시하면 장면을 이해하기 쉬워집니다. 이 자료실은 이런 자료를 모아 아이디어가 연출 지시로 바뀌는 과정을 보여 줍니다.
+유용한 작업은 다른 사람이 이해하고 사용하며 개선할 수 있을 때 더 큰 가치를 갖는다고 믿습니다. 오픈 소스 프로젝트를 공개할 때는 직접 시도할 자료와 함께, 어떤 선택을 거쳐 만들었는지도 설명하려 합니다.
 
-- **비교하며 볼 수 있는 시각 자료.** 이미지가 있는 사례와 시작 프레임이 글로 설명한 장면을 구체적으로 보여 줍니다.
-- **저장해 둘 수 있는 프롬프트.** 전체 텍스트와 내려받을 수 있는 사례를 자신의 작업 노트를 만드는 출발점으로 활용할 수 있습니다.
-- **더 살펴볼 수 있는 출처.** 출처가 명시된 공식·커뮤니티 사례에서 원작으로 이동해 배경을 이해할 수 있습니다.
+- **쉽게 시작할 수 있도록 합니다.** 프로젝트가 하는 일, 도움을 받을 수 있는 사람, 첫 단계부터 설명합니다.
+- **응용할 수 있는 형태로 공유합니다.** 결과뿐 아니라 아이디어를 재사용하고 적용 범위를 이해하는 데 필요한 배경도 제공합니다.
+- **협업으로 개선합니다.** 문서, 예제, 디자인, 코드에 관한 질문과 수정 제안을 환영합니다.
 
-번역 개선, 더 명확한 설명, 새로운 사례를 환영합니다. 장면 뒤에 있는 결정을 공유하면 다음 창작자에게도 더 유용한 자료가 됩니다.
+이 원칙에 따라 조직의 프로젝트를 소개하고 유지 관리합니다. 각 저장소에는 프로젝트 범위, 설치 또는 사용 방법, 출처, 라이선스가 안내되어 있습니다.
 
-## 프롬프트 자료 둘러보기
+## 오픈 소스 프로젝트 둘러보기
 
-이미지는 프롬프트 자료실의 표지입니다. 클릭하면 사례와 출처를 볼 수 있습니다.
+배우거나 이루고 싶은 것에 맞춰 프로젝트를 선택하세요. 아래 소개에서 프로젝트의 내용과 누구에게 유용한지 확인할 수 있습니다. 자세한 문서와 참여 방법은 각 저장소를 열어 확인하세요. 전체 저장소에서 새로 추가되거나 업데이트된 프로젝트도 살펴볼 수 있습니다.
 
-조직 소개 페이지는 15개 언어로 제공됩니다. 프롬프트 언어와 번역된 사례의 범위는 저장소마다 다르며, 각 자료실에서 해당 범위를 안내합니다.
+### 프롬프트 모음과 창작 참고 자료
 
-### [Gemini Omni](https://github.com/seaimagineai/awesome-gemini-omni-prompts/blob/main/README_KO.md)
+AI 영상 제작을 탐구하는 크리에이터를 위해 이미지가 포함된 장면, 재사용할 수 있는 프롬프트, 출처 링크가 있는 예제를 모았습니다. 표지를 누르면 해당 프로젝트로 이동합니다. 표지는 설명용 이미지이며 영상 생성 결과가 아닙니다. 프롬프트 언어와 번역 범위는 저장소마다 다릅니다.
+
+#### [Gemini Omni](https://github.com/seaimagineai/awesome-gemini-omni-prompts/blob/main/README_KO.md)
 
 [![Gemini Omni](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/gemini-omni.png)](https://github.com/seaimagineai/awesome-gemini-omni-prompts/blob/main/README_KO.md)
 
@@ -48,9 +50,9 @@ SeaImagine은 창작자, 디자이너, 소규모 팀을 위한 온라인 AI 이�
 
 **추천 대상:** 내러티브 장면, 제품 단편, 편집 실험을 준비하며 쇼트를 자세히 살펴보고 싶은 창작자.
 
-[![사례 보기](https://img.shields.io/badge/Gemini%20Omni-%EC%82%AC%EB%A1%80%20%EB%B3%B4%EA%B8%B0-7c3aed?style=for-the-badge)](https://github.com/seaimagineai/awesome-gemini-omni-prompts/blob/main/README_KO.md) [![이 모델로 만들기](https://img.shields.io/badge/SeaImagine-%EC%9D%B4%20%EB%AA%A8%EB%8D%B8%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0-181717?style=for-the-badge)](https://seaimagine.com/ko/model/gemini-omni-1-1-flash/)
+[![프로젝트 살펴보기](https://img.shields.io/badge/Gemini%20Omni-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0-7c3aed?style=for-the-badge)](https://github.com/seaimagineai/awesome-gemini-omni-prompts/blob/main/README_KO.md) [![이 모델로 만들기](https://img.shields.io/badge/SeaImagine-%EC%9D%B4%20%EB%AA%A8%EB%8D%B8%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0-181717?style=for-the-badge)](https://seaimagine.com/ko/model/gemini-omni-1-1-flash/)
 
-### [Grok Imagine 1.5](https://github.com/seaimagineai/awesome-grok-imagine-prompts/blob/main/README.ko-KR.md)
+#### [Grok Imagine 1.5](https://github.com/seaimagineai/awesome-grok-imagine-prompts/blob/main/README.ko-KR.md)
 
 [![Grok Imagine 1.5](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/grok-imagine.webp)](https://github.com/seaimagineai/awesome-grok-imagine-prompts/blob/main/README.ko-KR.md)
 
@@ -60,9 +62,9 @@ SeaImagine은 창작자, 디자이너, 소규모 팀을 위한 온라인 AI 이�
 
 **추천 대상:** 재사용할 수 있는 제품, 캐릭터, 카메라 움직임 사례를 찾는 소셜 콘텐츠 창작자와 디자이너.
 
-[![사례 보기](https://img.shields.io/badge/Grok%20Imagine%201.5-%EC%82%AC%EB%A1%80%20%EB%B3%B4%EA%B8%B0-7c3aed?style=for-the-badge)](https://github.com/seaimagineai/awesome-grok-imagine-prompts/blob/main/README.ko-KR.md) [![이 모델로 만들기](https://img.shields.io/badge/SeaImagine-%EC%9D%B4%20%EB%AA%A8%EB%8D%B8%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0-181717?style=for-the-badge)](https://seaimagine.com/ko/model/grok-imagine-1-5/)
+[![프로젝트 살펴보기](https://img.shields.io/badge/Grok%20Imagine%201.5-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0-7c3aed?style=for-the-badge)](https://github.com/seaimagineai/awesome-grok-imagine-prompts/blob/main/README.ko-KR.md) [![이 모델로 만들기](https://img.shields.io/badge/SeaImagine-%EC%9D%B4%20%EB%AA%A8%EB%8D%B8%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0-181717?style=for-the-badge)](https://seaimagine.com/ko/model/grok-imagine-1-5/)
 
-### [Seedance 2.5](https://github.com/seaimagineai/awesome-seedance-2-5-prompts/blob/main/README_KO.md)
+#### [Seedance 2.5](https://github.com/seaimagineai/awesome-seedance-2-5-prompts/blob/main/README_KO.md)
 
 [![Seedance 2.5](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/seedance.jpg)](https://github.com/seaimagineai/awesome-seedance-2-5-prompts/blob/main/README_KO.md)
 
@@ -72,7 +74,9 @@ SeaImagine은 창작자, 디자이너, 소규모 팀을 위한 온라인 AI 이�
 
 **추천 대상:** 참고 영상을 보며 배우고 광고나 이야기의 아이디어를 개별 쇼트로 나눠 보고 싶은 창작자.
 
-[![사례 보기](https://img.shields.io/badge/Seedance%202.5-%EC%82%AC%EB%A1%80%20%EB%B3%B4%EA%B8%B0-7c3aed?style=for-the-badge)](https://github.com/seaimagineai/awesome-seedance-2-5-prompts/blob/main/README_KO.md) [![이 모델로 만들기](https://img.shields.io/badge/SeaImagine-%EC%9D%B4%20%EB%AA%A8%EB%8D%B8%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0-181717?style=for-the-badge)](https://seaimagine.com/ko/model/seedance-2-5/)
+[![프로젝트 살펴보기](https://img.shields.io/badge/Seedance%202.5-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0-7c3aed?style=for-the-badge)](https://github.com/seaimagineai/awesome-seedance-2-5-prompts/blob/main/README_KO.md) [![이 모델로 만들기](https://img.shields.io/badge/SeaImagine-%EC%9D%B4%20%EB%AA%A8%EB%8D%B8%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0-181717?style=for-the-badge)](https://seaimagine.com/ko/model/seedance-2-5/)
+
+[![오픈 소스 프로젝트](https://img.shields.io/badge/GitHub-%EC%98%A4%ED%94%88%20%EC%86%8C%EC%8A%A4%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-181717?style=for-the-badge&logo=github)](https://github.com/seaimagineai?tab=repositories)
 
 ## SeaImagine에서 만들기
 
@@ -85,24 +89,24 @@ SeaImagine은 창작자, 디자이너, 소규모 팀을 위한 온라인 AI 이�
 
 [![SeaImagine 방문](https://img.shields.io/badge/SeaImagine-SeaImagine%20%EB%B0%A9%EB%AC%B8-7c3aed?style=for-the-badge)](https://seaimagine.com/ko/create/)
 
-## 사례 하나로 시작하기
+## 어디서 시작할까요
 
-1. **장면 하나를 고르고 구성 요소를 살펴보세요.** 관련 자료실을 열어 사례를 읽고 프롬프트를 복사합니다. 수정하기 전에 피사체, 시작 구도, 움직임, 결말을 파악하세요.
-2. **자신의 입력 자료를 준비하세요.** SeaImagine에서 모델을 고르고 수정한 텍스트를 입력하거나 참고 이미지를 업로드합니다. 선택한 모델의 사용 가능한 설정, 입력 요구 사항, 현재 이용 비용을 확인하세요.
-3. **결과를 검토하고 하나씩 바꾸세요.** 의도한 구도, 피사체의 일관성, 카메라 움직임과 비교하고, 선택한 제작 방식이 소리를 지원하면 소리도 확인하세요. 프롬프트, 입력 자료, 설정을 결과와 함께 저장하면 효과적인 방법을 다시 사용할 수 있습니다.
+1. **프로젝트를 살펴보세요.** 목표에 맞는 자료를 선택하고 문서와 사용 요건을 확인하세요. 작은 예제부터 시도한 뒤 더 큰 작업에 적용해 보세요.
+2. **SeaImagine에서 창작하세요.** 이미지나 영상을 만들려면 웹사이트의 제작 도구를 사용할 수 있습니다. 글이나 참고 자료에 맞는 기능을 선택하고 제공되는 설정과 이용 요금을 확인하세요.
+3. **개선에 참여하세요.** 해당 저장소에 재현 가능한 문제를 알리거나 더 명확한 문서를 제안하거나 수정 사항을 기여하세요. 무엇을 시도했는지, 그 변경이 어떤 작업에 도움이 되는지 설명해 주세요.
 
-## 배운 내용 나누기
+## 함께 만들고 개선해요
 
-유용한 기여는 다음 독자가 아이디어를 이해하고 재현하는 데 도움이 됩니다. 해당 저장소에 이슈를 열어 질문하거나 끊어진 참고 링크를 알리고, 더 명확한 번역을 제안하거나 다른 창작 방식을 보여 주는 사례를 공유해 주세요.
+크리에이터, 개발자, 디자이너, 이제 막 배우기 시작한 분들 모두 환영합니다. 더 명확한 설명, 번역, 출처 수정, 재현 가능한 예제, 코드 개선도 소중한 기여입니다. 관심 있는 저장소를 선택하고 기여 안내를 먼저 읽어 주세요.
 
-새 사례에는 프롬프트, 관련 설정, 참고 자료의 출처, 배운 점에 대한 짧은 설명을 포함해 주세요. 저장소 파일을 수정했다면 검토할 수 있도록 풀 리퀘스트를 제출해 주세요. 내용을 재사용하기 전에 각 저장소의 라이선스와 원본 자료의 이용 조건을 확인하세요.
+질문, 문제 보고, 아이디어 논의는 Issues에서 할 수 있습니다. 파일을 수정하려면 간단한 설명과 관련 확인 결과를 첨부해 Pull Request(변경 제안)를 보내 주세요. 외부 자료는 출처를 밝히고 프로젝트의 라이선스와 사용 요건을 따라 주세요.
 
 [Gemini Omni](https://github.com/seaimagineai/awesome-gemini-omni-prompts/issues) · [Grok Imagine 1.5](https://github.com/seaimagineai/awesome-grok-imagine-prompts/issues) · [Seedance 2.5](https://github.com/seaimagineai/awesome-seedance-2-5-prompts/issues)
 
 <div align="center">
 
-<strong>숏 하나로 시작해 유용한 방법을 다른 크리에이터와 나눠 보세요.</strong>
+<strong>SeaImagine과 함께 창작하고 배우며 개발하세요.</strong>
 
-<a href="https://seaimagine.com/ko/">SeaImagine 방문</a> · <a href="https://github.com/seaimagineai?tab=repositories">오픈 소스 자료실</a>
+<a href="https://seaimagine.com/ko/">SeaImagine 방문</a> · <a href="https://github.com/seaimagineai?tab=repositories">오픈 소스 프로젝트</a>
 
 </div>

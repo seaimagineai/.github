@@ -1,28 +1,17 @@
 {
   "name": "Deutsch",
-  "tagline": "Verwandle eine Idee in Bilder und Videos. Lerne mit wiederverwendbaren Prompts.",
+  "tagline": "Mit KI gestalten. Ideen entdecken, gemeinsam entwickeln und Erfahrungen teilen.",
   "visit": "SeaImagine besuchen",
-  "opensource": "Open-Source-Sammlungen",
+  "opensource": "Open-Source-Projekte",
   "current": "Aktuell",
   "view": "Ansehen",
-  "intro_title": "Mit SeaImagine gestalten",
-  "intro": "SeaImagine ist eine Online-Plattform zur KI-gestützten Bild- und Videoerstellung für Kreative, Designer und kleine Teams. Beginne mit einer beschriebenen Idee, einem Produktfoto oder einer Figurenreferenz und wähle anschließend einen passenden Ablauf für Bilder oder Videos. So kannst du ein Kampagnenmotiv erkunden, eine kurze Geschichte planen oder eine neue Richtung für einen Social-Media-Beitrag ausprobieren.\n\nDiese GitHub-Organisation ergänzt die Plattform um eine Lernbibliothek: bebilderte Beispiele, wiederverwendbare Prompts und Videoanalysen mit Quellenlinks, die du vor dem Gestalten lesen kannst. Auf der Website erstellst du eigene Werke; in den Repositories lernst du, wie sich eine Szene beschreiben lässt — was im Bild bleibt, was sich bewegt, wie sich die Kamera verhält und wann sich der Ton verändert.",
-  "why_title": "Warum wir unsere kreativen Arbeitsabläufe teilen",
-  "why": "Ein hilfreicher Prompt macht gestalterische Entscheidungen sichtbar. Eine Szene wird verständlicher, wenn Referenzbild, Handlung, zeitlicher Ablauf und Ton gemeinsam gezeigt werden. Unsere Bibliotheken sammeln diese Materialien, damit du nachvollziehen kannst, wie aus einer Idee eine Regievorlage wird.\n\n- **Visuelle Referenzen.** Bebilderte Beispiele und Ausgangsbilder geben der beschriebenen Szene einen konkreten Rahmen.\n- **Prompts zum Behalten.** Vollständige Texte und herunterladbare Beispiele bilden eine Grundlage für deine eigenen Arbeitsnotizen.\n- **Quellen zum Entdecken.** Offizielle Beispiele und Community-Beiträge mit Quellenangaben führen dich zum Original und zeigen seinen Kontext.\n\nWir freuen uns über bessere Übersetzungen, verständlichere Erklärungen und neue Beispiele. Wenn wir die Entscheidungen hinter einer Szene teilen, wird die Sammlung für die nächsten Kreativen hilfreicher.",
-  "projects_title": "Prompt-Sammlungen entdecken",
+  "intro_title": "SeaImagine: von kreativen Ideen zur praktischen Umsetzung",
+  "intro": "SeaImagine ist eine Onlineplattform zur Erstellung von KI-Bildern und -Videos für Kreative, Designer und kleine Teams. Beginne mit einer schriftlichen Idee, einem Produktfoto oder einer Figurenreferenz und erkunde verschiedene Wege zur visuellen Umsetzung — vom Kampagnenmotiv über eine kurze Geschichte bis zum Social-Media-Video.\n\nUnsere GitHub-Organisation richtet sich an Menschen, die mehr erfahren möchten: wie etwas funktioniert, wie sich ein Ansatz an eigene Bedürfnisse anpassen lässt und wie sie Verbesserungen beitragen können. Hier bündeln wir unsere öffentlichen Projekte, damit Kreative und Entwickler passende Einstiege finden, die Arbeit dahinter nachvollziehen und sich an der Weiterentwicklung beteiligen können. Unser Schwerpunkt liegt auf KI-gestützter Gestaltung und praktischen Anwendungen. Wir freuen uns über wiederverwendbare Beiträge in Form von Werkzeugen, Arbeitsabläufen, Anleitungen, Referenzmaterial oder Code.",
+  "why_title": "Warum wir offen entwickeln",
+  "why": "Wir glauben, dass nützliche Arbeit an Wert gewinnt, wenn andere sie verstehen, nutzen und verbessern können. Unser Open-Source-Ansatz macht die Entscheidungen hinter einem Projekt nachvollziehbar und stellt die Materialien bereit, die zum Ausprobieren nötig sind.\n\n- **Den Einstieg erleichtern.** Erklären, was ein Projekt leistet, wem es hilft und wie der erste Schritt aussieht.\n- **Anpassbare Arbeit teilen.** Genug Kontext geben, damit Leser eine Idee weiterverwenden und ihre Grenzen verstehen können, statt nur ein Ergebnis zu sehen.\n- **Gemeinsam verbessern.** Fragen, Korrekturen und Beiträge zu Dokumentation, Beispielen, Design und Code willkommen heißen.\n\nDiese Grundsätze bestimmen, wie wir die Projekte dieser Organisation vorstellen und pflegen. Jedes Repository beschreibt seinen eigenen Umfang, die Einrichtung oder Nutzung, Quellen und Lizenz.",
+  "projects_title": "Unsere Open-Source-Projekte entdecken",
   "best_for": "Geeignet für:",
-  "browse": "Beispiele ansehen",
-  "project_descriptions": [
-    "Ein guter Einstieg, wenn du zwischen Erzählungen, Produktfilmen und gezielter Videobearbeitung wechseln möchtest. Stöbere in Kategorien wie Kino, Werbung, dokumentarische Szenen, Animation, Kamerasteuerung und Miniaturwelten und öffne ein Beispiel, das zu deiner Idee passt.\n\nDie Bibliothek verbindet erste Referenzbilder, vollständige Prompts und Analysen offizieller oder Community-Beispiele mit Quellenangaben. Lies nach, wie sich eine Einstellung im Laufe der Zeit entwickelt, was unverändert bleiben soll und wie der Ton die Handlung unterstützt. In „Amber perfume / mechanical eclipse“ bleibt eine Flasche an ihrem Platz, während ein Kupferring und eine Zitrusscheibe das Licht um sie herum verändern — eine konkrete Übung, um die Beständigkeit des Produkts von der Bewegung im Hintergrund zu trennen.",
-    "Entdecke szenenbezogene Prompts für Produktpräsentationen, Social-Media-Videos, Interaktionen zwischen Figuren und fantasievolle Umgebungen. Das Themenverzeichnis führt dich von einer groben Idee zu einem bebilderten Beispiel. Herunterladbare Texte erleichtern es, einen Prompt in deine eigenen Arbeitsnotizen zu übernehmen.\n\nDie Beispiele behandeln Bewegung ebenso wie Aussehen: den Weg der Kamera, das Tempo einer Handlung, die Kontinuität innerhalb einer Einstellung und die zur Szene gehörenden Geräusche. Für eine genaue Produktstudie eignet sich das Beispiel mit der Meerglasflasche. Eine andere Herausforderung bietet „The Last Tooth“ mit einem Uhrmacherduett: Verfolge den Dialog und die räumliche Beziehung der beiden Figuren innerhalb einer Szene.",
-    "Diese Sammlung hilft dir, aus Videobeispielen zu lernen und eine Idee in klare Regieanweisungen zu übersetzen. Community-Clips, Quellenlinks und nach Einstellungen gegliederte Prompts bieten Einstiege in Werbung, filmische Szenen und kurze Geschichten auf Grundlage eines Referenzbildes.\n\nBetrachte ein Beispiel zusammen mit seinem Prompt und frage dich, was die einzelnen Teile beitragen: die Anfangskomposition, die Haupthandlung, die Kameraposition und das Schlussbild. Beginne mit einer kurzen Requisitenübergabe, um eine einzelne Handlung zu untersuchen, oder öffne die Beispiele zum Reisetagebuch und zur Bühnenenthüllung, um zu sehen, wie mehrere Einstellungen eine Sequenz bilden. Das Repository enthält auch offizielle Beispiele und bebilderte Anleitungen, die dir helfen, das Gesehene mit deinen Beschreibungen zu verbinden."
-  ],
-  "project_audiences": [
-    "Kreative, die erzählerische Szenen, kurze Produktfilme oder Bearbeitungsexperimente planen und eine Einstellung im Detail untersuchen möchten.",
-    "Social-Media-Kreative und Designer, die wiederverwendbare Beispiele für Produkte, Figuren und Kamerabewegungen suchen.",
-    "Kreative, die gern anhand von Videoreferenzen lernen und Werbe- oder Erzählideen in einzelne Einstellungen aufteilen."
-  ],
-  "image_note": "Die Bilder sind Titelbilder der Prompt-Sammlungen. Klicke darauf, um Beispiele und Quellen zu sehen.",
+  "browse": "Projekt entdecken",
   "tools_title": "Auf SeaImagine gestalten",
   "tool_labels": [
     "Text zu Video",
@@ -36,15 +25,35 @@
     "Erkunde eine visuelle Richtung für eine Geschichte, ein Produkt oder eine Kampagne oder erstelle ein Referenzbild, bevor du ein Video planst.",
     "Passe ein vorhandenes Bild an deine nächste Idee an. Wähle einen verfügbaren Bearbeitungsablauf und beschreibe die gewünschten Änderungen."
   ],
-  "start_title": "Mit einem Beispiel beginnen",
+  "start_title": "Finde deinen Einstieg",
   "steps": [
-    "**Wähle eine Szene und untersuche ihre Bestandteile.** Öffne eine passende Bibliothek, lies das Beispiel und kopiere den Prompt. Bestimme Motiv, Anfangskomposition, Bewegung und Ende, bevor du etwas änderst.",
-    "**Bereite deine eigenen Eingaben vor.** Wähle auf SeaImagine ein Modell und gib deinen angepassten Text ein oder lade ein Referenzbild hoch. Prüfe die verfügbaren Einstellungen, Eingabeanforderungen und aktuellen Nutzungskosten des gewählten Modells.",
-    "**Prüfe das Ergebnis und ändere dann eine Sache.** Vergleiche es mit deiner beabsichtigten Komposition, der Beständigkeit des Motivs und der Kamerabewegung. Prüfe auch den Ton, wenn der gewählte Ablauf ihn unterstützt. Speichere Prompt, Eingaben und Einstellungen zusammen mit dem Ergebnis, um einen hilfreichen Ansatz wiederholen zu können."
+    "**Ein Projekt erkunden.** Wähle eine Ressource passend zu deinem Ziel, lies die Dokumentation und prüfe die Voraussetzungen. Beginne mit einem kleinen Beispiel, bevor du es auf eine größere Aufgabe überträgst.",
+    "**Auf SeaImagine gestalten.** Wenn du ein Bild oder Video erstellen möchtest, nutze die Kreativwerkzeuge der Website. Wähle einen Ablauf für deinen Text oder dein Referenzmaterial und prüfe die verfügbaren Einstellungen und Nutzungskosten.",
+    "**Zur Verbesserung beitragen.** Melde ein nachvollziehbares Problem, schlage verständlichere Dokumentation vor oder reiche eine Änderung im passenden Repository ein. Beschreibe, was du ausprobiert hast und wobei dein Beitrag anderen hilft."
   ],
-  "contribute_title": "Wissen teilen",
-  "contribute": "Hilfreiche Beiträge erleichtern es den nächsten Lesern, eine Idee zu verstehen und nachzuvollziehen. Öffne im passenden Repository ein Issue, um eine Frage zu stellen oder einen defekten Verweis zu melden. Schlage verständlichere Übersetzungen vor oder teile ein Beispiel mit einem anderen gestalterischen Ansatz.\n\nFüge bei einem neuen Beispiel den Prompt, relevante Einstellungen, die Quelle verwendeter Referenzmaterialien und eine kurze Erklärung deiner Erkenntnisse hinzu. Wenn du Repository-Dateien änderst, reiche einen Pull Request ein, damit die Änderungen geprüft werden können. Prüfe vor der Weiterverwendung von Inhalten die Lizenz des jeweiligen Repositorys und die Nutzungsbedingungen des Quellmaterials.",
-  "footer": "Beginne mit einer Einstellung und teile hilfreiche Methoden mit anderen Kreativen.",
+  "contribute_title": "Gemeinsam entwickeln und beitragen",
+  "contribute": "Kreative, Entwickler, Designer und neugierige Einsteiger sind willkommen. Ein hilfreicher Beitrag kann eine verständlichere Erklärung, eine Übersetzung, eine korrigierte Quellenangabe, ein nachvollziehbares Beispiel oder eine Codeverbesserung sein. Beginne mit dem Repository, das dich am meisten interessiert, und lies seine Hinweise zur Mitarbeit.\n\nErstelle ein Issue, um eine Frage zu stellen, ein Problem zu melden oder eine Idee zu besprechen. Für eine vorgeschlagene Dateiänderung öffne einen Pull Request mit einer kurzen Erklärung und relevanten Prüfergebnissen. Gib bei externem Material die Quellen an und beachte die Lizenz und Nutzungsbedingungen des Projekts.",
+  "footer": "Mit SeaImagine gemeinsam gestalten, lernen und entwickeln.",
   "try_model": "Mit diesem Modell gestalten",
-  "prompt_languages": "Die Übersichtsseiten sind in 15 Sprachen verfügbar. Die Sprachen der Prompts und übersetzten Beispiele unterscheiden sich je nach Repository; jede Bibliothek erläutert ihren eigenen Umfang."
+  "projects": {
+    "gemini-omni": {
+      "description": "Ein guter Einstieg, wenn du zwischen Erzählungen, Produktfilmen und gezielter Videobearbeitung wechseln möchtest. Stöbere in Kategorien wie Kino, Werbung, dokumentarische Szenen, Animation, Kamerasteuerung und Miniaturwelten und öffne ein Beispiel, das zu deiner Idee passt.\n\nDie Bibliothek verbindet erste Referenzbilder, vollständige Prompts und Analysen offizieller oder Community-Beispiele mit Quellenangaben. Lies nach, wie sich eine Einstellung im Laufe der Zeit entwickelt, was unverändert bleiben soll und wie der Ton die Handlung unterstützt. In „Amber perfume / mechanical eclipse“ bleibt eine Flasche an ihrem Platz, während ein Kupferring und eine Zitrusscheibe das Licht um sie herum verändern — eine konkrete Übung, um die Beständigkeit des Produkts von der Bewegung im Hintergrund zu trennen.",
+      "audience": "Kreative, die erzählerische Szenen, kurze Produktfilme oder Bearbeitungsexperimente planen und eine Einstellung im Detail untersuchen möchten."
+    },
+    "grok-imagine": {
+      "description": "Entdecke szenenbezogene Prompts für Produktpräsentationen, Social-Media-Videos, Interaktionen zwischen Figuren und fantasievolle Umgebungen. Das Themenverzeichnis führt dich von einer groben Idee zu einem bebilderten Beispiel. Herunterladbare Texte erleichtern es, einen Prompt in deine eigenen Arbeitsnotizen zu übernehmen.\n\nDie Beispiele behandeln Bewegung ebenso wie Aussehen: den Weg der Kamera, das Tempo einer Handlung, die Kontinuität innerhalb einer Einstellung und die zur Szene gehörenden Geräusche. Für eine genaue Produktstudie eignet sich das Beispiel mit der Meerglasflasche. Eine andere Herausforderung bietet „The Last Tooth“ mit einem Uhrmacherduett: Verfolge den Dialog und die räumliche Beziehung der beiden Figuren innerhalb einer Szene.",
+      "audience": "Social-Media-Kreative und Designer, die wiederverwendbare Beispiele für Produkte, Figuren und Kamerabewegungen suchen."
+    },
+    "seedance": {
+      "description": "Diese Sammlung hilft dir, aus Videobeispielen zu lernen und eine Idee in klare Regieanweisungen zu übersetzen. Community-Clips, Quellenlinks und nach Einstellungen gegliederte Prompts bieten Einstiege in Werbung, filmische Szenen und kurze Geschichten auf Grundlage eines Referenzbildes.\n\nBetrachte ein Beispiel zusammen mit seinem Prompt und frage dich, was die einzelnen Teile beitragen: die Anfangskomposition, die Haupthandlung, die Kameraposition und das Schlussbild. Beginne mit einer kurzen Requisitenübergabe, um eine einzelne Handlung zu untersuchen, oder öffne die Beispiele zum Reisetagebuch und zur Bühnenenthüllung, um zu sehen, wie mehrere Einstellungen eine Sequenz bilden. Das Repository enthält auch offizielle Beispiele und bebilderte Anleitungen, die dir helfen, das Gesehene mit deinen Beschreibungen zu verbinden.",
+      "audience": "Kreative, die gern anhand von Videoreferenzen lernen und Werbe- oder Erzählideen in einzelne Einstellungen aufteilen."
+    }
+  },
+  "categories": {
+    "prompt_libraries": {
+      "title": "Prompt-Sammlungen und kreative Referenzen",
+      "intro": "Für Kreative, die KI-Video erkunden möchten, vereinen diese Sammlungen bebilderte Szenen, wiederverwendbare Prompts und Beispiele mit Quellenlinks. Die Titelbilder führen zu den vollständigen Projekten; sie sind Illustrationen, keine Ergebnisse generierter Videos. Die Sprachen der Prompts und die verfügbaren Übersetzungen unterscheiden sich je nach Repository."
+    }
+  },
+  "projects_intro": "Wähle ein Projekt danach aus, was du lernen oder erreichen möchtest. Die folgenden Beschreibungen zeigen, was du dort findest und für wen es nützlich ist. Im Repository stehen die Dokumentation und Hinweise zum Mitmachen. Alle Repositories bieten einen Überblick über neue Projekte und Aktualisierungen."
 }

@@ -4,9 +4,9 @@
 
 # SeaImagine
 
-**حوّل فكرة إلى صور وفيديوهات، وتعلّم من تعليمات يمكنك إعادة استخدامها.**
+**أبدع بالذكاء الاصطناعي. نستكشف الأفكار ونطوّر معًا ونشارك الطرق المفيدة.**
 
-[![زيارة SeaImagine](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/badges/882c098c26c159b7.svg)](https://seaimagine.com/ar/) [![مكتبات مفتوحة المصدر](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/badges/695c897fd9e5bd30.svg)](https://github.com/seaimagineai?tab=repositories)
+[![زيارة SeaImagine](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/badges/882c098c26c159b7.svg)](https://seaimagine.com/ar/) [![مشاريع مفتوحة المصدر](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/badges/1a1dea79e7c6e19a.svg)](https://github.com/seaimagineai?tab=repositories)
 
 </div>
 
@@ -18,29 +18,31 @@
 
 <div dir="rtl">
 
-## ابدأ الإبداع مع SeaImagine
+## SeaImagine: من الفكرة الإبداعية إلى التطبيق العملي
 
-SeaImagine منصة عبر الإنترنت لإنشاء الصور والفيديو بالذكاء الاصطناعي، موجهة إلى المبدعين والمصممين والفرق الصغيرة. ابدأ بفكرة مكتوبة أو صورة منتج أو صورة مرجعية لشخصية، ثم اختر طريقة إنشاء صورة أو فيديو لتطويرها. يمكنك استكشاف تصور بصري لحملة، أو التخطيط لقصة قصيرة، أو تجربة أسلوب جديد لمنشور على وسائل التواصل.
+SeaImagine منصة عبر الإنترنت لإنشاء الصور والفيديو بالذكاء الاصطناعي، موجهة لصنّاع المحتوى والمصممين والفرق الصغيرة. ابدأ بفكرة مكتوبة أو صورة منتج أو صورة مرجعية لشخصية، ثم جرّب طرقًا مختلفة لتحويلها إلى عمل بصري، من صورة لحملة إعلانية إلى قصة قصيرة أو فيديو لوسائل التواصل الاجتماعي.
 
-وتوفر هذه المؤسسة على GitHub مكتبة تعلم مرافقة: أمثلة مصورة، وأوامر نصية قابلة لإعادة الاستخدام، ودراسات فيديو مرتبطة بمصادرها لتقرأها قبل البدء. استخدم الموقع لصنع أعمالك، واستخدم المستودعات لفهم كيفية وصف المشهد: ما الذي يبقى في الإطار، وما الذي يتحرك، وكيف تتصرف الكاميرا، ومتى يتغير الصوت.
+مؤسستنا على GitHub مساحة لمن يريد فهم طريقة العمل وتكييف الأساليب مع احتياجاته والمشاركة في تحسينها. نجمع هنا مشاريع SeaImagine العامة، ليتسنى للمبدعين والمطورين العثور على نقطة انطلاق مفيدة، والتعلم من الأساليب المستخدمة فيها، والمساهمة في تطويرها. نركز على الإبداع بالذكاء الاصطناعي وتطبيقاته العملية، ونرحب بالمساهمات القابلة لإعادة الاستخدام، سواء كانت أدوات أو خطوات عمل أو شروحات تعليمية أو مواد مرجعية أو كودًا.
 
-## لماذا نشارك خطوات العمل الإبداعي
+## لماذا نطوّر مشاريعنا بشكل مفتوح
 
-يكشف الأمر النصي المفيد عن القرارات الإبداعية بوضوح. يصبح المشهد أسهل فهمًا عندما تُعرض صورته المرجعية وحركته وتوقيته وصوته معًا. تجمع مكتباتنا هذه المواد لتوضح كيف تتحول الفكرة إلى تعليمات إخراج.
+نؤمن بأن العمل المفيد يصبح أكثر قيمة عندما يستطيع الآخرون فهمه واستخدامه وتحسينه. يهدف نهجنا في المشاريع مفتوحة المصدر إلى توضيح القرارات التي بُني عليها كل مشروع، إلى جانب توفير المواد اللازمة لتجربته.
 
-- **مراجع بصرية.** تمنح الأمثلة المصورة والإطارات الافتتاحية الوصف المكتوب مشهدًا ملموسًا.
-- **أوامر نصية يمكنك الاحتفاظ بها.** توفر النصوص الكاملة والأمثلة القابلة للتنزيل بداية لملاحظات عملك الخاصة.
-- **مصادر يمكنك استكشافها.** تتيح الأمثلة الرسمية وأمثلة المجتمع المنسوبة إلى أصحابها متابعة العمل الأصلي وفهم سياقه.
+- **تسهيل البداية.** نوضح ما يقدمه المشروع، ومن يستفيد منه، وكيف يتخذ الخطوة الأولى.
+- **مشاركة أعمال قابلة للتكييف.** نوفر سياقًا كافيًا لإعادة استخدام الفكرة وفهم حدودها، بدلًا من الاكتفاء بعرض النتيجة.
+- **التحسين عبر التعاون.** نرحب بالأسئلة والتصحيحات والمساهمات في التوثيق والأمثلة والتصميم والكود.
 
-نرحب بتحسين الترجمات، وتوضيح الشروح، وإضافة أمثلة جديدة. مشاركة القرارات وراء المشهد تجعل المجموعة أكثر فائدة للمبدع التالي.
+توجّه هذه المبادئ طريقة عرض مشاريع المؤسسة وصيانتها. ويوضح كل مستودع نطاقه وطريقة تثبيته أو استخدامه ومصادره وترخيصه.
 
-## استكشف مكتبات التعليمات
+## استكشف مشاريعنا مفتوحة المصدر
 
-الصور هي أغلفة مكتبات التعليمات. انقر عليها للاطلاع على الأمثلة ومصادرها.
+اختر المشروع وفقًا لما تريد تعلمه أو إنجازه. توضح المقدمات أدناه محتوى كل مشروع ولمن يفيد؛ افتح المستودع للاطلاع على التوثيق وإرشادات المساهمة. ويمكنك تصفح جميع المستودعات للاطلاع على أحدث الإضافات والتحديثات.
 
-تتوفر صفحات التعريف بـ 15 لغة. تختلف لغات الأوامر النصية والأمثلة المترجمة من مستودع إلى آخر؛ وتوضح كل مكتبة نطاقها.
+### مكتبات الأوامر النصية والمراجع الإبداعية
 
-### [Gemini Omni](https://github.com/seaimagineai/awesome-gemini-omni-prompts/blob/main/README_AR.md)
+لمن يستكشف إنشاء الفيديو بالذكاء الاصطناعي، تجمع هذه المكتبات مشاهد مصوّرة وأوامر نصية قابلة لإعادة الاستخدام وأمثلة مرتبطة بمصادرها. اضغط على صورة الغلاف لفتح المشروع كاملًا؛ الأغلفة صور توضيحية وليست نتائج لتوليد الفيديو. تختلف لغات الأوامر النصية ونطاق الترجمات من مستودع إلى آخر.
+
+#### [Gemini Omni](https://github.com/seaimagineai/awesome-gemini-omni-prompts/blob/main/README_AR.md)
 
 [![Gemini Omni](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/gemini-omni.png)](https://github.com/seaimagineai/awesome-gemini-omni-prompts/blob/main/README_AR.md)
 
@@ -50,9 +52,9 @@ SeaImagine منصة عبر الإنترنت لإنشاء الصور والفيد
 
 **مناسب لـ:** المبدعون الذين يخططون لمشاهد سردية أو أفلام منتجات قصيرة أو تجارب تحرير، ويريدون دراسة اللقطة بالتفصيل.
 
-[![استعراض الأمثلة](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/badges/daba28ddc8aab5fb.svg)](https://github.com/seaimagineai/awesome-gemini-omni-prompts/blob/main/README_AR.md) [![أنشئ بهذا النموذج](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/badges/909345655d6845d6.svg)](https://seaimagine.com/ar/model/gemini-omni-1-1-flash/)
+[![استكشف المشروع](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/badges/b4464288c75f153b.svg)](https://github.com/seaimagineai/awesome-gemini-omni-prompts/blob/main/README_AR.md) [![أنشئ بهذا النموذج](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/badges/909345655d6845d6.svg)](https://seaimagine.com/ar/model/gemini-omni-1-1-flash/)
 
-### [Grok Imagine 1.5](https://github.com/seaimagineai/awesome-grok-imagine-prompts/blob/main/README.ar.md)
+#### [Grok Imagine 1.5](https://github.com/seaimagineai/awesome-grok-imagine-prompts/blob/main/README.ar.md)
 
 [![Grok Imagine 1.5](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/grok-imagine.webp)](https://github.com/seaimagineai/awesome-grok-imagine-prompts/blob/main/README.ar.md)
 
@@ -62,9 +64,9 @@ SeaImagine منصة عبر الإنترنت لإنشاء الصور والفيد
 
 **مناسب لـ:** صناع محتوى التواصل والمصممون الباحثون عن أمثلة قابلة لإعادة الاستخدام للمنتجات والشخصيات وحركة الكاميرا.
 
-[![استعراض الأمثلة](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/badges/c9c5dee373145e41.svg)](https://github.com/seaimagineai/awesome-grok-imagine-prompts/blob/main/README.ar.md) [![أنشئ بهذا النموذج](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/badges/909345655d6845d6.svg)](https://seaimagine.com/ar/model/grok-imagine-1-5/)
+[![استكشف المشروع](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/badges/8db8def6be6c9236.svg)](https://github.com/seaimagineai/awesome-grok-imagine-prompts/blob/main/README.ar.md) [![أنشئ بهذا النموذج](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/badges/909345655d6845d6.svg)](https://seaimagine.com/ar/model/grok-imagine-1-5/)
 
-### [Seedance 2.5](https://github.com/seaimagineai/awesome-seedance-2-5-prompts/blob/main/README_AR.md)
+#### [Seedance 2.5](https://github.com/seaimagineai/awesome-seedance-2-5-prompts/blob/main/README_AR.md)
 
 [![Seedance 2.5](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/seedance.jpg)](https://github.com/seaimagineai/awesome-seedance-2-5-prompts/blob/main/README_AR.md)
 
@@ -74,7 +76,9 @@ SeaImagine منصة عبر الإنترنت لإنشاء الصور والفيد
 
 **مناسب لـ:** المبدعون الذين يفضلون التعلم بمشاهدة المراجع وتقسيم أفكار الإعلانات أو القصص إلى لقطات منفردة.
 
-[![استعراض الأمثلة](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/badges/b846998d863a7507.svg)](https://github.com/seaimagineai/awesome-seedance-2-5-prompts/blob/main/README_AR.md) [![أنشئ بهذا النموذج](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/badges/909345655d6845d6.svg)](https://seaimagine.com/ar/model/seedance-2-5/)
+[![استكشف المشروع](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/badges/12ebc1666bf3c27a.svg)](https://github.com/seaimagineai/awesome-seedance-2-5-prompts/blob/main/README_AR.md) [![أنشئ بهذا النموذج](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/badges/909345655d6845d6.svg)](https://seaimagine.com/ar/model/seedance-2-5/)
+
+[![مشاريع مفتوحة المصدر](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/badges/1a1dea79e7c6e19a.svg)](https://github.com/seaimagineai?tab=repositories)
 
 ## أنشئ على SeaImagine
 
@@ -87,17 +91,17 @@ SeaImagine منصة عبر الإنترنت لإنشاء الصور والفيد
 
 [![زيارة SeaImagine](https://raw.githubusercontent.com/seaimagineai/.github/main/assets/badges/882c098c26c159b7.svg)](https://seaimagine.com/ar/create/)
 
-## ابدأ بمثال واحد
+## اختر نقطة البداية المناسبة
 
-1. **اختر مشهدًا واحدًا وادرس عناصره.** افتح المكتبة المناسبة، واقرأ المثال، وانسخ أمره النصي. حدد الموضوع والتكوين الافتتاحي والحركة والنهاية قبل إجراء تغييرات.
-2. **جهّز مدخلاتك الخاصة.** اختر نموذجًا على SeaImagine وأدخل النص المعدّل أو ارفع صورة مرجعية. راجع إعدادات النموذج المتاحة ومتطلبات الإدخال وتكلفة الاستخدام الحالية.
-3. **راجع النتيجة ثم غيّر شيئًا واحدًا.** قارنها بالتكوين واتساق الموضوع وحركة الكاميرا التي قصدتها؛ وافحص الصوت عندما تدعمه طريقة العمل المختارة. احفظ الأمر النصي والمدخلات والإعدادات مع النتيجة لتتمكن من تكرار الأسلوب المفيد.
+1. **استكشف مشروعًا.** اختر موردًا يناسب هدفك، واقرأ توثيقه وتحقق من متطلباته. ابدأ بمثال صغير قبل تكييفه لمهمة أكبر.
+2. **أنشئ أعمالك على SeaImagine.** إذا أردت إنشاء صورة أو فيديو، فاستخدم أدوات الموقع الإبداعية. اختر طريقة العمل المناسبة للنص أو المادة المرجعية، وتحقق من الإعدادات المتاحة وتكلفة الاستخدام.
+3. **شارك في التحسين.** أبلغ عن مشكلة يمكن إعادة إنتاجها، أو اقترح توثيقًا أوضح، أو ساهم بتعديل في المستودع المعني. اشرح ما جرّبته وما الذي تساعد مساهمتك الآخرين على إنجازه.
 
-## شارك ما تعلّمته
+## طوّر وساهم معنا
 
-تساعد المساهمات المفيدة القارئ التالي على فهم الفكرة وإعادة تنفيذها. افتح مسألة (Issue) في المستودع المعني لطرح سؤال أو الإبلاغ عن مرجع معطّل؛ واقترح ترجمات أوضح أو شارك مثالًا يقدم طريقة إبداعية مختلفة.
+نرحب بالمبدعين والمطورين والمصممين والمبتدئين الراغبين في التعلم. قد تكون المساهمة المفيدة شرحًا أوضح، أو ترجمة، أو تصحيحًا لمصدر، أو مثالًا يمكن إعادة إنتاجه، أو تحسينًا للكود. ابدأ بالمستودع الأقرب إلى اهتمامك واقرأ إرشادات المساهمة فيه.
 
-عند إضافة مثال جديد، أرفق الأمر النصي والإعدادات ذات الصلة ومصدر أي مادة مرجعية وشرحًا قصيرًا لما تعلمته. إذا عدّلت ملفات المستودع، فأرسل طلب تعديل (Pull Request) لإتاحة مراجعتها. قبل إعادة استخدام المحتوى، تحقق من ترخيص كل مستودع وشروط استخدام المواد الأصلية.
+استخدم قسم Issues لطرح سؤال أو الإبلاغ عن مشكلة أو مناقشة فكرة. ولتقديم تعديل على الملفات، افتح طلب تعديل (Pull Request) مع شرح موجز ونتائج الفحوص ذات الصلة. اذكر مصادر المواد الخارجية، والتزم بترخيص المشروع ومتطلبات استخدامه.
 
 [Gemini Omni](https://github.com/seaimagineai/awesome-gemini-omni-prompts/issues) · [Grok Imagine 1.5](https://github.com/seaimagineai/awesome-grok-imagine-prompts/issues) · [Seedance 2.5](https://github.com/seaimagineai/awesome-seedance-2-5-prompts/issues)
 
@@ -105,8 +109,8 @@ SeaImagine منصة عبر الإنترنت لإنشاء الصور والفيد
 
 <div align="center">
 
-<strong>ابدأ بلقطة واحدة، ثم شارك الأساليب المفيدة مع مبدعين آخرين.</strong>
+<strong>أبدع وتعلّم وطوّر مع SeaImagine.</strong>
 
-<a href="https://seaimagine.com/ar/">زيارة SeaImagine</a> · <a href="https://github.com/seaimagineai?tab=repositories">مكتبات مفتوحة المصدر</a>
+<a href="https://seaimagine.com/ar/">زيارة SeaImagine</a> · <a href="https://github.com/seaimagineai?tab=repositories">مشاريع مفتوحة المصدر</a>
 
 </div>
